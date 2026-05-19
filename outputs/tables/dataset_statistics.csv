@@ -1,0 +1,3 @@
+dataset,num_samples,num_labels,vocab_size,avg_doc_length_tfidf_tokens,min_doc_length_tfidf_tokens,max_doc_length_tfidf_tokens,train_samples,test_samples
+imdb,10550,11,40586,55.71,9,553,8440,2110
+wiki,10077,11,65674,221.98,7,2749,8062,2015

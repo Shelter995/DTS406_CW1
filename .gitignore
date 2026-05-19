@@ -1,0 +1,8 @@
+/.venv/
+/.idea/
+/docs/assets/
+/data/Genre Classification Dataset/
+/data/processed/
+/data/Wiki Movie Plots/
+/outputs/results/deep_learning/
+/outputs/results/traditional/
