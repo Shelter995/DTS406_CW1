@@ -1,0 +1,2001 @@
+sample_id,title,true_label,predicted_label,correct
+test_data_solution:43604,Vagrant (2008),horror,crime,False
+test_data_solution:13686,Bullet Code (1940),western,western,True
+train_data:47941,The Challenge of Chance (1919),western,western,True
+test_data_solution:36475,The Riding Tornado (1932),western,western,True
+test_data_solution:1621,The Waiting Place (????),thriller,drama,False
+test_data_solution:31698,Rough Mix (2016),thriller,action,False
+test_data_solution:2365,Elite (2017),action,action,True
+train_data:49227,Satellite Rush (????),action,science_fiction,False
+test_data_solution:35615,Balyakalasakhi (2014),romance,romance,True
+train_data:7774,"""The Law and Mr. Jones"" (1960)",drama,crime,False
+test_data_solution:52517,Final Change (2018),adventure,romance,False
+train_data:51077,NH-8: Road to Nidhivan (2015),horror,horror,True
+test_data_solution:16567,Western Courage (1935),western,western,True
+test_data_solution:3538,Láska (1973),romance,romance,True
+train_data:3271,Zubeko banchô: hamagure kazoe uta (1971),crime,action,False
+test_data_solution:19426,My First Romance (2003),romance,romance,True
+test_data_solution:7173,Thiriotrofeio arrenon enantion thileon (1985),comedy,drama,False
+train_data:15623,Ocassus (????/II),science_fiction,science_fiction,True
+train_data:27125,Mr. Bond (1992),action,crime,False
+test_data_solution:23053,Tillie and Gus (1933),comedy,comedy,True
+train_data:17498,The Marriage Chronicles (2012),comedy,comedy,True
+train_data:29693,Spark Riders (2010),science_fiction,horror,False
+train_data:27360,Flashout (2018),science_fiction,science_fiction,True
+test_data_solution:45275,"""The Few"" (2016)",science_fiction,science_fiction,True
+test_data_solution:33195,Rango (1931),adventure,adventure,True
+test_data_solution:9659,La troca perrona (2003),action,comedy,False
+test_data_solution:47947,Wolf Wolf (2013),thriller,comedy,False
+test_data_solution:5394,Cables (????),thriller,thriller,True
+test_data_solution:23511,Red Dust (2004),drama,adventure,False
+test_data_solution:2089,BLINK (????),thriller,thriller,True
+test_data_solution:13451,Nenjinile (1999),crime,action,False
+test_data_solution:48331,Lost Ranch (1937),western,western,True
+test_data_solution:18604,Alien Uprising (2008),science_fiction,science_fiction,True
+train_data:15539,The Hospital (2013),horror,horror,True
+train_data:14973,"The Wretched Auteur's 81,000 Frames (2011)",horror,comedy,False
+test_data_solution:20716,Clown (2007),horror,horror,True
+train_data:49310,Great Day (1945),drama,drama,True
+train_data:11917,Agente 077 missione Bloody Mary (1965),adventure,action,False
+train_data:19983,Le tre spade di Zorro (1963),western,action,False
+train_data:44694,Antaries (2018),science_fiction,thriller,False
+train_data:44987,Prisoners of the Casbah (1953),adventure,adventure,True
+test_data_solution:11,The Firm Man (1975),drama,thriller,False
+train_data:24299,"""Familiar Waters"" (2004)",adventure,adventure,True
+test_data_solution:2056,Prem Geet (2016),romance,romance,True
+train_data:16928,More to Love (2014),romance,romance,True
+train_data:13620,"""Chen mo"" (2010)",crime,crime,True
+test_data_solution:37288,Big Gay Love (2013),comedy,comedy,True
+train_data:9160,The World Is Ending Tomorrow (2017),drama,adventure,False
+train_data:10457,Sexbomb (1989),horror,horror,True
+train_data:9029,Gun Packer (1938),western,western,True
+test_data_solution:10970,The Cape Canaveral Monsters (1960),science_fiction,science_fiction,True
+test_data_solution:12791,Anything for Love (1993),comedy,comedy,True
+train_data:35291,"""Paradigm"" (2017)",thriller,horror,False
+test_data_solution:52652,Sleepstalker (1995),horror,horror,True
+train_data:26885,Iron Courage Voice Warrior Sam (2017),adventure,adventure,True
+test_data_solution:52291,South of St. Louis (1949),western,western,True
+test_data_solution:8183,Yotsuya kaidan (1956),horror,horror,True
+test_data_solution:5587,Med sina bara händer (2007),thriller,crime,False
+train_data:11160,"""Going Places"" (1990)",comedy,comedy,True
+train_data:26552,Abductor (2016),comedy,adventure,False
+train_data:14073,Awesome Mausam (2016),romance,romance,True
+test_data_solution:20475,Lethal Force (2001),action,horror,False
+train_data:22514,The Perfect Tenant (2000),thriller,horror,False
+train_data:39148,2090 (1996),science_fiction,science_fiction,True
+test_data_solution:34996,Wild Justice (2014),action,action,True
+train_data:29372,Neighbourhood (????),crime,action,False
+train_data:28966,Every Mother's Worst Fear (1998),thriller,thriller,True
+test_data_solution:31594,Donors (2014),thriller,thriller,True
+test_data_solution:28768,Meri Adaalat (2001),action,crime,False
+train_data:39130,Plus de vacances pour le Bon Dieu (1950),comedy,drama,False
+test_data_solution:20275,The Eternal Grind (1916),drama,drama,True
+test_data_solution:40381,Comic Book: The Movie (2004),comedy,adventure,False
+train_data:16202,"""Mandrake"" (2005)",crime,crime,True
+train_data:7268,Tarzan's Desert Mystery (1943),adventure,adventure,True
+train_data:7854,"""Gavilan"" (1982)",adventure,thriller,False
+test_data_solution:30236,Restrained Couples (2010),adventure,adventure,True
+train_data:17228,Dreamland (????/I),science_fiction,science_fiction,True
+test_data_solution:12949,"""Wooriheeojyeosseoyo"" (2015)",romance,romance,True
+train_data:4972,"""Project Mammoth: Awakening"" (2016)",science_fiction,science_fiction,True
+test_data_solution:19580,The Howling (1981),horror,thriller,False
+test_data_solution:19085,Spellbinder vs. the Dark Lady (1995),adventure,adventure,True
+train_data:53901,Eyes Only (2011),science_fiction,action,False
+test_data_solution:9714,Death Grip (2012),action,horror,False
+train_data:25928,Garam Coat (1955),drama,drama,True
+test_data_solution:27496,"""Cowboy and Lucky"" (2010)",action,western,False
+train_data:47599,Killers of Kilimanjaro (1959),adventure,adventure,True
+test_data_solution:6848,Felino (2009),crime,horror,False
+test_data_solution:48963,"""Series Regular"" (2013)",comedy,comedy,True
+train_data:37396,The Legend of Spyro: Dawn of the Dragon (2008),adventure,action,False
+test_data_solution:4111,Disk Hunt (2010),adventure,adventure,True
+train_data:53814,The Identity Game (????),thriller,crime,False
+train_data:53544,Ulterior Motives (2008),crime,crime,True
+test_data_solution:19795,Gegen den Strom (1997),crime,crime,True
+test_data_solution:7772,Reencarnación: Una historia de amor (2013),crime,adventure,False
+train_data:50552,Little Boy Lost (1978),drama,horror,False
+test_data_solution:99,The Ouija Experiment 2: Theatre of Death (2015),horror,horror,True
+test_data_solution:17207,Kvinna i leopard (1958),thriller,thriller,True
+train_data:33647,Murders of Innocence (????),thriller,crime,False
+train_data:20453,Kousek nebe (2005),romance,romance,True
+test_data_solution:13527,The In-Between (2016/I),adventure,comedy,False
+test_data_solution:26243,Beerituality (2010),comedy,comedy,True
+train_data:8112,Gambling Lady (1934),drama,romance,False
+train_data:27886,Tchermak anurjner (1985),romance,drama,False
+train_data:7057,"""Wars"" (2018)",science_fiction,science_fiction,True
+test_data_solution:2106,The Ladytrap (2002),adventure,adventure,True
+test_data_solution:26558,Succubus: The Demon (2006),horror,horror,True
+test_data_solution:35693,Disparen a matar (1990),action,crime,False
+train_data:30647,Bronx Paradise (2010),comedy,thriller,False
+train_data:11721,Lazhovni istorii (1977),comedy,drama,False
+train_data:44359,The Crooked Mile (2001),comedy,crime,False
+train_data:20433,"""Marimar"" (1994)",romance,romance,True
+test_data_solution:6829,Uma Vida em Segredo (2001),drama,drama,True
+train_data:21109,Blitz (????),action,thriller,False
+train_data:16246,Charminar (2003),action,romance,False
+test_data_solution:6125,The Rise and Rule of Ancient Empires (1996),adventure,adventure,True
+train_data:21817,Three Deaths and a Date (2007),comedy,drama,False
+test_data_solution:10678,Cross the Line (2010),action,crime,False
+test_data_solution:49211,Boogie Man (2017),romance,drama,False
+test_data_solution:753,Mama i tata (2006),drama,comedy,False
+train_data:15850,Daniel and Abraham (2009),drama,thriller,False
+test_data_solution:28830,"""Al-Dayah"" (2008)",drama,comedy,False
+train_data:17931,Proyecto Interpol Mexico (????),crime,action,False
+test_data_solution:27522,"""Riviera Police"" (1965)",crime,action,False
+train_data:29560,Galaxy Zero (2017),science_fiction,science_fiction,True
+test_data_solution:31497,Los 7 apellidos vascos de Borja Cobeaga (2014),crime,comedy,False
+test_data_solution:31429,Marina (1947),drama,romance,False
+train_data:14480,Moving Target (2000),action,romance,False
+test_data_solution:14282,Lucky (2011/III),comedy,thriller,False
+test_data_solution:49784,Michel Strogoff (1926),adventure,drama,False
+train_data:40805,Chloro Bondage Casebook (2008),adventure,adventure,True
+test_data_solution:42144,Asylum Days (2001),thriller,horror,False
+train_data:21362,Sick Bastard (2007),horror,action,False
+test_data_solution:17829,The Scarlet Spear (1954),adventure,adventure,True
+train_data:18997,Sacred Assassin (2012),action,action,True
+test_data_solution:25516,"""Centro de Alumnos"" (2012)",comedy,comedy,True
+test_data_solution:31509,Trained to Kill (2017),action,action,True
+test_data_solution:6835,"""Subject 5"" (2014)",action,action,True
+train_data:13645,Danger Trails (1935),western,western,True
+train_data:16197,Isle of Fury (1936),adventure,adventure,True
+train_data:11484,Star of Texas (1953),western,western,True
+train_data:6769,The Highway of Hope (1917),western,western,True
+train_data:7474,Ullathai Allitha (1996),comedy,comedy,True
+test_data_solution:37601,Thatrom Thookrom (2018),action,thriller,False
+train_data:30895,Kanjon opasnih igara (1998),adventure,adventure,True
+test_data_solution:33151,La última mirada (2011),thriller,western,False
+train_data:7518,"""Kahe Naa Kahe"" (2007)",drama,romance,False
+test_data_solution:38108,"""Vmeste navsegda"" (2013)",action,romance,False
+train_data:16188,Seven Fights with Nine Tail Fox (2016),action,action,True
+train_data:17096,Igrek 17 (1973),crime,action,False
+test_data_solution:44535,Paapi - Ek Satya Katha (2013),crime,romance,False
+test_data_solution:2238,Metamorphosis A.D. (2017),science_fiction,action,False
+train_data:8992,"""Breezy"" (2013)",comedy,comedy,True
+test_data_solution:1676,Shakedown: Return of the Sontarans (1994),science_fiction,science_fiction,True
+train_data:29503,The Legend of Wasco (2015),horror,horror,True
+test_data_solution:16404,Possessions (2012),drama,drama,True
+test_data_solution:33052,Umma (2011),drama,drama,True
+train_data:42201,"Storm Surfers, Dangerous Banks (2008)",adventure,adventure,True
+test_data_solution:15276,L'arlésienne (1942),drama,romance,False
+train_data:53846,The Miso Soup (????),thriller,horror,False
+test_data_solution:45850,2499 antapan krong muang (1997),action,action,True
+train_data:46506,Soundtrack to Sixteen (????),romance,romance,True
+test_data_solution:26308,Fatal Premonitions (2017),horror,horror,True
+train_data:10925,Tarsi se ekstrasens (2002),comedy,comedy,True
+train_data:54017,The Lagoon (2018),adventure,adventure,True
+test_data_solution:26514,Elephants (2018),romance,romance,True
+test_data_solution:42469,The Dorm That Dripped Blood (1982),horror,horror,True
+test_data_solution:21098,Psychon Invaders (2006),science_fiction,science_fiction,True
+train_data:1758,The Cheyenne Tornado (1935),western,western,True
+test_data_solution:33271,"""Love Match"" (2003)",adventure,action,False
+test_data_solution:52118,Le avventure di Cartouche (1955),adventure,crime,False
+test_data_solution:2876,Bloodthirsty & Dangerous (????),horror,adventure,False
+train_data:13287,A törökfejes kopja (1974),adventure,adventure,True
+train_data:10625,A Nice Little Earner (????),drama,thriller,False
+train_data:2891,Billy the Kid Outlawed (1940),western,western,True
+train_data:5273,InvaXon - Alieni in Liguria (2004),science_fiction,science_fiction,True
+test_data_solution:53247,"""Operating Naked: A Black Bag Job"" (2018)",crime,crime,True
+test_data_solution:1478,Angels (2012/I),crime,action,False
+test_data_solution:21842,Mit Burnout durch den Wald (2014),comedy,adventure,False
+test_data_solution:40033,A Day in the Bam (2007),action,adventure,False
+test_data_solution:42491,Kindred (2011/I),thriller,thriller,True
+train_data:4130,El sonido de la muerte (1966),horror,adventure,False
+test_data_solution:25553,Rushi (2012),romance,horror,False
+train_data:30476,My Dead Uncle's Band (2002),comedy,horror,False
+test_data_solution:12824,"""The Superficial Friends"" (2006)",comedy,comedy,True
+train_data:10231,Left Behind: Vanished: Next Generation (2016),adventure,horror,False
+train_data:39663,Anonymous: Street Meat (2018),science_fiction,science_fiction,True
+test_data_solution:40662,Apocalypse of the Flesh Eaters (2009),horror,drama,False
+train_data:44086,La resa dei conti (1966),western,western,True
+test_data_solution:16140,The Pardon (2013),crime,crime,True
+test_data_solution:28497,"""Joe's Life"" (1993)",comedy,comedy,True
+train_data:46195,Bequething (????),drama,drama,True
+train_data:27047,La maison sous les arbres (1971),thriller,thriller,True
+train_data:33101,Dangerous Diva's Triple Threat (2009),adventure,adventure,True
+train_data:23585,Durchs wilde Kurdistan (1965),adventure,comedy,False
+train_data:16563,Die schwarzen Adler von Santa Fe (1965),western,western,True
+train_data:3312,The Legend of Heroes: Trails of Cold Steel (2013),adventure,action,False
+test_data_solution:28463,Rewind (2007/I),action,drama,False
+train_data:4673,The Exception (2018),thriller,thriller,True
+train_data:34248,Thunder in Paradise (1993),adventure,romance,False
+train_data:38946,Lawless Range (1935),western,western,True
+test_data_solution:35847,Fjällbackamorden: Ljusets drottning (2013),crime,horror,False
+test_data_solution:46038,Open Places (1917),western,romance,False
+train_data:53404,Shadow Unit (????),action,science_fiction,False
+train_data:39968,Usher's Legacy (????),horror,horror,True
+train_data:21176,Still Waiting... (2009),comedy,comedy,True
+test_data_solution:31327,Jack Taylor: Nemesis (2016),crime,crime,True
+test_data_solution:38044,Crazy Richard (2002),comedy,drama,False
+test_data_solution:28319,Christmas Solo (2017),romance,romance,True
+test_data_solution:18161,Anneliese: The Exorcist Tapes (2011),horror,crime,False
+train_data:42834,Ranchi Diaries (2017),thriller,crime,False
+train_data:9396,Snegurochka (2014),thriller,romance,False
+test_data_solution:26301,Galactic Raiders (2004),science_fiction,science_fiction,True
+train_data:3540,Distress Code 1201 (2017),action,action,True
+train_data:49411,HaGarin HaKashe (1999),drama,horror,False
+train_data:19720,In the Black (????),crime,crime,True
+train_data:43855,Verdigris (????),thriller,crime,False
+train_data:32092,Vimana (????),science_fiction,science_fiction,True
+train_data:9370,The Oregon Trail (1959),western,western,True
+train_data:31894,Starving Artists (1997),comedy,comedy,True
+test_data_solution:44293,Lightning Strikes West (1940),western,western,True
+test_data_solution:38835,Sleepwalker (????/I),thriller,drama,False
+train_data:46161,Sex Charade (1972),crime,romance,False
+train_data:18296,House of Deaths 2: Lambs to the Slaughter (????),horror,horror,True
+test_data_solution:25653,Via Pony Express (1933),western,western,True
+train_data:20471,The Cherry Orchard (1974),drama,adventure,False
+train_data:39290,The Million Dollar Collar (1929),crime,crime,True
+train_data:22567,Obratnyy otschet (2006),action,action,True
+test_data_solution:23781,GUNS (1976),drama,action,False
+train_data:49164,Djävligt Jagad (1995/I),action,adventure,False
+train_data:29376,Night Run (2016),action,action,True
+test_data_solution:39350,Ann och Eve - de erotiska (1970),drama,adventure,False
+train_data:18965,Passing the Bar (2006),comedy,horror,False
+test_data_solution:23414,School for Gods (????),crime,crime,True
+test_data_solution:33517,Spearos (2017),adventure,romance,False
+train_data:33882,I misteri della psiche (1912),drama,crime,False
+train_data:38606,"""Hustle in Full"" (2015)",crime,crime,True
+test_data_solution:11824,Sense of Urgency (2017),drama,horror,False
+test_data_solution:16050,Preydators (2015/I),drama,action,False
+test_data_solution:42474,Ju ma pao (1976),action,drama,False
+test_data_solution:10677,Král Králu (1963),comedy,adventure,False
+train_data:21971,Sex Machine (2005),horror,crime,False
+test_data_solution:25989,The Victim (2011),thriller,thriller,True
+test_data_solution:51605,V.I.P. Very Important Prisoners (2007),crime,crime,True
+train_data:49854,Yun Hota Toh Kya Hota (2006),drama,romance,False
+test_data_solution:48470,Belize: The Year of the Maya (2013),adventure,adventure,True
+test_data_solution:14846,Captain Eager and the Mark of Voth (2008),science_fiction,science_fiction,True
+test_data_solution:30381,Dongbaeg ggot shinsa (1979),action,action,True
+test_data_solution:17504,Star Wars: Lost Horizons (2018),science_fiction,science_fiction,True
+train_data:25521,Rembrandt 7 antwortet nicht... (1966),adventure,action,False
+train_data:48255,"""Cheongookeui gyedan"" (2003)",romance,drama,False
+train_data:30357,Zielfahnder: Flucht in die Karpaten (2016),crime,adventure,False
+test_data_solution:8734,"Buffalo Bill, l'eroe del far west (1965)",western,western,True
+test_data_solution:2013,Harlem Rides the Range (1939),western,western,True
+train_data:15213,Gunfight at Yuma (2012),western,western,True
+test_data_solution:21962,Phool Bane Angaarey (1991),action,action,True
+test_data_solution:49430,Canadian Ninja (2016),action,action,True
+test_data_solution:11082,Chein kuronikuru (2013),action,adventure,False
+train_data:11999,High-Heeled Harmony (2000),adventure,adventure,True
+train_data:50871,Esoterica (2010),thriller,crime,False
+test_data_solution:51785,Fragile (2003/I),crime,crime,True
+test_data_solution:7955,Bay rong (2009),action,crime,False
+test_data_solution:29338,Suicídio Encomendado (2007),comedy,drama,False
+train_data:4209,The Oklahoman (1957),western,western,True
+test_data_solution:50527,"""Adventures in My Own Backyard"" (2016)",adventure,adventure,True
+train_data:49591,Arrivano i dollari! (1957),comedy,drama,False
+test_data_solution:38638,Aliens from Another Planet (1982),science_fiction,science_fiction,True
+train_data:13332,"""Timeline Alpha"" (2017)",science_fiction,adventure,False
+test_data_solution:13328,Dodge City (2007),crime,drama,False
+test_data_solution:40195,Hell Hole (2013),horror,action,False
+test_data_solution:19205,Pretty Brown Eyes (2011),romance,romance,True
+train_data:17492,The Final Conflict (1981),horror,horror,True
+train_data:7208,"""Yüksek Sosyete"" (2016)",romance,comedy,False
+test_data_solution:15401,"""Tonyong bayawak"" (2010)",action,action,True
+test_data_solution:26621,"""Golden Arms Returns"" (2016)",action,action,True
+train_data:176,2 once di piombo (1966),western,western,True
+test_data_solution:41276,"Mord, lilla vän (1955)",crime,crime,True
+train_data:446,Lady Samurai (2007),action,science_fiction,False
+test_data_solution:45924,The Devil Came Up From Texas (2016),western,western,True
+train_data:37597,"""Painted Skin II"" (2013)",romance,romance,True
+train_data:14670,April Moon (2007),romance,drama,False
+train_data:35266,A Wild Goose Chase (1919/I),adventure,romance,False
+test_data_solution:30629,Brooding Eyes (1926),crime,action,False
+test_data_solution:47626,Juan Frances: Live (2008),comedy,romance,False
+test_data_solution:27371,Pyar Hi Pyar (1969),romance,romance,True
+train_data:22194,Too Fat to Fight (1918),comedy,action,False
+test_data_solution:28882,One Week (2008/II),drama,drama,True
+test_data_solution:34607,The Confidant (2010),thriller,drama,False
+train_data:42376,Sexual Quest (2011),romance,comedy,False
+train_data:378,Zolushka (2008),romance,romance,True
+test_data_solution:4726,Noirland (2014),crime,crime,True
+train_data:31349,The Lofty Bunch (1998),action,adventure,False
+test_data_solution:21440,"Cassie Sheridan, Celebrity (2000)",adventure,adventure,True
+test_data_solution:29018,Nobody Can Cool (2015),thriller,crime,False
+train_data:8717,Nereye Bakiyor Bu Adamlar (1976),comedy,crime,False
+train_data:40387,Kradljivac uspomena (2007),crime,action,False
+train_data:2503,Eaters (2015),horror,horror,True
+test_data_solution:40123,Don't Let Them In (????),horror,horror,True
+test_data_solution:26190,Torn (2010/I),thriller,thriller,True
+test_data_solution:30847,Angst hat eine kalte Hand (1996),thriller,crime,False
+test_data_solution:33496,Breakfast with Tiffany (1996),adventure,adventure,True
+train_data:20968,His Fighting Blood (1935),western,western,True
+test_data_solution:49829,Bering Sea Beast (2013),science_fiction,horror,False
+test_data_solution:14075,Kids (1995),drama,drama,True
+test_data_solution:25467,13 Days of the Beast (2009),horror,horror,True
+train_data:35743,"""Rocky Star"" (1993)",science_fiction,science_fiction,True
+test_data_solution:44611,My Life with Caroline (1941),comedy,romance,False
+test_data_solution:37963,Taku (1937),adventure,adventure,True
+train_data:33688,Fascination (1979),horror,horror,True
+train_data:25508,Speak No Evil (2013),horror,horror,True
+train_data:6426,Sublimation (2003),science_fiction,adventure,False
+train_data:15473,The Greeks Had a Word for Them (1932),comedy,comedy,True
+test_data_solution:46498,Shattered Heaven: Midnight Twilight (????),action,science_fiction,False
+test_data_solution:40137,Perníková vez (2002),crime,crime,True
+test_data_solution:23435,Bakumatsu jyunjyoden (1991),romance,romance,True
+test_data_solution:9726,"""Panic!"" (1957)",thriller,science_fiction,False
+test_data_solution:11553,The Captain Hates the Sea (1934),comedy,crime,False
+train_data:31955,Internecionem (????),science_fiction,science_fiction,True
+train_data:47533,Brake (2012/I),thriller,science_fiction,False
+test_data_solution:38954,Haunting at Wilton (????),horror,science_fiction,False
+train_data:54190,Mary-Kate & Ashley: Crush Course (2001),romance,adventure,False
+train_data:46768,Nabonga (1944),adventure,adventure,True
+test_data_solution:36708,Deadly Lessons (1995),horror,comedy,False
+train_data:12172,The Scholar (????),crime,crime,True
+test_data_solution:12009,Frontier Revenge (1948),western,western,True
+test_data_solution:49339,Wo kou de zong ji (2011),action,action,True
+train_data:52626,Prince of Darkness (1987),horror,horror,True
+test_data_solution:3168,First Love Letter (1991),romance,romance,True
+train_data:27934,Dial 100 (2001),crime,crime,True
+train_data:14445,W.W. and the Dixie Dancekings (1975),comedy,crime,False
+train_data:4486,The Open Curtain (????),thriller,thriller,True
+test_data_solution:49798,Goblet of Gore (1996),horror,horror,True
+test_data_solution:43834,Message in a Bottle (2017/I),adventure,drama,False
+test_data_solution:9276,Dark Storm Ascension (2017),science_fiction,science_fiction,True
+train_data:5783,The Adventures of Frank Merriwell (1936),adventure,adventure,True
+test_data_solution:28934,"""Tales of a Broken Reality"" (2015)",science_fiction,horror,False
+test_data_solution:54062,Jack's Chair (2018),thriller,drama,False
+test_data_solution:7936,Saddle Legion (1951),western,western,True
+train_data:22191,Feudin' Fools (1952),comedy,action,False
+test_data_solution:1875,Behind the Action in 'Biker Boyz' (2003),action,action,True
+train_data:36806,Buio Omega (1979),horror,drama,False
+train_data:13435,The Whisperer in Darkness (2007),science_fiction,science_fiction,True
+train_data:33198,Naked Run (2011),comedy,action,False
+train_data:26412,Aaj Ki Taaza Khabar (1973),comedy,comedy,True
+test_data_solution:17254,Discovery of the Secret (2017),science_fiction,science_fiction,True
+test_data_solution:27319,Hirunaka no ryuusei (2017),romance,comedy,False
+train_data:16020,The Mission to Heal (2010),drama,thriller,False
+test_data_solution:29355,"""Hamsa, hope of the lost worlds"" (2017)",science_fiction,science_fiction,True
+train_data:4671,Banglar Bodhu (1998),romance,action,False
+train_data:5947,Xuoi nguoc duong tran (2002),drama,drama,True
+test_data_solution:10909,North from the Lone Star (1941),western,western,True
+train_data:286,Paranoia (2012/III),thriller,horror,False
+train_data:8981,Hitman (2003),crime,crime,True
+train_data:29179,Double Dragon (1987),action,action,True
+test_data_solution:24092,The Scottish Covenanters (1909),drama,adventure,False
+test_data_solution:44899,Vlog (2014),drama,thriller,False
+test_data_solution:4383,SideFX (2004),horror,horror,True
+train_data:42990,Big Al (2017),romance,comedy,False
+test_data_solution:30852,"""WWF Livewire"" (1997)",action,comedy,False
+train_data:397,The Skeleptica Effect (2009),crime,crime,True
+train_data:33102,L'uomo che piaceva alle donne - Bel Ami (2001),romance,drama,False
+train_data:26040,"""Bratya"" (2011)",action,crime,False
+train_data:12631,The Border Legion (1940),western,western,True
+test_data_solution:45167,Star Stuff (1981),science_fiction,science_fiction,True
+test_data_solution:47056,Hitchhiker (2004),crime,thriller,False
+train_data:2089,Kralj Ibi (1973),comedy,action,False
+test_data_solution:42156,"La donna, il sesso e il superuomo (1967)",science_fiction,action,False
+train_data:28660,The Silence of the Bones (2008),crime,crime,True
+test_data_solution:31532,Khoon Ka Rishta (1981),action,crime,False
+train_data:45417,Gunning for Justice (1948),western,western,True
+test_data_solution:34150,Le secret de l'abbaye (2017),crime,crime,True
+test_data_solution:44145,ZOE's SECURITY SERVICE (2017),science_fiction,drama,False
+train_data:4790,Mathilde (????),drama,romance,False
+train_data:9507,Have Faith (????),romance,horror,False
+test_data_solution:42913,Zombie Panic: Source! (2007),horror,horror,True
+test_data_solution:40636,Desperate Courage (1928),western,western,True
+test_data_solution:23275,Paththar (1985),crime,western,False
+train_data:30217,Tiszavirág (1939),romance,romance,True
+train_data:23330,Extraordinary Visitor (1998),comedy,science_fiction,False
+train_data:31732,Sparrowhawk (????),crime,crime,True
+train_data:21099,Wonderboy in Monster World (1991),adventure,adventure,True
+train_data:43290,Seven Days (2010),romance,romance,True
+train_data:23479,Four to Midnight (2013),thriller,horror,False
+test_data_solution:50987,Zei gong zi (2000),action,thriller,False
+test_data_solution:41959,Hana yori dango (1995),romance,comedy,False
+test_data_solution:34065,Robot Monster (1953),science_fiction,science_fiction,True
+test_data_solution:51658,Roveh Huliot (1979),drama,comedy,False
+test_data_solution:9550,"""Proxy Influence"" (2012)",science_fiction,action,False
+train_data:51126,Lifeboat 715 (2017),thriller,horror,False
+train_data:27353,My Open Minded Wife (2006),romance,drama,False
+train_data:39737,Pal (2008),comedy,thriller,False
+train_data:20811,Loop (2007/II),thriller,thriller,True
+test_data_solution:47944,Simple Justice (1989),crime,crime,True
+test_data_solution:40560,Ask oyunu (2005),romance,romance,True
+train_data:33080,Cocaine Captains (2014),crime,crime,True
+test_data_solution:8744,Overland with Kit Carson (1939),western,western,True
+test_data_solution:3488,Saga of a Crew 2008 Special Edition (2008),science_fiction,science_fiction,True
+test_data_solution:15523,Fright Club (2006),horror,horror,True
+test_data_solution:17543,Future Seer (2017),crime,science_fiction,False
+train_data:891,"""Gunblade"" (????)",science_fiction,science_fiction,True
+test_data_solution:39424,Adventurous Adversaries (2003),adventure,adventure,True
+test_data_solution:45959,The Sleep of Death (1980),horror,horror,True
+train_data:48715,"""The Griffin's Seal"" (2015)",thriller,thriller,True
+test_data_solution:8249,There'll Be Days Like This (????),romance,romance,True
+test_data_solution:19901,Stoked and Broke (2010),adventure,adventure,True
+test_data_solution:1383,Conspiracy Encounters (2016),science_fiction,thriller,False
+train_data:27473,Yeonae (2005),romance,drama,False
+test_data_solution:45252,Travelers (2017/I),science_fiction,science_fiction,True
+train_data:43654,"""State of Georgia"" (2011)",comedy,comedy,True
+train_data:46094,Saint (2015),action,horror,False
+train_data:40110,Clint Knockey: The Investigation (2012),horror,horror,True
+test_data_solution:14310,A Nightmare Come True (1997),thriller,drama,False
+test_data_solution:32711,Goo-reu-meul beo-eo-nan dal-cheo-reom (2010),action,romance,False
+test_data_solution:43715,Of Them All (2014),horror,thriller,False
+train_data:14472,The Locker (????),crime,crime,True
+train_data:53625,"""The Secret Lover"" (2005)",romance,romance,True
+test_data_solution:42390,Apithano agori (1985),romance,romance,True
+test_data_solution:46183,Streets of Ghost Town (1950),western,western,True
+train_data:53210,Ngoi di sai gaai (1990),drama,crime,False
+test_data_solution:45907,The V: Return of the Galaxy (2013),adventure,science_fiction,False
+train_data:44297,"Europa, East (2010)",drama,drama,True
+test_data_solution:52780,Recovery (2017/IV),thriller,horror,False
+train_data:40006,The Pearl (2004),science_fiction,comedy,False
+train_data:38582,"""Elephants of Silver Lake"" (2013)",comedy,action,False
+test_data_solution:18077,Jongya (1973),thriller,horror,False
+train_data:29514,Cowboy Serenade (1942),western,western,True
+test_data_solution:49334,The Vanishing Outpost (1951),western,western,True
+train_data:11424,Jenni Czech's Triple Jeopardy (2011),adventure,adventure,True
+train_data:11444,"""MotoGeo Adventures"" (2013)",adventure,adventure,True
+train_data:30093,West of the Rockies (1929),western,western,True
+train_data:54103,Frank Caliendo: All Over the Place (2007),comedy,comedy,True
+train_data:53749,Sexual Chemistry (1999),comedy,thriller,False
+test_data_solution:16010,Body Harvest (1998),action,science_fiction,False
+test_data_solution:17241,Monster from Green Hell (1957),science_fiction,science_fiction,True
+train_data:9951,Deseta zapoved (2003),crime,comedy,False
+train_data:548,Hasti (1993),action,romance,False
+test_data_solution:48831,Dewitt & Maria (2010),romance,romance,True
+train_data:34158,Lyrics to Dying Rebirth (2011),action,crime,False
+test_data_solution:19603,Jack Taylor: Priest (2013),crime,crime,True
+train_data:37169,MeiGeist (2007),science_fiction,comedy,False
+test_data_solution:34487,"""Sector 22"" (2017)",science_fiction,science_fiction,True
+test_data_solution:16548,Most Welcome 2 (2014),action,crime,False
+train_data:1188,Wahed Saheh (2011),drama,romance,False
+train_data:42181,La noche de los mil gatos (1972),horror,horror,True
+test_data_solution:20473,"""True Perfection"" (2012)",comedy,horror,False
+test_data_solution:25699,Jadviga párnája (2000),drama,romance,False
+train_data:13570,Chasse-Galerie (2016),thriller,horror,False
+test_data_solution:26550,The Day the Ponies Come Back (2000),drama,drama,True
+train_data:17682,"Underland, the Last Surfacer (????)",science_fiction,science_fiction,True
+test_data_solution:44303,Outras Estórias (1999),drama,drama,True
+test_data_solution:10695,"""Sherman's in Sanity"" (2012)",comedy,adventure,False
+test_data_solution:2550,The Quality of Life (2008),crime,crime,True
+test_data_solution:29864,Os Penetras 2: Quem Dá Mais? (2017),comedy,thriller,False
+train_data:46326,Cindy liebt mich nicht (2010),romance,romance,True
+test_data_solution:31145,Das goldene Ufer (2015),romance,comedy,False
+test_data_solution:11117,"""Flowers for My Life"" (2007)",romance,romance,True
+test_data_solution:6534,'49-'17 (1917),western,western,True
+train_data:47721,Tumhari Kassam (1978),romance,thriller,False
+test_data_solution:42310,Seung joi ngo sam (2001),romance,romance,True
+train_data:32655,The Grotto (2014),horror,horror,True
+train_data:18026,Delirium (????/IV),thriller,drama,False
+train_data:343,Wasteland Wars (2017),adventure,adventure,True
+train_data:40561,La récréation (1961),drama,thriller,False
+train_data:37490,The Legend Maker (2014),crime,crime,True
+train_data:52219,Lullabye Before I Wake (2008),romance,drama,False
+test_data_solution:14740,One Long Day (2010),action,crime,False
+test_data_solution:2410,"""Under Arrest"" (1993)",crime,crime,True
+train_data:26559,Pistol Harvest (1951),western,western,True
+test_data_solution:13812,The Love Hermit (1916),drama,romance,False
+train_data:19798,The Red Dream (2017),horror,thriller,False
+train_data:10341,Door Ki Awaaz (1964),romance,drama,False
+train_data:53416,Novum (????),science_fiction,science_fiction,True
+train_data:14698,Time in Between (2017),drama,drama,True
+train_data:36717,An Evil Soul (1998),thriller,action,False
+test_data_solution:27752,La mort de Mario Ricci (1983),drama,comedy,False
+test_data_solution:39593,The Killer (????/II),action,action,True
+test_data_solution:21352,Human (2016/I),science_fiction,horror,False
+train_data:24365,Y a Dios que me perdone! (2017),drama,crime,False
+train_data:26850,Devil's Dandruff (2018),crime,crime,True
+train_data:41817,Bangers and Cash (2017),crime,action,False
+train_data:25318,Bush Pilot (1947),adventure,adventure,True
+train_data:37465,"""Together Forever"" (2012)",romance,romance,True
+test_data_solution:42092,"""Hvor er Thea?"" (2017)",crime,crime,True
+train_data:24453,Apartado de correos 1001 (1950),crime,crime,True
+test_data_solution:20843,Chîmu Bachisuta Final: Keruberosu no shouzou (2014),drama,science_fiction,False
+train_data:8496,Salin blues (1968),crime,action,False
+test_data_solution:31449,The Neighborhood (2004),action,crime,False
+train_data:20021,Hastings Street (2014),crime,thriller,False
+train_data:33931,Pictures of Superheroes (2012),comedy,comedy,True
+test_data_solution:28340,Italien im Herzen (2008),romance,adventure,False
+test_data_solution:41261,Maro Charitra (2010),romance,romance,True
+train_data:44146,The Mime (2015),horror,horror,True
+train_data:47981,Fratello dello spazio (1988),science_fiction,science_fiction,True
+test_data_solution:4924,Dale Evans: Queen of the West (1950),western,western,True
+test_data_solution:52113,Paranormal Chasers Ghostly Guest (2014),science_fiction,science_fiction,True
+test_data_solution:46107,The Dark Corners (????),horror,thriller,False
+train_data:7320,Madly (1970),romance,romance,True
+train_data:9195,The Brand of Satan (1917),horror,drama,False
+test_data_solution:17826,Sitges-Nagasaki (2007),comedy,romance,False
+train_data:48186,Nelo (????),action,science_fiction,False
+train_data:12383,The Scarlet Rose (1999),adventure,adventure,True
+test_data_solution:23476,La spada normanna (1971),adventure,adventure,True
+test_data_solution:49527,Dear Wife (1949),comedy,drama,False
+train_data:22115,Drácula contra Frankenstein (1972),horror,horror,True
+test_data_solution:27627,The Garden (1995),adventure,adventure,True
+train_data:35523,The Emissary (1988),thriller,science_fiction,False
+test_data_solution:30986,Photo Finish (2018),action,action,True
+test_data_solution:25768,Robot Revolution (2015),science_fiction,science_fiction,True
+train_data:25029,The Time Jumper (2019),science_fiction,science_fiction,True
+train_data:22250,Dívka s tremi velbloudy (1967),comedy,drama,False
+test_data_solution:52703,Chingaari (2006),drama,drama,True
+train_data:8058,Keeping Track (1986),thriller,action,False
+train_data:31616,Stories of the Paranormal: It Came in the Night (2012),horror,horror,True
+train_data:32079,I.G.I.-2: Covert Strike (2003),action,science_fiction,False
+train_data:434,Gaia (2009/I),drama,horror,False
+test_data_solution:35717,Blood Type: Unknown (2013),drama,romance,False
+test_data_solution:8595,The Purifiers (2004),action,action,True
+test_data_solution:34176,The Lone Rider in Texas Justice (1942),western,western,True
+test_data_solution:15376,A Blood Story (2015),horror,horror,True
+train_data:4102,Letter to My Killer (1995),thriller,crime,False
+test_data_solution:47910,"""Pride and Prejudice"" (1967)",romance,drama,False
+train_data:41558,The Blood Between Us (2015),romance,adventure,False
+train_data:47831,Offline Danger (2011),thriller,horror,False
+train_data:41180,Lunatic Messiah (2011),horror,science_fiction,False
+test_data_solution:6071,Assault and Matrimony (1987),comedy,thriller,False
+train_data:25076,Grosse fatigue (1994),comedy,thriller,False
+train_data:17289,Chi sei? (1974),horror,horror,True
+test_data_solution:19775,Festival of Lights (2010),drama,drama,True
+train_data:18393,"Bomba, the Jungle Boy (1949)",adventure,adventure,True
+test_data_solution:16199,Mon mari est merveilleux (1952),comedy,comedy,True
+train_data:22353,One in Nine (2009),thriller,action,False
+train_data:23,Tunnel Vision (1976),comedy,comedy,True
+train_data:17163,"""Itty P and DJ Model T's Dat's a RAP!"" (2010)",comedy,comedy,True
+test_data_solution:12745,That's Not My Mother (????),science_fiction,science_fiction,True
+test_data_solution:1451,Sadako 3D 2 (2013),horror,crime,False
+train_data:23990,The Orphan (1920),western,western,True
+train_data:52026,Knighted Pirate: Captain Morgan's Blue Water Empire (????),adventure,western,False
+train_data:18747,Bruce's Fists of Vengeance (1980),action,action,True
+train_data:14247,Bhangarh: The Last Episode (2017),horror,horror,True
+test_data_solution:37756,Ye Maaya Chesave (2010),romance,romance,True
+train_data:12225,The Danger Ladies (2000),adventure,adventure,True
+test_data_solution:13766,Burning Bridges (1928),western,western,True
+train_data:21153,The Incredible Sex Revolution (1965),comedy,romance,False
+train_data:19145,Gemcraft: Chasing Shadows (2014),action,adventure,False
+train_data:29722,Avenger (2006),thriller,crime,False
+train_data:50448,Acapulco Golden (????),drama,thriller,False
+test_data_solution:44648,Predator One (????),science_fiction,science_fiction,True
+test_data_solution:20477,Mangalyaan (2018),science_fiction,science_fiction,True
+test_data_solution:52949,#Beings (2015),thriller,drama,False
+test_data_solution:42152,Run the Sahara (2015),adventure,adventure,True
+test_data_solution:47711,Hello Destroyer (2016),drama,drama,True
+test_data_solution:17035,Pursuit the Movie (2012),science_fiction,thriller,False
+test_data_solution:50519,"""Geek Therapy"" (2011)",comedy,comedy,True
+test_data_solution:27860,Il boia scarlatto (1965),horror,horror,True
+test_data_solution:46723,Unlocked Door (1998),adventure,adventure,True
+train_data:32820,Dada (1999),action,action,True
+test_data_solution:41037,La piovra 9 - Il patto (1998),drama,crime,False
+train_data:27455,Birami Sahar (Sick City) (2011),drama,drama,True
+test_data_solution:41098,Command & Conquer: Red Alert 3 - Uprising (2009),science_fiction,adventure,False
+test_data_solution:38803,Hannah (1997),thriller,romance,False
+test_data_solution:36866,Loaded Monday (????),action,action,True
+train_data:9067,WWF in Your House: International Incident (1996),action,action,True
+train_data:932,"""Johnny Angel"" (2018)",comedy,action,False
+test_data_solution:35259,Texas Stampede (1939),western,western,True
+test_data_solution:10357,Beyond the Fire (2009),romance,drama,False
+train_data:23982,Out of Darkness (2004),crime,crime,True
+train_data:21274,"""Savdhaan India @11, Crime Alert"" (2012)",crime,crime,True
+test_data_solution:26846,Dinosaur Chronicles (2004),science_fiction,science_fiction,True
+train_data:46639,The Amazing Colossal Woman (2016),science_fiction,science_fiction,True
+test_data_solution:26400,Coming Home for Christmas (2017),romance,drama,False
+train_data:16041,Diamante Lobo (1976),western,action,False
+train_data:18188,"""Suspense"" (1962)",thriller,comedy,False
+train_data:12426,Surfers and Cowboys (2016),action,drama,False
+test_data_solution:31496,The Last Frontier (1932),western,western,True
+test_data_solution:51037,"""Escape"" (1973)",adventure,adventure,True
+train_data:51924,Star Fox 2 (1995),science_fiction,action,False
+train_data:23338,Badman's Territory (1946),western,western,True
+train_data:35104,Living Now (2010),drama,romance,False
+train_data:39960,Interface (2011),science_fiction,thriller,False
+test_data_solution:15673,Myeongdong noshinsa (1970),action,action,True
+train_data:37587,Anti-Social (2015),crime,drama,False
+test_data_solution:466,Phoenix (1995/I),science_fiction,science_fiction,True
+train_data:45300,The Thundering Herd (1933),western,western,True
+train_data:3815,Bullets for Bandits (1942),western,western,True
+train_data:15951,Born to Race: Fast Track (2014),action,action,True
+test_data_solution:47593,Gou hun jiang tou (1976),horror,horror,True
+train_data:15970,Injustice 2 (2017),action,science_fiction,False
+train_data:42280,"""Scene of the Crime with Tony Harris"" (2017)",crime,action,False
+test_data_solution:47399,Miracle in the Woods (1997),drama,horror,False
+train_data:24840,"""Poivre et sel"" (1983)",comedy,comedy,True
+train_data:52760,Slaughterhouse Phi: Death Sisters (2006),horror,western,False
+test_data_solution:4672,L'audition (2005),drama,drama,True
+train_data:46783,Tahira: Echoes of the Astral Empire (2016),science_fiction,adventure,False
+test_data_solution:9357,The Body Detective (2016),crime,crime,True
+train_data:35420,"""Modern Housewives"" (2007)",romance,romance,True
+train_data:31516,Jack Boyz (2016),crime,crime,True
+train_data:1985,Je pan kahish e sachuj kahish (2016),thriller,romance,False
+test_data_solution:11372,Caller ID (2010),science_fiction,horror,False
+train_data:31668,The Land of Missing Men (1930),western,western,True
+train_data:31014,Dead Country (2008),horror,science_fiction,False
+test_data_solution:13423,American Raspberry (1977),comedy,comedy,True
+train_data:36855,A Desforra (1966),romance,romance,True
+test_data_solution:49193,"""Dreaming Whilst Black"" (2017)",comedy,drama,False
+train_data:49921,O anthos tis limnis (1999),drama,drama,True
+train_data:40069,Lady Bug (2017),thriller,drama,False
+test_data_solution:52729,Pinocchio (1996),adventure,adventure,True
+train_data:7132,Lonely Heart Bandits (1950),drama,comedy,False
+test_data_solution:44560,The Best Movie Ever Made (1994),comedy,comedy,True
+train_data:13202,The French Dragon (????),action,action,True
+test_data_solution:3924,The Misappropriation of Kelly (1998),adventure,adventure,True
+train_data:3788,Next Door (2018),thriller,thriller,True
+train_data:34287,Atomic Skeletons (2017),science_fiction,horror,False
+test_data_solution:30372,Unidentified Minor (????),drama,comedy,False
+test_data_solution:50915,Border Patrol (1943),western,western,True
+train_data:9781,Raat (1992),horror,horror,True
+test_data_solution:41985,Wild West (1946),western,western,True
+test_data_solution:38133,The Little Death (2006),thriller,horror,False
+train_data:22295,Atomic Hotel Erotica (2014),comedy,horror,False
+test_data_solution:48824,Within the Shadows (????/II),thriller,drama,False
+test_data_solution:50098,Familiar Spirits (2007),horror,horror,True
+train_data:4074,Bordertown Gun Fighters (1943),western,western,True
+train_data:20865,Mountain Rhythm (1939),western,western,True
+train_data:9177,Hangman (2018/II),thriller,thriller,True
+train_data:11304,Tails of Mako Island (????),adventure,adventure,True
+test_data_solution:10496,Trinetra (1991),action,horror,False
+train_data:28125,"""United As One"" (????)",science_fiction,adventure,False
+train_data:13648,Mirror Theory (2017),thriller,science_fiction,False
+test_data_solution:1642,Die Unberührbare (2000),drama,science_fiction,False
+test_data_solution:17455,Tenting Tonight on the Old Camp Ground (1943),western,western,True
+train_data:23083,Snowblade (2012),action,horror,False
+train_data:19454,Payal Ki Jhankaar (1980),romance,drama,False
+test_data_solution:46548,El cerrajero (2014),drama,romance,False
+train_data:8897,Pod znakom Devy (2008),romance,romance,True
+test_data_solution:42289,Hard Bounty (1995),western,western,True
+test_data_solution:27754,Badlands 2005 (1988),science_fiction,western,False
+test_data_solution:16240,Todo el mundo lo sabe (2014),thriller,crime,False
+test_data_solution:33615,Excitable Boy (????/II),thriller,thriller,True
+train_data:10491,Rouges étaient les lilas (2016),crime,horror,False
+train_data:32347,The Witching Hour (2013/II),horror,horror,True
+test_data_solution:28484,Satan's Private Door (1917),drama,drama,True
+train_data:24205,"Fetish Burglar, Security Vixen & the Chair-Tie-O-Rama (2000)",adventure,adventure,True
+test_data_solution:42938,A Missouri Outlaw (1941),western,western,True
+train_data:11981,Lullaby (2016/III),horror,horror,True
+train_data:23695,"""The Borian Age"" (2009)",action,science_fiction,False
+train_data:17332,Live for the Moment (2004),drama,drama,True
+test_data_solution:28565,Cuando volveras (2008),drama,romance,False
+test_data_solution:45955,Fort Massacre (1958),western,western,True
+train_data:52619,Case Study (2007),comedy,romance,False
+test_data_solution:11670,Lyubov (1991),romance,drama,False
+train_data:5831,Frontier Pony Express (1939),western,western,True
+train_data:17659,Grave Situations (2007),horror,horror,True
+test_data_solution:2198,Coming Home (????/II),thriller,horror,False
+test_data_solution:5461,Demon with the Atomic Brain (2017),science_fiction,science_fiction,True
+test_data_solution:651,Decaying Orbit (2007),science_fiction,science_fiction,True
+train_data:43899,Stella's oorlog (2009),drama,action,False
+test_data_solution:47376,Reeling in Reality (2005),comedy,comedy,True
+train_data:38354,The Meanest Men in the West (1978),western,western,True
+test_data_solution:49375,Jump Jilani (2014),comedy,romance,False
+test_data_solution:49074,Ammahit phitsawat (2006),thriller,horror,False
+train_data:27784,Kurradu (2009),action,drama,False
+train_data:27479,Caged Fury (1990),action,action,True
+train_data:2767,Mice and Men (1916),romance,romance,True
+test_data_solution:30435,The Sister (2016),drama,drama,True
+test_data_solution:39881,Akashamae Haddu (2011),romance,romance,True
+train_data:48616,Yeh Kahan Aa Gaye Hum (2006),romance,romance,True
+train_data:34972,Der letzte Zeuge (1960),crime,crime,True
+test_data_solution:4192,The Legend of Parker Rose (2001),adventure,adventure,True
+train_data:25290,Gunmen from Laredo (1959),western,western,True
+train_data:46705,Midnight Bondage at the Pizza Joint (1998),adventure,adventure,True
+test_data_solution:45909,Frogger Beyond (2002),adventure,science_fiction,False
+test_data_solution:48866,The Cloning of Joanna May (1992),science_fiction,romance,False
+train_data:39402,Sci Fi Sol (2012),adventure,adventure,True
+train_data:1459,Terminator: SkyNET (1996),science_fiction,science_fiction,True
+test_data_solution:2392,Night of the Bums (1998),horror,horror,True
+test_data_solution:37390,Made Guys (2016),comedy,crime,False
+test_data_solution:13316,Innocent (1999),drama,drama,True
+test_data_solution:23639,The Devil and Danny Webster (2010),thriller,drama,False
+train_data:38594,"Thugs, Mugs and Violence.... (2009)",action,crime,False
+train_data:3856,Qu'elle est belle la quarantaine (2003),comedy,drama,False
+train_data:16032,Randy and Melissa's Bondage Dilemma (2011),adventure,adventure,True
+train_data:28942,Rovdyr (2008),horror,horror,True
+test_data_solution:49263,"""Super Salaryman Saenai-shi"" (2017)",comedy,drama,False
+test_data_solution:48553,Scream Queen Private Party (1995),comedy,comedy,True
+test_data_solution:34798,"""Thrashtopia"" (2017)",comedy,adventure,False
+test_data_solution:32284,The Road to Denver (1955),western,western,True
+test_data_solution:7319,Rap Quest (2006),comedy,action,False
+train_data:28406,A Fool's Circle (????),thriller,thriller,True
+test_data_solution:46129,FluffyMarioBros The Movie 2: Universal Course (2017),action,science_fiction,False
+train_data:18773,Twenty-Two (2004),crime,drama,False
+train_data:13166,Equivalence (????),science_fiction,science_fiction,True
+test_data_solution:52198,Saint Mary's Secret (????),thriller,horror,False
+test_data_solution:6234,The Kidnapping of the President (1980),thriller,action,False
+test_data_solution:36272,Rise of the Unicorn (????),thriller,crime,False
+test_data_solution:32401,"""The Ed Wynn Show"" (1958)",comedy,comedy,True
+test_data_solution:52599,9 Mornings (2002),romance,romance,True
+train_data:46148,Bar Star City (????),science_fiction,comedy,False
+test_data_solution:31050,Underwood (????),thriller,horror,False
+test_data_solution:18717,Streets of Rage (????),action,action,True
+train_data:43679,Street Creatures (2004),crime,action,False
+train_data:37806,The Hyperions (2018),action,science_fiction,False
+train_data:51025,Baiyko (2017),thriller,horror,False
+train_data:44686,Muna Moto (1975),drama,drama,True
+train_data:26755,Rossini (1997),comedy,romance,False
+train_data:6619,Dead Inside (2011),horror,horror,True
+test_data_solution:51071,Bleeders (1997),horror,horror,True
+test_data_solution:8641,Slaughterville (????),thriller,thriller,True
+test_data_solution:14639,Da mogu... (2009),drama,drama,True
+test_data_solution:7008,Prowl (2010),horror,horror,True
+train_data:48799,The Midwife's Tale (1995),romance,drama,False
+test_data_solution:2200,Insane (2016/I),horror,horror,True
+test_data_solution:45496,Gora (2015/I),drama,romance,False
+test_data_solution:16174,The Loaded Door (1922),western,western,True
+train_data:27651,T.P.O. (2016),drama,drama,True
+test_data_solution:6207,Waiting II: Girl on Death Row (2013),crime,crime,True
+train_data:21346,"""Vaya Mzansi"" (2013)",adventure,adventure,True
+train_data:32200,Once Upon a Fight (2012),action,action,True
+test_data_solution:36120,The Naked Hills (1956),western,western,True
+test_data_solution:17195,Christ Rising (2018),thriller,action,False
+train_data:19572,Elex (2017),action,science_fiction,False
+test_data_solution:5039,Electric Bleau (????),thriller,horror,False
+test_data_solution:23075,What? (2014),crime,crime,True
+train_data:32952,Terrors on Horseback (1946),western,thriller,False
+test_data_solution:17240,The Wage of Captivity (2016),crime,crime,True
+train_data:49289,Day 1 (2016),science_fiction,action,False
+test_data_solution:25966,The Fuzz (2017),crime,crime,True
+train_data:37572,Kenny Rogers as The Gambler (1980),western,western,True
+test_data_solution:788,Paatshala (2015),drama,drama,True
+train_data:28009,One More Kill (????),action,thriller,False
+train_data:235,Level Up (2016/I),thriller,thriller,True
+train_data:34514,The Clean Guys of Comedy (2013),comedy,comedy,True
+test_data_solution:44374,Drone (????/III),science_fiction,science_fiction,True
+test_data_solution:53043,"""Homicidios"" (2011)",crime,comedy,False
+train_data:6245,Tight Ties for Costume Captives (2011),adventure,adventure,True
+test_data_solution:27252,The Hit (2008/II),crime,horror,False
+test_data_solution:39159,The Common Sense (2014),science_fiction,drama,False
+test_data_solution:41839,Sam and Max: Night of the Raving Dead (2008),adventure,horror,False
+train_data:45232,"""Centac 26 vs. The Miami River Cops"" (????)",crime,crime,True
+train_data:42147,Costumed Starlets in Bondage (2010),adventure,adventure,True
+test_data_solution:4818,Tsunami - Das Leben danach (2012),drama,comedy,False
+test_data_solution:24865,Hostile Country (1950),western,western,True
+test_data_solution:20379,"""Sintillate Studios"" (2011)",comedy,horror,False
+train_data:52852,The Owl (1991),action,thriller,False
+train_data:18348,Sam and Max: Situation Comedy (2006),adventure,comedy,False
+test_data_solution:3150,Fighting Back (1917),western,western,True
+train_data:34887,Aag Ka Gola (1990),action,crime,False
+test_data_solution:28059,Second Opinion (2017/II),thriller,thriller,True
+test_data_solution:40591,L'infermiera (1975),comedy,romance,False
+test_data_solution:17646,Madman's Daughter (????),thriller,thriller,True
+train_data:11563,The Sabbatical (2015),comedy,drama,False
+train_data:33911,Kinder des Satans (1995),crime,crime,True
+train_data:17620,Brat Pack (????),action,action,True
+test_data_solution:23592,Exposé (1976),thriller,thriller,True
+train_data:37335,Glamour Model Detectives (2005),adventure,adventure,True
+test_data_solution:38680,Uchu Kaisoku-sen (1961),science_fiction,science_fiction,True
+test_data_solution:15269,The Ugly Little Boy (1977),science_fiction,science_fiction,True
+test_data_solution:13209,The Pumpkin Karver (2006),horror,horror,True
+train_data:5514,The Sorcerer of Stonehenge School (2005),adventure,science_fiction,False
+train_data:32048,Vampires and Other Stereotypes (1994),horror,horror,True
+test_data_solution:8138,La vendetta dei gladiatori (1964),adventure,adventure,True
+train_data:599,ModPro Hackers (2017),thriller,action,False
+test_data_solution:27505,Black Patch (1957),western,western,True
+train_data:32561,Il mondo dei miracoli (1959),comedy,comedy,True
+train_data:35985,Mahaveera (1988),action,crime,False
+train_data:30969,VICTOR K. (????),thriller,crime,False
+test_data_solution:1326,The Cropsey Incident (2017),horror,horror,True
+train_data:40057,Spider-Man 3: Downfall (2018),action,action,True
+train_data:23910,League of Legends (2009),action,action,True
+train_data:10585,The Butler (2017),thriller,horror,False
+train_data:49710,Symbiont (????),science_fiction,science_fiction,True
+train_data:42829,Gureitofuru deddo (2013),horror,romance,False
+test_data_solution:23027,Detroit Eight Ballers in the Motor City (2018),crime,science_fiction,False
+train_data:7699,Trauma (1962),horror,drama,False
+test_data_solution:11819,Halloween House Horror (????),horror,horror,True
+train_data:48677,Innocence Saga I: The Innocent Killers (2008),action,action,True
+test_data_solution:27313,The Dying Fields (????),horror,crime,False
+train_data:34114,Un'ombra nell'ombra (1979),horror,horror,True
+test_data_solution:3445,Open All Night (2016/II),drama,horror,False
+train_data:28917,Hitched (2001),thriller,thriller,True
+train_data:48736,Das alte Gesetz (1923),drama,drama,True
+train_data:46873,Heer Ranjha: A True Love Story (2009),romance,romance,True
+train_data:7483,The Escape (2015/IV),drama,horror,False
+train_data:29153,Crown Jewels (1918),drama,drama,True
+train_data:40189,Duet for One (1986),drama,romance,False
+test_data_solution:18346,The Cariboo Trail (1950),western,western,True
+train_data:53010,"""Argyle Park"" (2014)",crime,crime,True
+test_data_solution:43093,Hak do fung wan (2002),action,action,True
+train_data:15234,Capitan Pepe (1969),action,romance,False
+test_data_solution:35569,Los muertos (2017),horror,horror,True
+train_data:53935,Advent (2011),science_fiction,science_fiction,True
+train_data:51163,Grow Home (2015),adventure,science_fiction,False
+test_data_solution:32809,Bad Match (2017),thriller,horror,False
+test_data_solution:14714,The Meeting (2017/I),thriller,thriller,True
+train_data:33448,Aaj Ka Laawaris (2006),action,action,True
+train_data:3779,Sonchidi (2011),science_fiction,horror,False
+train_data:53168,Van Gog ne vinovat (2008),romance,drama,False
+test_data_solution:52783,The Lost Jungle (1934/II),adventure,romance,False
+train_data:24037,Candyman: Farewell to the Flesh (1995),horror,horror,True
+train_data:46044,Measure (????),crime,action,False
+test_data_solution:6843,The Legend of Heroes: Trails in the Sky (2004),adventure,adventure,True
+test_data_solution:42432,Apache Woman (1955),western,western,True
+train_data:53612,Perfect Day (2011),drama,horror,False
+train_data:7026,Blue Seduction (2009),thriller,thriller,True
+train_data:43989,City of Bad Men (1953),western,western,True
+train_data:1229,Fear of Silent Hill (2016),horror,romance,False
+test_data_solution:49299,On the Edge of Innocence (1997),drama,romance,False
+train_data:9352,The Time Travelers (1964),science_fiction,science_fiction,True
+train_data:7881,Friends or Just Roomies? (2015),comedy,romance,False
+test_data_solution:18353,"""The Cave"" (????)",thriller,horror,False
+test_data_solution:22052,La Borgata (????),crime,crime,True
+train_data:29851,McKenna of the Mounted (1932),western,western,True
+train_data:45820,I Love Mama (1975),drama,romance,False
+train_data:30575,Mistress Sabrina's School & Other Tales (2001),adventure,adventure,True
+train_data:24371,Con Girls (????),action,action,True
+test_data_solution:22839,The 4th Letter of Ponce De Leon (????),adventure,adventure,True
+train_data:2163,Vartamaan (????),crime,drama,False
+train_data:43588,Dagon: Troll World Chronicles (2017),science_fiction,science_fiction,True
+train_data:41913,Dogman (2012),thriller,horror,False
+test_data_solution:14955,The Elements Club: Lord of Flawless Strength (2014),romance,romance,True
+train_data:10135,"""#7DaysLater"" (2013)",comedy,comedy,True
+test_data_solution:31158,"""Twisted"" (2017/II)",drama,drama,True
+train_data:7571,Und alle haben geschwiegen (2012),drama,drama,True
+train_data:7573,Honor of the Mounted (1932),western,western,True
+test_data_solution:41953,Valkyria Chronicles 4 (2018),action,science_fiction,False
+test_data_solution:36156,"""Outlasters"" (2016)",science_fiction,adventure,False
+test_data_solution:19724,"Down, Out & Dangerous (1995)",thriller,thriller,True
+test_data_solution:51386,Hard Ground (2003),western,western,True
+train_data:8147,To Be Honest (2015),science_fiction,action,False
+test_data_solution:20530,Hwa-ryeo-han-hyoo-ga (2007),drama,horror,False
+train_data:12129,Z+Clipse (????),adventure,action,False
+test_data_solution:21338,The Big Steal (????),thriller,crime,False
+train_data:28821,Magma (2009),thriller,thriller,True
+train_data:47764,"""Kona"" (2013)",drama,drama,True
+train_data:24277,You'll Never Get Away with This! (1995),adventure,adventure,True
+train_data:42397,Chasing the Devil (2014),horror,horror,True
+test_data_solution:35464,No Exit (1996),crime,crime,True
+train_data:38905,Battling Boy (????),action,horror,False
+train_data:49185,Wolfsbayne (2005),horror,horror,True
+train_data:4394,Superman vs Doomsday (????),action,action,True
+train_data:28648,Toys of War (2016),action,action,True
+train_data:29777,Naakt over de schutting (1973),thriller,crime,False
+train_data:27102,A Broken Life (2007),drama,drama,True
+test_data_solution:8538,Cuerda de presos (1956),drama,crime,False
+train_data:20892,Mr Ya Miss (2005),comedy,drama,False
+test_data_solution:8522,Hooligan Escape (????),crime,action,False
+train_data:38096,Immune (2016),horror,horror,True
+test_data_solution:10647,The Meeting (2012/I),drama,horror,False
+train_data:9586,The Son of Monte Cristo (1940),adventure,action,False
+test_data_solution:11027,Secretaries Are Never Safe (2011),adventure,adventure,True
+train_data:3282,Ponniyin Selvan (2005),romance,drama,False
+train_data:15582,Stunt Pilot (1939),adventure,crime,False
+test_data_solution:2501,The Wrath (2007),horror,adventure,False
+test_data_solution:32105,Mera Dil Tere Liye (1992),romance,romance,True
+train_data:50793,"""End Transmission"" (2008)",horror,horror,True
+test_data_solution:36193,A Savior Red (2010),thriller,horror,False
+train_data:53635,Il pistolero segnato da Dio (1968),western,crime,False
+test_data_solution:13051,The X-Files: Back from the Dead Fan Film (????),science_fiction,thriller,False
+test_data_solution:24183,Twizzlers: The Movie (2015),comedy,thriller,False
+test_data_solution:43551,"""Lemonade Stand"" (2014)",comedy,comedy,True
+test_data_solution:491,Zamuros Way (????),action,drama,False
+test_data_solution:40567,Frankenfish (2004),horror,horror,True
+test_data_solution:8275,Akarshan (1988),romance,romance,True
+test_data_solution:17572,"""Forgotten Memories"" (2016)",action,horror,False
+test_data_solution:39134,Neben der Spur - Dein Wille geschehe (2017),thriller,crime,False
+train_data:3192,Once Upon a Winter's Night (2012),drama,crime,False
+train_data:47002,Caught in the Fog (1928),thriller,adventure,False
+test_data_solution:8388,Estratto dagli archivi segreti della polizia di una capitale europea (1972),horror,horror,True
+test_data_solution:21961,Salt Lake Raiders (1950),western,western,True
+test_data_solution:24658,Deux femmes en or (1970),comedy,thriller,False
+test_data_solution:44885,Underground (1998),crime,horror,False
+test_data_solution:5221,A Loving Gentleman (????),romance,romance,True
+train_data:37673,Anadellia Arises (2018),horror,horror,True
+train_data:42692,La route de Corinthe (1967),thriller,action,False
+train_data:8421,No Rancho Fundo (1971),comedy,comedy,True
+test_data_solution:45333,Povest o stríbrné jedli (1973),drama,drama,True
+test_data_solution:24662,Bruges-La-Morte (1978),romance,thriller,False
+train_data:34351,Battaglie negli spazi stellari (1978),science_fiction,science_fiction,True
+train_data:33066,The Locket (2002),drama,drama,True
+test_data_solution:51719,Wild Beauty (1927),western,western,True
+test_data_solution:42421,Get Outta Dodge (2010),action,crime,False
+test_data_solution:1899,Ramta Jogi (2015),romance,romance,True
+test_data_solution:11632,"""Slackers"" (2018)",comedy,comedy,True
+train_data:40521,Noshtta sreshtu 13-i (1961),crime,drama,False
+test_data_solution:40775,The Estate Film (2011),crime,crime,True
+test_data_solution:25523,Weatherman '69 (1989),crime,thriller,False
+train_data:40930,For the Defense (1930),drama,crime,False
+test_data_solution:1695,The Speed of Dark (2018),drama,thriller,False
+test_data_solution:31973,The Big Year (2011),comedy,thriller,False
+test_data_solution:42647,The Iron Rider (1926),western,western,True
+test_data_solution:37466,I Married a Method Actor (2015),comedy,drama,False
+train_data:21180,"""Lázaro"" (????)",thriller,crime,False
+train_data:48945,Mudhal Mudhal Mudhal Varai (2009),drama,drama,True
+test_data_solution:42621,"""You are my sisters"" (2016)",romance,drama,False
+test_data_solution:14463,Mission: The Last War (2008),action,crime,False
+train_data:2905,Princess Cut (2015),romance,romance,True
+test_data_solution:45274,Edge of the Empire (2010),action,adventure,False
+test_data_solution:9834,Escape from Kings Park (2014),thriller,horror,False
+test_data_solution:44987,Crossed Earth (2008),horror,horror,True
+train_data:27109,Mind Over Motor (1923),comedy,western,False
+train_data:16280,"""Frontier Guard"" (2010)",science_fiction,drama,False
+train_data:50133,Vulnerables (2012),thriller,thriller,True
+train_data:34453,The Primitive Call (1917),western,western,True
+train_data:30858,Dark Planet (1997),science_fiction,science_fiction,True
+test_data_solution:4903,The Barn: The Video Game (2016),horror,horror,True
+train_data:28482,Once Upon a Time (2013/I),adventure,science_fiction,False
+train_data:8265,"""Capkovy kapsy"" (2010)",crime,crime,True
+train_data:703,Baby Shower (2011),horror,horror,True
+test_data_solution:9510,Seven Crosses (2008),thriller,crime,False
+train_data:40372,8 Minutes Idle (2012),comedy,comedy,True
+test_data_solution:31549,Gold Struck (2018),adventure,adventure,True
+train_data:614,Replicant Terminus (2017),science_fiction,science_fiction,True
+test_data_solution:27166,Of One Blood (2012),drama,drama,True
+test_data_solution:26374,The Smallest Show on Earth (1957),comedy,horror,False
+test_data_solution:23641,"""Millions"" (2015)",drama,action,False
+test_data_solution:53849,Real Investigations (2000),adventure,adventure,True
+train_data:50492,Innocent Girls Held Captive (2010),adventure,adventure,True
+test_data_solution:29814,Shamelady (2007),thriller,action,False
+train_data:9017,Niji no shita ni (2005),drama,drama,True
+test_data_solution:39925,Les grands ducs (1996),comedy,action,False
+train_data:44877,Paraíso (2013/I),romance,comedy,False
+train_data:42927,Löggulíf (1985),comedy,crime,False
+train_data:47954,Gang Busters (1942),crime,crime,True
+test_data_solution:19935,Hooray for the Madness (2017),comedy,comedy,True
+test_data_solution:27665,De witte (1980),drama,drama,True
+train_data:5982,Non plus ultras (2004),comedy,drama,False
+test_data_solution:42250,This Darkness: The Vampire Virus (2003),horror,horror,True
+test_data_solution:2259,Bounty Hunter Vixens: Carnal Enchantment (2003),action,horror,False
+train_data:31236,El secreto de Romelia (1988),romance,comedy,False
+train_data:53533,The Drivetime (1995),science_fiction,thriller,False
+test_data_solution:28168,Malach (2013),horror,horror,True
+test_data_solution:28136,Rising Fear (2016),action,action,True
+test_data_solution:51644,Capt. Jack Nayra: Alas Ng Makati Police (1994),action,action,True
+train_data:37616,Science of Luck (2018),thriller,thriller,True
+test_data_solution:25596,Im Anfang war das Herz (2016),crime,horror,False
+test_data_solution:16499,Island of Lost Women (1959),adventure,science_fiction,False
+train_data:47163,Dirty Movie (2011),comedy,comedy,True
+train_data:35961,"""Invasión"" (2012)",science_fiction,science_fiction,True
+train_data:25006,Fast Bullets (1936),western,western,True
+test_data_solution:22880,Fall of the Unknown (????),science_fiction,thriller,False
+train_data:18557,Correct Change (2002),crime,crime,True
+test_data_solution:23489,Artistka (2007),romance,romance,True
+test_data_solution:42508,Joyonghi salgo shipeo (1969),crime,crime,True
+train_data:6833,Only Human (2009/II),romance,romance,True
+test_data_solution:4152,Johnny Boy (2009),crime,crime,True
+test_data_solution:7175,Sharyat (2011),action,drama,False
+test_data_solution:25412,Acid Daemons (????),horror,crime,False
+test_data_solution:5166,Stranded (2006),thriller,romance,False
+train_data:814,Orange Love Story (2004),romance,romance,True
+test_data_solution:41767,Keepin' the Faith: My Baby's Gettin' Married! (2009),comedy,drama,False
+test_data_solution:31056,Kara Murat: Seyh Gaffar'a Karsi (1976),adventure,action,False
+train_data:8916,Je suis avec toi (1943),romance,romance,True
+train_data:8,One Step Away (1985),crime,drama,False
+test_data_solution:42765,Brothers in the Saddle (1949),western,western,True
+train_data:37664,Lady Krampus (2016),horror,horror,True
+train_data:17791,Duplicity (2004),crime,thriller,False
+test_data_solution:49720,The Girl on a Motorcycle (1968),romance,drama,False
+test_data_solution:17947,Black Dragon Canyon (2005),western,drama,False
+test_data_solution:24738,Paayum Puli (1983),action,action,True
+test_data_solution:47658,Une jeune fille (2013),drama,drama,True
+train_data:20063,Wild Rovers (1971),western,western,True
+train_data:6738,Tomorrowless (????),science_fiction,science_fiction,True
+test_data_solution:524,Worth (????),science_fiction,science_fiction,True
+train_data:46845,"""The Big Adventure"" (2014)",adventure,crime,False
+train_data:8513,Unseen Evil 2 (2004),horror,thriller,False
+train_data:21559,Summer (????/II),romance,drama,False
+test_data_solution:23243,Geomorph (2009),science_fiction,horror,False
+test_data_solution:31051,El apóstata (2015/I),comedy,comedy,True
+train_data:36372,The Accident (1983),action,action,True
+test_data_solution:34116,"""Thunderbirds"" (2015)",science_fiction,action,False
+train_data:9953,Two Thousand Maniacs! (1964),horror,horror,True
+train_data:39106,Alien Arsenal (1999),science_fiction,comedy,False
+test_data_solution:16038,Code of the Cactus (1939),western,western,True
+test_data_solution:46350,Contagio (2009),horror,action,False
+test_data_solution:10637,HumanTown (2016),comedy,horror,False
+train_data:41759,"""Against All Odds"" (1992)",adventure,action,False
+test_data_solution:813,My Dad's Valentine (????),romance,thriller,False
+test_data_solution:17701,Eutamnesia (2000),science_fiction,science_fiction,True
+test_data_solution:26082,Short Grass (1950),western,western,True
+train_data:10601,Con Express (2002),action,crime,False
+train_data:37438,Her Private Life (1929),drama,drama,True
+train_data:34472,Lovers (2014),romance,romance,True
+test_data_solution:489,The Masked Dancer (1924),romance,drama,False
+train_data:45226,Holmes University 4: Origins of the Fall (2016),crime,thriller,False
+test_data_solution:27334,In Early Arizona (1938),western,western,True
+test_data_solution:1995,The Interrogation (1998),adventure,adventure,True
+train_data:21709,Trailing Trouble (1930),western,western,True
+test_data_solution:2088,Vangels IRA (????),science_fiction,science_fiction,True
+test_data_solution:23570,Geronimo (2014/I),romance,drama,False
+test_data_solution:15336,There Goes My Hero (2018),action,action,True
+train_data:1236,Failing Grace (2017),thriller,horror,False
+test_data_solution:4886,Choihui jeongmumun (1977),action,action,True
+train_data:52998,Execs Snared in Rope and Silenced with Tape (2011),adventure,adventure,True
+test_data_solution:1730,Siraj (1999),romance,drama,False
+test_data_solution:4348,To Save a Life 2 (????),drama,action,False
+test_data_solution:23642,Ikona sezona (2013),drama,drama,True
+test_data_solution:51238,Tim Tyler's Luck (1937),adventure,adventure,True
+test_data_solution:10693,Ouija Board (2009),horror,horror,True
+train_data:37551,"""Cupid"" (2015)",comedy,romance,False
+train_data:22241,My Master Satan: 3 Tales of Drug Fueled Violence (2016),horror,horror,True
+train_data:4959,Maybe the World's Gretest Comedy Show Ever (1994),comedy,comedy,True
+train_data:5231,Slaughter (2009),horror,horror,True
+test_data_solution:7842,"""Warp"" (1999)",science_fiction,comedy,False
+train_data:6559,Ride the Man Down (1952),western,western,True
+train_data:43563,"The Girl, the Gun, & Everything (2013)",crime,crime,True
+test_data_solution:12581,Gadael Lenin (1994),comedy,comedy,True
+train_data:9464,Apoy sa dibdib ng samar (2006),action,drama,False
+test_data_solution:40948,Und sie kehrten niemals wieder (2013),western,action,False
+test_data_solution:17005,Dark Shade Creek (2012),horror,horror,True
+test_data_solution:23967,Le combat dans l'île (1962),drama,drama,True
+train_data:26326,The Empire Strikes Back Uncut: Director's Cut (2014),science_fiction,action,False
+train_data:29437,Gadano Bel (1950),drama,drama,True
+train_data:11365,"Maxi, bitte kommen (1990)",drama,drama,True
+test_data_solution:29537,Cadaverella (2007),horror,horror,True
+test_data_solution:43562,Manifest Destiny (????/II),adventure,adventure,True
+train_data:50584,Paramathma (2011),romance,romance,True
+test_data_solution:21013,The Lonesome Trail (1930),western,western,True
+test_data_solution:42282,A Killing on Brighton Beach (2009),crime,crime,True
+test_data_solution:5200,The Walk (2013),science_fiction,adventure,False
+test_data_solution:21247,Motocross Maniacs Advance (2002),action,adventure,False
+test_data_solution:45828,"""Poor Paul"" (2008)",comedy,comedy,True
+train_data:15107,... Just a Job (2007),crime,action,False
+train_data:47233,Flying High (1926),action,crime,False
+test_data_solution:7628,Tanga-Tika (1953),drama,romance,False
+train_data:14659,Not Fade Away (2012),drama,drama,True
+test_data_solution:16408,2016 (2010),science_fiction,science_fiction,True
+test_data_solution:43368,Reprisal (????),crime,crime,True
+test_data_solution:45276,Three Word Brand (1921),western,western,True
+train_data:47653,Rana (2008),thriller,horror,False
+test_data_solution:7314,"""Heirs from Another Star"" (2014)",romance,romance,True
+test_data_solution:43276,"""Treasure Island"" (2016)",adventure,adventure,True
+test_data_solution:46224,5 (Cinque),crime,crime,True
+test_data_solution:54101,Face 2 Face (2016),drama,drama,True
+train_data:33754,D-dag - Niels-Henning (2000),crime,crime,True
+train_data:43956,Myeongdongeul deonamyeonseo (1973),action,action,True
+test_data_solution:34203,"""Nutrients"" (2016)",science_fiction,science_fiction,True
+train_data:21958,"""Fujiko"" (2015)",thriller,crime,False
+train_data:40669,"""Friend, Our Legend"" (2009)",romance,drama,False
+test_data_solution:53215,Prince of Pirates (1953),adventure,adventure,True
+test_data_solution:45960,The Arriviste (2012),crime,horror,False
+train_data:10554,Boneshakers (1999),action,action,True
+train_data:8263,En apatía (2014),drama,crime,False
+test_data_solution:25925,WrestleMania VIII (1992),action,action,True
+test_data_solution:32475,Dark Venture (1956),adventure,adventure,True
+train_data:25696,Cherokee Uprising (1950),western,western,True
+test_data_solution:42956,Code Black (2017),action,thriller,False
+test_data_solution:52218,Square Shoulders (1929),crime,action,False
+train_data:1804,"""Team Investigating the Supernatural"" (2013)",adventure,horror,False
+test_data_solution:48199,Boksuneun naege matgyeora (1982),action,action,True
+train_data:45867,"""Best Ranger"" (2005)",action,action,True
+train_data:22562,The Count Lucanor (2016),horror,adventure,False
+test_data_solution:31823,Bomberman Hero (1998),adventure,science_fiction,False
+test_data_solution:3684,Stargames (1998),science_fiction,science_fiction,True
+train_data:52192,Santa Fe (1951),western,western,True
+train_data:36270,Slaves in Cages: 'Slaver i bure' (1972),crime,comedy,False
+test_data_solution:7236,The Human Centipede II (Full Sequence) (2011),horror,horror,True
+test_data_solution:46201,Lights Out (1923),crime,western,False
+train_data:21580,Shardlight (2016),adventure,science_fiction,False
+test_data_solution:16563,Mizutani Kei: Insatsu no toriko (1995),science_fiction,science_fiction,True
+train_data:34863,Mystic (2011),science_fiction,science_fiction,True
+train_data:3112,Boogie (1981),comedy,action,False
+train_data:29776,De Utsatta (2011),thriller,horror,False
+test_data_solution:4589,The Dog Who Saved Christmas (2009),comedy,crime,False
+train_data:15927,Notre Dame des Barjots (2010),thriller,crime,False
+train_data:44894,Endeavour (????/I),science_fiction,science_fiction,True
+train_data:26216,"""7 Demons"" (????)",science_fiction,horror,False
+test_data_solution:428,Fast Zombies with Guns (2009),horror,horror,True
+train_data:48953,Challenge of the Range (1949),western,western,True
+test_data_solution:16522,Terror from the Year 5000 (1958),science_fiction,science_fiction,True
+train_data:37429,Riders of the Cactus (1931),western,western,True
+train_data:24989,Under Western Stars (1938),western,western,True
+test_data_solution:4656,Attack of the Jungle Women (1959),drama,action,False
+train_data:53263,Unseen Evil (2001),horror,horror,True
+train_data:10784,North of the Rio Grande (1937),western,western,True
+train_data:29182,"""Vennori: Mirror's Edge"" (2014)",adventure,crime,False
+test_data_solution:48181,Montana (1990),western,science_fiction,False
+test_data_solution:36425,"""Caraibi"" (1999)",adventure,adventure,True
+test_data_solution:38727,"""Beauty and the Beast"" (2014)",romance,romance,True
+train_data:37829,Group Therapy: OCD (2017),comedy,drama,False
+train_data:31042,Women Do It Better (2009),comedy,comedy,True
+train_data:33895,Find Love (2006),romance,romance,True
+test_data_solution:36911,Where Evil Lives (1991),horror,horror,True
+train_data:15496,The Lost Scenes of Julie Van Buren & Other Tales (1998),adventure,adventure,True
+test_data_solution:35861,Damskiy portnoy (1990),drama,drama,True
+test_data_solution:48252,"""Murphy's Law of Love"" (2015)",romance,romance,True
+train_data:29143,The Red-Light Sting (1984),thriller,crime,False
+train_data:40192,The Kidnapping of Demi Morgan (2008),adventure,adventure,True
+test_data_solution:48576,Obycajny spás (1990),drama,drama,True
+test_data_solution:42439,La papesse (1975),horror,comedy,False
+test_data_solution:39239,Welcome to the Majority (2013),thriller,science_fiction,False
+train_data:26279,Et toi t'es sur qui? (2007),romance,romance,True
+test_data_solution:45944,Thundering Gun Slingers (1944),western,western,True
+train_data:5198,Chennaiyil Oru Naal (2013),thriller,thriller,True
+test_data_solution:24732,A Knight's Name (????),adventure,adventure,True
+test_data_solution:197,Moses: Fallen. In the City of Angels. (2005),action,horror,False
+train_data:50733,Blackout (2013/VI),crime,drama,False
+train_data:39135,Silent Valley (1935),western,western,True
+test_data_solution:23192,Une femme aux abois (1967),crime,crime,True
+train_data:40645,Knee Dancing (1988),drama,drama,True
+test_data_solution:32070,Cosmic Dissonance (2006),science_fiction,science_fiction,True
+train_data:47817,The Go-To Guys (????),comedy,crime,False
+train_data:28291,"""Code thirteen"" (2012)",action,action,True
+test_data_solution:29029,"""Dark Secrets"" (2013)",science_fiction,horror,False
+test_data_solution:50573,Eyeless Jack (2018),horror,crime,False
+test_data_solution:47371,El aullido del diablo (1987),horror,adventure,False
+test_data_solution:42629,"""The Disappearance of Maura Murray"" (2017)",crime,thriller,False
+train_data:341,No Man's Land (2018),horror,horror,True
+train_data:8895,Anyone You Want (2010),romance,thriller,False
+test_data_solution:41581,Tainá: A Origem (2011),adventure,adventure,True
+train_data:15607,No Trespassing (2017),thriller,thriller,True
+test_data_solution:18922,Stricken (2010),thriller,horror,False
+test_data_solution:48846,"""Mind Games"" (2016)",thriller,thriller,True
+test_data_solution:42502,Suhagan (1986),romance,drama,False
+test_data_solution:19060,"""That's Educational"" (2014)",comedy,comedy,True
+test_data_solution:32344,Kungfu Kid (2013),action,action,True
+train_data:11756,Run Like Hell (1995),science_fiction,science_fiction,True
+test_data_solution:40068,The Blind Goddess (1948),drama,crime,False
+test_data_solution:49918,Der Vertrag (2017),action,action,True
+test_data_solution:42783,Don't Fence Me In (1945),western,crime,False
+test_data_solution:31447,Jigoku (1999),horror,horror,True
+test_data_solution:6040,Pig (2010),horror,horror,True
+train_data:42443,Yerankyuni (1967),drama,drama,True
+test_data_solution:31296,Ekato hiliades lires (1948),comedy,comedy,True
+train_data:52451,"Surfer, Dude (2008)",comedy,comedy,True
+train_data:34677,"""Shuang mian jiao"" (2008)",romance,romance,True
+train_data:47198,En tu cabeza (2016),science_fiction,science_fiction,True
+test_data_solution:38393,Blanc (2012),crime,crime,True
+train_data:40946,Meng jiao di she long nu (1973),action,action,True
+test_data_solution:26902,El precio de un hombre (1966),western,western,True
+test_data_solution:119,Finish Line (2008),crime,action,False
+test_data_solution:13498,Aai Shappath..! (2006),drama,drama,True
+test_data_solution:4466,San Fernando Valley (1944),western,western,True
+train_data:39710,The Estranged Escapades of Conrad Sanderson (????),science_fiction,action,False
+test_data_solution:46252,Disgaea 5: Alliance of Vengeance (2015),adventure,action,False
+train_data:8530,You Only Live Once (2016),romance,romance,True
+test_data_solution:37239,Bhairav (2001),action,crime,False
+train_data:30731,Drowned (????),drama,romance,False
+train_data:34032,White Bee (2016),romance,drama,False
+train_data:17275,Dark Side of Heaven (2008),science_fiction,science_fiction,True
+test_data_solution:29925,Blood of Yasuke (2018),adventure,horror,False
+test_data_solution:33807,"""Killision Course"" (2016)",crime,thriller,False
+test_data_solution:34909,Mala Tempora (2008),drama,horror,False
+test_data_solution:35025,6iX (????),thriller,horror,False
+train_data:42294,String Beans (1918),comedy,romance,False
+test_data_solution:50912,Angel Express (1998),drama,horror,False
+test_data_solution:37080,Beyond Oasis (1995),adventure,adventure,True
+train_data:26721,Bungalow (2002),drama,drama,True
+test_data_solution:18952,The Great Gildersleeve (1942),comedy,adventure,False
+train_data:29645,The Incredible Adventures of Van Helsing III (2015),adventure,horror,False
+train_data:36720,The Final Curtain (2014),crime,horror,False
+test_data_solution:50012,CarnieVille (????),horror,horror,True
+train_data:36111,Side Effx (2009),science_fiction,horror,False
+test_data_solution:21714,The Sketcher's Mark (????),thriller,crime,False
+test_data_solution:1458,Headin' for the Rio Grande (1936),western,western,True
+test_data_solution:16824,Riders of the Purple Sage (1918),western,western,True
+test_data_solution:5190,West of Cheyenne (1931),western,western,True
+train_data:46113,Night of Redemption (2010),adventure,action,False
+train_data:39682,Becoming Galactic (????),science_fiction,science_fiction,True
+train_data:50818,Sauda (1995),romance,romance,True
+train_data:19072,Up and Down Again (2006),drama,drama,True
+test_data_solution:45146,Kon rak mun rob tua rao (2009),romance,romance,True
+train_data:20061,The Killing Machines (2007),thriller,crime,False
+train_data:47236,The Wizard of Oz (1993),adventure,adventure,True
+test_data_solution:12692,I Got Five on It Too (2009),comedy,comedy,True
+test_data_solution:45775,Underneath (2015/I),thriller,drama,False
+test_data_solution:36524,His Mystery Girl (1923),comedy,adventure,False
+test_data_solution:4831,Flinch (1994),thriller,thriller,True
+train_data:17501,A.D.A.M: The Beginning (2013),science_fiction,drama,False
+test_data_solution:46961,Menace (2017/I),action,action,True
+train_data:11929,The Gorda (2015),western,western,True
+test_data_solution:35869,"""Ha-Klum HaGadol"" (2017)",comedy,science_fiction,False
+test_data_solution:47939,Antes Que Ela Vá (2017),romance,drama,False
+test_data_solution:33508,Control (2018/III),crime,action,False
+test_data_solution:16811,Heroes for Hire (1984),action,action,True
+train_data:49799,"""Death in the Family"" (2013)",crime,romance,False
+train_data:10088,Douce (1943),drama,comedy,False
+train_data:21886,Killungard (????),horror,horror,True
+test_data_solution:26713,The Hollow (2015),horror,horror,True
+test_data_solution:32360,Glass: A Love Story (????),romance,romance,True
+test_data_solution:47974,Tropical Manila (2008),drama,drama,True
+train_data:21994,"""Abonent vremenno nedostupen"" (2009)",romance,drama,False
+train_data:29421,Ottamuri Velicham (2017),drama,thriller,False
+train_data:44119,Extraction (2013/II),action,action,True
+train_data:41004,Cognition (2015),science_fiction,horror,False
+test_data_solution:18142,The Last Outlaw (1936),western,western,True
+test_data_solution:47715,Tarzán en la gruta del oro (1969),adventure,adventure,True
+test_data_solution:49129,Ferhat ile Sirin (1970),romance,adventure,False
+train_data:16574,Reportery (2008),crime,action,False
+train_data:21984,Une histoire d'âme (2015),drama,drama,True
+test_data_solution:16572,Seg/me/nts (2006),crime,crime,True
+test_data_solution:16521,Ashta Chamma (2008),comedy,comedy,True
+test_data_solution:53142,Alien Tracker (2003),science_fiction,science_fiction,True
+test_data_solution:13976,We Are Water (????),drama,science_fiction,False
+test_data_solution:48421,Hard Men (1996),crime,crime,True
+test_data_solution:25250,Nagana (1955),adventure,adventure,True
+test_data_solution:53094,Dunkle Tage (1999),drama,drama,True
+train_data:46754,"""En by i provinsen"" (1977)",crime,crime,True
+test_data_solution:23195,A-Bo the Humonkey (2008),comedy,horror,False
+test_data_solution:32545,Victoria's Shadow (2001),horror,horror,True
+test_data_solution:46799,"Sleep, Baby, Sleep (1995)",thriller,drama,False
+train_data:7983,Juleblod (2017),horror,thriller,False
+test_data_solution:861,The Willing Suspension of Disbelief (2007),action,crime,False
+train_data:9666,Invader X (????),science_fiction,science_fiction,True
+train_data:39658,Night Cry (2005),horror,horror,True
+test_data_solution:54164,Reflections: A Spring Break Fantasy (2004),romance,romance,True
+test_data_solution:51974,Shirzan (????),action,horror,False
+train_data:41049,Rosor kyssar och döden (2013),crime,romance,False
+train_data:38767,Stiff'd (2011),comedy,horror,False
+test_data_solution:39790,The Late George Apley (1947),comedy,romance,False
+train_data:25022,Remodeling Her Husband (1920),comedy,thriller,False
+train_data:28267,"""TRIO: Odins Gull"" (2014)",crime,adventure,False
+test_data_solution:24867,Mister Scrooge to See You (2013),adventure,comedy,False
+test_data_solution:38949,The Passing (2011),horror,horror,True
+train_data:14082,I Hope They Serve Beer in Hell (2009),comedy,comedy,True
+train_data:15930,"Gli occhi, la bocca (1982)",drama,drama,True
+train_data:4474,Legacy (2010/II),thriller,horror,False
+test_data_solution:24850,Fantastic Movie Trailers 12: VHS Rewind! Tape 3 (2013),action,science_fiction,False
+test_data_solution:50208,Klown Kamp Massacre (2010),horror,horror,True
+test_data_solution:42436,The Magnificent Raiders of Dimension War One (2018),science_fiction,science_fiction,True
+test_data_solution:31125,The Same Day (2012),crime,crime,True
+test_data_solution:13806,Pirates of Tortuga (1961),adventure,science_fiction,False
+test_data_solution:53278,"Sven: The Coach, the Cash and His Lovers (2006)",comedy,comedy,True
+train_data:40961,Thee Recluse: The Book of Damon (????),action,horror,False
+train_data:4937,"""Trial of Leaves"" (2013)",horror,horror,True
+test_data_solution:43118,Stagecoach Outlaws (1945),western,western,True
+test_data_solution:37716,Paranormal Chasers Legend of the Black Cross (2015),science_fiction,horror,False
+test_data_solution:37561,I Shot Billy the Kid (1950),western,western,True
+train_data:38904,Velainu Vandhutta Vellaikaaran (2016),comedy,romance,False
+test_data_solution:35808,"""Phrenic"" (2013)",science_fiction,science_fiction,True
+train_data:44284,Sollamale (1998),romance,drama,False
+train_data:37164,Monstrosity (2007),horror,thriller,False
+train_data:52885,Zerks Log (2009),science_fiction,science_fiction,True
+test_data_solution:6811,"""Anos Dourados"" (1986)",romance,romance,True
+test_data_solution:45144,Kozure Ôkami: Oya no kokoro ko no kokoro (1972),action,action,True
+train_data:18466,Dünyanin en güzel kadini (1968),romance,romance,True
+test_data_solution:14462,Yong zheng yu nian geng yao (1980),action,adventure,False
+train_data:46608,For Tom and All Eternity (2009),romance,horror,False
+train_data:31640,Oklahoma Frontier (1939),western,western,True
+test_data_solution:43476,Beyond What Remains (2016),drama,drama,True
+train_data:18856,The Pinto Kid (1941),western,western,True
+test_data_solution:40714,Who:3 (2015),science_fiction,crime,False
+test_data_solution:37695,Dak Bangla (1987),horror,horror,True
+test_data_solution:272,The Laramie Trail (1944),western,western,True
+test_data_solution:44117,"Samo ti, sartze (1987)",drama,drama,True
+train_data:4517,Horror Filmed (2013),horror,horror,True
+train_data:10736,Mr. Blue Shirt: The Inspiration (2018),adventure,science_fiction,False
+train_data:53951,Zhizn i udivitelnye priklyucheniya Robinzona Kruzo (1973),adventure,drama,False
+test_data_solution:15555,Blowback (2000),thriller,action,False
+train_data:36819,Indomptable Angélique (1967),adventure,science_fiction,False
+test_data_solution:2838,Reversion (????/III),science_fiction,crime,False
+test_data_solution:18674,T.N.T. (1997),action,action,True
+test_data_solution:53729,The Reel Killer (????),horror,thriller,False
+test_data_solution:557,Oasis lyubvi (2012),romance,drama,False
+test_data_solution:22470,Bare Fists (1919),western,western,True
+test_data_solution:41398,Pu Pu Platter (????),comedy,romance,False
+train_data:53001,Mermaids: The Body Found (2011),science_fiction,adventure,False
+train_data:8445,"Keep It Up, Jack (1974)",comedy,romance,False
+test_data_solution:45994,Sweetheart (2016/I),romance,romance,True
+test_data_solution:36974,Caliber X (????),science_fiction,adventure,False
+test_data_solution:48238,Pride of the Plains (1944),western,western,True
+train_data:48669,Twisted Tales (1994),horror,horror,True
+test_data_solution:20895,The Richardsons by Fred Dinenage (2012),crime,comedy,False
+train_data:47185,The Wild Westerners (1962),western,western,True
+train_data:28113,Crossing (2019),thriller,thriller,True
+test_data_solution:18797,Neruna par to (2007),drama,romance,False
+test_data_solution:31758,Teketeke (2009),horror,horror,True
+test_data_solution:36075,Bohemian Moon (1999),horror,horror,True
+train_data:31705,Biwi No. 2 (2000),romance,romance,True
+test_data_solution:51741,Nothing More Than Murder (????),thriller,thriller,True
+test_data_solution:5050,Scottish Mussel (2015),comedy,action,False
+test_data_solution:2620,Natgwa bam (1968),action,action,True
+test_data_solution:34395,Gone with the Pope (2010),crime,crime,True
+test_data_solution:51281,O Filme da Minha Vida (2017),drama,drama,True
+test_data_solution:41637,Banished (????),science_fiction,science_fiction,True
+train_data:42559,Dente per dente (1943),comedy,horror,False
+test_data_solution:44388,Ariella (1980),drama,drama,True
+test_data_solution:49431,"""Icarus: Twist of Fates"" (????)",science_fiction,science_fiction,True
+train_data:23412,The Great Jesse James Raid (1953),western,western,True
+test_data_solution:23666,Rosie's Riveters (????),action,action,True
+test_data_solution:2192,Happy Ending (2015/III),romance,romance,True
+train_data:15004,Will Reading (2017),comedy,comedy,True
+train_data:31537,Sansone contro i pirati (1963),adventure,adventure,True
+train_data:10335,Clothes Make the Pirate (1925),adventure,comedy,False
+train_data:24462,"Zeki, Florian, and Kelly! (1996)",crime,adventure,False
+train_data:30475,Bouquetreeks De Film: Trots & Verlangen (2016),romance,romance,True
+test_data_solution:23839,"""Jiu xiang lai zhe ni"" (2010)",romance,romance,True
+test_data_solution:8494,Mirage (2005/I),romance,romance,True
+train_data:36803,Citizen X (2002),thriller,action,False
+test_data_solution:51022,Kilimanjaro (2012),adventure,comedy,False
+train_data:49750,C/O Sir (2013),crime,horror,False
+test_data_solution:23416,The Fresh Air Will Do You Good (2008),science_fiction,science_fiction,True
+train_data:27117,Heukyakoegaek (1973),action,western,False
+train_data:43071,Trail of the Rustlers (1950),western,western,True
+train_data:12632,Tillie Wakes Up (1917),comedy,thriller,False
+test_data_solution:8678,"""Nowhere to Run"" (2018)",thriller,horror,False
+test_data_solution:30844,"""Tiger Cubs"" (2012)",romance,action,False
+train_data:32852,A Questionable Protagonist (????),crime,crime,True
+test_data_solution:31644,Hanging Millstone (2016),crime,drama,False
+test_data_solution:22231,A Beautiful Distraction (????),thriller,thriller,True
+train_data:18844,Tai ji ba jiao (1982),action,action,True
+test_data_solution:8203,F-Listers: of the Off Red Carpet (????),comedy,comedy,True
+train_data:32402,Dead Is Dead: The Directors Cut (2008),horror,horror,True
+train_data:52461,Araneum (2010),science_fiction,drama,False
+train_data:2414,Jasmine (2015/I),thriller,thriller,True
+test_data_solution:10977,"""Jet Set Nerds"" (2014)",adventure,horror,False
+train_data:40003,Geuk jang jeon (2005),drama,romance,False
+train_data:46012,Oklahoma Blues (1948),western,western,True
+train_data:8732,Burglar's Hideout (1999),adventure,adventure,True
+train_data:42476,Bound (2015/III),adventure,adventure,True
+train_data:42034,The Midnight Horror Show (2014),horror,horror,True
+test_data_solution:40260,Terminal Voyage (1994),science_fiction,science_fiction,True
+test_data_solution:21513,"""Outside Explorer: Cathedral Gorge State Park"" (2013)",adventure,adventure,True
+train_data:37470,Reckless (2011),science_fiction,science_fiction,True
+test_data_solution:14537,"""Tate"" (1960)",western,western,True
+train_data:41348,Sunny Side Up (2011),comedy,comedy,True
+train_data:25961,The Last Hour (1923),crime,crime,True
+train_data:8988,"""Sledaki"" (2011)",crime,crime,True
+test_data_solution:48187,Into the Badlands (2005),science_fiction,action,False
+train_data:280,Heer (1956),romance,romance,True
+test_data_solution:35439,The Dead of Night (2004),horror,horror,True
+test_data_solution:23628,Sudden Bill Dorn (1937),western,western,True
+train_data:11246,Blood (????/V),romance,romance,True
+train_data:50539,Carlo & Ester (1994),drama,romance,False
+test_data_solution:42568,At All Cost (2015),drama,comedy,False
+train_data:8663,Oh My Friend (2011),romance,romance,True
+train_data:44388,The Insomniac (2009),drama,comedy,False
+test_data_solution:14640,The Drifter (1988),thriller,thriller,True
+train_data:42683,The Flood (2008),drama,science_fiction,False
+test_data_solution:3439,The Ghost and the Bomb (????),adventure,science_fiction,False
+train_data:4330,Project Moon Base (1953),science_fiction,science_fiction,True
+test_data_solution:9584,House of Mortal Sin (1976),horror,thriller,False
+train_data:8072,Parbat Pe Apna Dera (1944),romance,romance,True
+train_data:1343,"""I apodrasi"" (1987)",crime,action,False
+train_data:8095,Tales of the Dead (2010),horror,horror,True
+test_data_solution:24619,Dresden Sun (????),thriller,thriller,True
+train_data:24333,Duffle Bag Baby (????),adventure,drama,False
+train_data:26706,Ddong gae (2003),drama,drama,True
+train_data:53203,Octavia: Elegy for a Vampire (????),drama,horror,False
+test_data_solution:17649,Ho kong fung wan (1998),crime,action,False
+test_data_solution:42336,The Bravos (1972),western,western,True
+train_data:23377,Stepping Fast (1923),western,western,True
+train_data:47295,Enter the Dangerous Mind (2013),thriller,thriller,True
+test_data_solution:12596,The Highwayman (1951),adventure,adventure,True
+test_data_solution:45163,Dog Days of Summer (2007),drama,drama,True
+test_data_solution:29569,WWE: Greatest Stars of the New Millenium (2011),action,action,True
+test_data_solution:30283,Of Love and Shadows (1994),drama,romance,False
+test_data_solution:8422,"""Dung Duang Haruetai"" (2007)",romance,adventure,False
+test_data_solution:47175,Death Screams (1982),horror,horror,True
+test_data_solution:30300,A Great British Air Disaster (2013),drama,comedy,False
+train_data:41531,Facing the Wind (????),drama,drama,True
+test_data_solution:41326,"""Modified"" (2017)",science_fiction,science_fiction,True
+train_data:36718,Unforgotten (2012),crime,action,False
+test_data_solution:16654,Talent (2017/I),comedy,drama,False
+test_data_solution:944,"""Varta Re Varta"" (2016)",thriller,drama,False
+test_data_solution:49893,Kommissar Dupin - Bretonisches Gold (2015),crime,crime,True
+test_data_solution:8289,Akrep (1986),adventure,crime,False
+train_data:17396,Kalyanam Panniyum Brahmachari (1954),comedy,romance,False
+train_data:48697,Turba (2014),thriller,romance,False
+test_data_solution:38395,Love My Life (2006),romance,drama,False
+train_data:6501,Bajarse al moro (1989),comedy,crime,False
+train_data:45359,"""Snowcamp"" (2011)",action,comedy,False
+test_data_solution:46083,Media Vita in Morte Sumus (1993),horror,horror,True
+test_data_solution:52873,Earth Metal I: Epic of Manas (????),science_fiction,adventure,False
+test_data_solution:44572,EP/Executive Protection (2015),action,action,True
+train_data:9661,Sleeper (2017),thriller,romance,False
+test_data_solution:40732,Zulu Wedding (2017),romance,romance,True
+test_data_solution:48406,Bare-Fisted Gallagher (1919),western,western,True
+test_data_solution:19257,"""Bees in the Trap"" (2015)",action,crime,False
+train_data:53550,Le dernier souffle (1999),crime,crime,True
+train_data:37697,Anoosh of the Airways (1999),comedy,adventure,False
+train_data:1350,The Death and Life of Nancy Eaton (2003),thriller,horror,False
+train_data:18926,Flashburn (2017),science_fiction,action,False
+train_data:3124,Sang meng cha fit yan (1999),drama,romance,False
+test_data_solution:51986,The Pretend One (2017),drama,thriller,False
+test_data_solution:9045,Dude Cowboy (1941),western,western,True
+train_data:9795,SD Gundam Dimension War (1995),science_fiction,adventure,False
+train_data:25597,The War Zone (1999),drama,drama,True
+train_data:715,Beauty (1998),romance,horror,False
+test_data_solution:38722,Breakout (2016),action,action,True
+test_data_solution:4047,Az utolsó blues (2002),drama,romance,False
+test_data_solution:43691,The Patient (2011/I),thriller,drama,False
+train_data:16399,Half-Life 2: Lost Coast (2005),action,comedy,False
+test_data_solution:39795,N.F.A. (No Fixed Abode) (2012),thriller,thriller,True
+test_data_solution:40791,Scaranna (2009),science_fiction,comedy,False
+train_data:44156,Brotherhood of Evil (????),crime,crime,True
+train_data:40600,Kupi mi Eliota (1998),comedy,comedy,True
+test_data_solution:46004,Patient Killer (2015),thriller,thriller,True
+test_data_solution:17032,The Sand Dune (2018),romance,crime,False
+test_data_solution:39439,The Forty-Niners (1954),western,western,True
+test_data_solution:39899,The Dungeon (2008),comedy,adventure,False
+train_data:44967,The Fifteen Minute Show (2003),comedy,comedy,True
+train_data:13962,By Invitation Only (1961),romance,comedy,False
+test_data_solution:40960,The Touch of Her Flesh (2018),horror,thriller,False
+test_data_solution:50237,The Dissection of Thanksgiving (2008),comedy,comedy,True
+test_data_solution:21609,Lets Shake on It (2015),comedy,romance,False
+train_data:8675,Combustión (2013),action,action,True
+train_data:48986,Sundown Rider (1932),western,western,True
+test_data_solution:2532,Panhandle (1948),western,western,True
+test_data_solution:37577,Outlaw Women (1952),western,western,True
+test_data_solution:4238,Soman gukgyeong (1964),action,action,True
+test_data_solution:33838,Lautlose Schritte (1996),crime,thriller,False
+test_data_solution:47346,Taj (2011),drama,romance,False
+test_data_solution:2390,Aashiq Hoon Baharon Ka (1977),romance,romance,True
+train_data:32141,Kuheli (2016),thriller,horror,False
+test_data_solution:26491,Norwegian Snow Treasure (????),adventure,action,False
+test_data_solution:30615,American Bandits: Frank and Jesse James (2010),western,western,True
+test_data_solution:23916,Order of the Asp (2000),adventure,horror,False
+test_data_solution:20364,Meat for Satan's Icebox (2004),horror,horror,True
+test_data_solution:1227,"""How to Hate Yourself"" (2015)",comedy,action,False
+train_data:48730,"""Young Like Us"" (2014)",comedy,drama,False
+train_data:18422,Making Love (2014),romance,drama,False
+test_data_solution:28375,"""Umiray samo v kraen sluchay"" (1978)",crime,crime,True
+test_data_solution:51177,Johanna Dillon: Double Teamed and Tied Down (2010),adventure,adventure,True
+train_data:10591,El Cóndor en Nueva York (????),action,crime,False
+train_data:10646,Tiga Abdul (1964),comedy,drama,False
+test_data_solution:51379,Kumbasaaram (2015),thriller,comedy,False
+train_data:39452,Gameface (????),adventure,drama,False
+test_data_solution:32991,While I Live (1947),thriller,horror,False
+test_data_solution:39476,La huella del deseo (2008),romance,romance,True
+test_data_solution:37789,Beyond the Dunwich Horror (2008),horror,horror,True
+test_data_solution:48284,"""Bear Grylls: Mission Survive"" (2015)",adventure,adventure,True
+train_data:20461,A Trail Is Never Cold (????),western,drama,False
+train_data:7433,Genie in a Bikini (2015),comedy,adventure,False
+train_data:13677,Colony Wars (1997),science_fiction,science_fiction,True
+train_data:47209,To Cherish the Sea (2017),drama,drama,True
+train_data:18116,12 FL OZ (2010),thriller,drama,False
+test_data_solution:18215,Piekna nieznajoma (1993),adventure,western,False
+test_data_solution:4852,Take a Giant Step (1959),drama,drama,True
+train_data:53871,Maximum Cage Fighting (2006),action,action,True
+train_data:2537,Brigade mondaine: La secte de Marrakech (1979),crime,action,False
+train_data:11550,Magique! (2008),comedy,drama,False
+test_data_solution:25125,Csutak és a szürke ló (1961),adventure,adventure,True
+test_data_solution:4680,Trouvoete (2015),romance,drama,False
+train_data:27834,The Final Events (2008),science_fiction,horror,False
+train_data:35604,Okaeri (1995),drama,thriller,False
+train_data:24849,White Room (2001),adventure,adventure,True
+test_data_solution:35273,La visita del vicio (1978),thriller,drama,False
+train_data:54133,"""Pistol Whipped"" (2017)",comedy,action,False
+train_data:2560,Vicious Circle (2009),drama,romance,False
+test_data_solution:8387,Un certain monsieur (1950),crime,crime,True
+test_data_solution:36979,The War of the Starfighters (2003),science_fiction,action,False
+train_data:18216,The Iron Cage (2017),crime,thriller,False
+test_data_solution:2841,Frank (2006),action,thriller,False
+test_data_solution:25725,"""Whoose Craze"" (2016)",comedy,horror,False
+train_data:39056,The Cry (2018),thriller,adventure,False
+train_data:16856,"""The Big Pull"" (1962)",science_fiction,science_fiction,True
+train_data:45286,"""Sons of the Universe"" (2016)",science_fiction,science_fiction,True
+test_data_solution:28891,Outcasts of the Trail (1949),western,western,True
+train_data:51012,Angry Joe Bass (1976),action,adventure,False
+train_data:22862,"""Rocco Schiavone"" (2016)",crime,comedy,False
+test_data_solution:24347,On Consignment 3 (2010),action,adventure,False
+test_data_solution:42590,Kelsey's Son (1983),western,drama,False
+train_data:25639,The Last Starship (2016),science_fiction,science_fiction,True
+train_data:22955,The Rider of Death Valley (1932),western,western,True
+test_data_solution:4325,Xiong zhai yan zhi (1998),romance,thriller,False
+test_data_solution:38105,Wagon Tracks West (1943),western,western,True
+test_data_solution:4410,Supermodels in Big Trouble (2010),adventure,adventure,True
+test_data_solution:44672,Strange James (2004),thriller,horror,False
+test_data_solution:35923,Two Down 2 (????),thriller,crime,False
+train_data:9350,The Combat (1926),western,western,True
+test_data_solution:14930,Working Girls (1986),drama,drama,True
+train_data:8974,The Lone Bandit (1935),western,western,True
+test_data_solution:30187,Na wylot (1973),crime,crime,True
+test_data_solution:21900,"""Captain Z-Ro"" (1955)",science_fiction,western,False
+test_data_solution:29971,The Child (1977),horror,horror,True
+test_data_solution:34628,Her Fatal Millions (1923),comedy,romance,False
+train_data:27655,Christmas in Homestead (2016),romance,romance,True
+test_data_solution:22042,Only (????),science_fiction,thriller,False
+train_data:27108,"""Broken Trail"" (2006)",western,western,True
+train_data:34118,Locked & Loaded (????),adventure,science_fiction,False
+test_data_solution:52129,Flame (2020),romance,romance,True
+test_data_solution:46874,"""Big Sky"" (2017)",western,drama,False
+test_data_solution:44042,Keaton's Cop (1990),crime,crime,True
+test_data_solution:26920,Silver City Bonanza (1951),western,western,True
+test_data_solution:52374,Herman & Shelly (2011),romance,comedy,False
+train_data:39133,The Interrogation of Cheryl Cooper (2014),horror,thriller,False
+test_data_solution:52799,We Came to Wreck Everything (2018),crime,comedy,False
+train_data:40013,A Nice Girl Like You (????),comedy,comedy,True
+test_data_solution:26380,Fairlight (1985),adventure,adventure,True
+train_data:1875,The Ebb-Tide (1998),adventure,science_fiction,False
+train_data:44338,The Man from Broadway (1924),western,western,True
+train_data:48774,36 Saints (2013),thriller,horror,False
+test_data_solution:32369,"""The Defenders"" (2013)",crime,action,False
+train_data:42822,In the Heart of Man (????),crime,crime,True
+test_data_solution:45014,Overland Trails (1948),western,western,True
+test_data_solution:5333,"""Shi no kage"" (2012)",action,action,True
+train_data:30106,The Case of the Fine Fettered Friend (2000),adventure,adventure,True
+train_data:41780,"""Bloodwork"" (2011)",crime,crime,True
+test_data_solution:10192,Parable (2008),crime,horror,False
+test_data_solution:8909,La vîrsta dragostei (1963),comedy,comedy,True
+test_data_solution:16313,The Lost Chord (1925),romance,action,False
+train_data:50678,"""Across the Ocean to See You"" (2017)",romance,romance,True
+test_data_solution:24646,E.S.O. Entitat sobrenatural oculta (2009),adventure,comedy,False
+test_data_solution:39483,Angusam (2014),action,romance,False
+train_data:31643,Small Town Crime (2017),thriller,thriller,True
+test_data_solution:52095,Malcolm's (Sixth),thriller,romance,False
+train_data:39384,O Seqüestro (1981),crime,horror,False
+train_data:24906,D-Day on Mars (1966),science_fiction,science_fiction,True
+test_data_solution:10986,La cuarta ventana (1963),crime,horror,False
+train_data:5853,Retrato Falado de uma Mulher Sem Pudor (1982),crime,crime,True
+train_data:42258,Selva roja (1996),thriller,crime,False
+test_data_solution:38947,Xia yi zhan zai ai ni (2014),romance,romance,True
+test_data_solution:19957,Dheena (2001),action,romance,False
+test_data_solution:20559,After the Day (2008),horror,horror,True
+test_data_solution:35179,The Big Gusher (1951),adventure,western,False
+train_data:29341,In the Beginning: The Epic of the Anunnaki (????),science_fiction,science_fiction,True
+train_data:7748,Mismatch Part 1 (1999),action,crime,False
+test_data_solution:51796,"""Ganti ng puso"" (2009)",drama,action,False
+train_data:6238,Supernova 45 (2015),science_fiction,science_fiction,True
+train_data:33002,End Game (????),thriller,science_fiction,False
+train_data:51484,Varastettu kuolema (1938),thriller,thriller,True
+test_data_solution:33738,Inca Pottery (1999),adventure,adventure,True
+test_data_solution:10541,"""Yabanci damat"" (2004)",romance,romance,True
+train_data:44494,The Beginning of a Rise (2009),crime,drama,False
+test_data_solution:51576,The Return of Captain Nemo (1978),science_fiction,science_fiction,True
+test_data_solution:41941,Der Fall Gehring (2003),crime,adventure,False
+test_data_solution:32442,L'amour (2018),drama,drama,True
+test_data_solution:33393,Il giardino del sonno (2002),horror,horror,True
+test_data_solution:43725,Eyes of the Roshi (2017),action,romance,False
+train_data:15899,"""Titeres"" (2019)",crime,crime,True
+train_data:27681,Quel maledetto giorno d'inverno... Django e Sartana all'ultimo sangue (1970),western,western,True
+train_data:12408,La seconda via (????),drama,horror,False
+test_data_solution:7426,Séquelles (2014),horror,thriller,False
+test_data_solution:41120,Kaaki Sattai (2015),action,crime,False
+test_data_solution:16388,"""TRIO: Cybergullet"" (2015)",crime,adventure,False
+test_data_solution:3911,"""The Wonder List with Bill Weir"" (2015)",adventure,crime,False
+train_data:13298,A Dogwalker's Christmas Tale (2015),romance,comedy,False
+train_data:15920,Crimson and Clover (2014),romance,romance,True
+test_data_solution:24780,Murder Enthusiast (2013),thriller,crime,False
+train_data:26497,Blood (2018),thriller,horror,False
+train_data:40640,Bulldog Courage (1935),western,western,True
+test_data_solution:27586,"""La loi de..."" (2014)",crime,crime,True
+train_data:46560,The Promise (????/IV),horror,thriller,False
+train_data:50043,Y-Mor (2015),crime,horror,False
+train_data:42379,Nastik (1983),action,drama,False
+test_data_solution:49352,The Freelands (2011),adventure,action,False
+test_data_solution:35836,Un amore (1999),romance,romance,True
+train_data:19557,Océane (2013),comedy,romance,False
+train_data:40371,Offenders (2017),science_fiction,science_fiction,True
+train_data:45486,"""The Treachery Game"" (1981)",thriller,action,False
+test_data_solution:17083,Gunpoint (1966),western,western,True
+train_data:43449,Maikol Yordan de Viaje Perdido (2014),comedy,adventure,False
+test_data_solution:40179,Ashtown Burials (????),adventure,science_fiction,False
+train_data:18292,Lo spazio bianco (2009),drama,science_fiction,False
+train_data:13889,"""Enamorándome de Ramón"" (2017)",drama,thriller,False
+train_data:30383,Eoksutang (1997),comedy,comedy,True
+test_data_solution:48092,Sibling Rivalry (2009),horror,horror,True
+test_data_solution:27176,Get Even (2017),thriller,horror,False
+test_data_solution:24825,The Great Divide (1929),western,comedy,False
+test_data_solution:36701,Epitafio (2015),adventure,adventure,True
+test_data_solution:12746,The Pianist (1991),romance,drama,False
+train_data:39521,Gui yan (1974),horror,horror,True
+train_data:26771,Beijing yu shang: Xiyatu 2 (2016),romance,romance,True
+test_data_solution:35702,Choseol (1958),drama,action,False
+test_data_solution:11197,Smoked (2005),crime,thriller,False
+test_data_solution:25681,Radioactive Flesh Eating Foliage (2015),horror,horror,True
+test_data_solution:18991,Untitled (A Film) (2017),thriller,drama,False
+test_data_solution:33466,A rischio d'amore (1994),drama,drama,True
+test_data_solution:9281,"""Prima sezóna"" (1994)",romance,drama,False
+test_data_solution:53826,Battle of New Orleans (????/I),adventure,adventure,True
+train_data:17001,Eaten by Lions (2017),comedy,comedy,True
+test_data_solution:33704,Houdini Man: The Life and Crimes of Ananias Mathe (2013),crime,drama,False
+test_data_solution:10045,The Golden Idol (1954),adventure,adventure,True
+test_data_solution:21439,Tusks (1988),adventure,action,False
+train_data:25713,Unhinged (2006),horror,thriller,False
+test_data_solution:7382,1448 Love Among Us (2014),romance,romance,True
+test_data_solution:2047,Emerald Run (2017),adventure,western,False
+train_data:31942,Cruising (????),romance,romance,True
+test_data_solution:30806,The Seventh Coin (1993),adventure,romance,False
+test_data_solution:49707,Phasma Ex Machina (2010),science_fiction,horror,False
+test_data_solution:42573,Arizona Territory (1950),western,western,True
+train_data:4958,"""Auditions"" (2018)",comedy,comedy,True
+train_data:6135,Brothers James: Retribution (????),western,action,False
+test_data_solution:32896,"""The First Kill: Son of Sam"" (2014)",crime,crime,True
+test_data_solution:45570,"""The Calling of Nami Island"" (2010)",romance,romance,True
+train_data:20867,Aian gâru (2012),action,adventure,False
+train_data:42352,Shadows Over Shanghai (1938),drama,western,False
+test_data_solution:17144,Nightmare Alley (2010),horror,horror,True
+test_data_solution:50211,Mad Way South (2012),adventure,adventure,True
+test_data_solution:38579,Dirty Money (1995),action,crime,False
+train_data:14652,Selyaninat s koleloto (1974),drama,drama,True
+test_data_solution:23717,X-Scape (2011),action,thriller,False
+test_data_solution:4191,Riders from Nowhere (1940),western,western,True
+train_data:21882,Katina (1976),drama,drama,True
+train_data:22632,Studers erster Fall (2001),crime,crime,True
+train_data:12842,The Finishing Touch (1992),thriller,horror,False
+test_data_solution:27724,"Clear Lake, WI (2009)",thriller,horror,False
+train_data:53465,When the Storm God Rides III: The Beginning Spirit Warrior (????),western,western,True
+train_data:54043,Spirit of the Glass 2: The Hunted (2017),horror,crime,False
+test_data_solution:5114,"""Whiz Kids"" (1983)",adventure,crime,False
+test_data_solution:7738,Immersion (2013),science_fiction,science_fiction,True
+train_data:10590,Le prix de la liberté (1978),thriller,drama,False
+train_data:42364,Ronny Camaro and Seven Angry Women (2003),comedy,comedy,True
+train_data:68,Space Girls in Beverly Hills (2009),science_fiction,science_fiction,True
+test_data_solution:33459,Qatil Haseeno Ka (2001),crime,horror,False
+train_data:21360,The Big Moment (1954),drama,comedy,False
+test_data_solution:35359,Outlaws and Patriots (????),action,action,True
+train_data:28875,Taebaeksanui gyeoltu (1973),action,action,True
+train_data:8375,Pirates of Ghost Island (2007),horror,adventure,False
+test_data_solution:2609,Behind the Eyes (2013),thriller,drama,False
+train_data:25402,Zhu nu sa liu fang (1982),comedy,horror,False
+train_data:36578,"""O-Zone"" (????)",science_fiction,horror,False
+train_data:13294,The Flame Barrier (1958),science_fiction,horror,False
+test_data_solution:18981,A Tale of Shadows (2017),thriller,thriller,True
+test_data_solution:8292,408 (2014/I),science_fiction,drama,False
+test_data_solution:19389,Natasha Mail Order Bride Escape to America (2012),comedy,drama,False
+test_data_solution:199,The Great Asteroid (2007),comedy,action,False
+train_data:22609,Roommate (2009),romance,romance,True
+train_data:13576,Deconstructing Harry (1997),comedy,drama,False
+test_data_solution:721,"The Thieves, the Director, Her Actress & Their Studio Exec (2000)",adventure,adventure,True
+train_data:1907,Palace of the Damned (2013),horror,horror,True
+train_data:24511,Safe Place (2018),horror,drama,False
+test_data_solution:29277,"Banner's the Name, Bondage Is My Game (2002)",adventure,adventure,True
+test_data_solution:36580,Sword of Vengeance (2015),action,action,True
+train_data:43510,The Bridge Over the Bosphorus (????),romance,drama,False
+test_data_solution:14489,Strangers with Candy (2005),comedy,drama,False
+test_data_solution:33082,Loose Screws (1985),comedy,comedy,True
+train_data:27462,"""Resident Advisors"" (2015)",comedy,comedy,True
+train_data:33296,Skiptracers (2009),comedy,comedy,True
+test_data_solution:22301,The Hurricane Kid (1925),western,western,True
+train_data:24404,Alien Nation: Millennium (1996),science_fiction,science_fiction,True
+test_data_solution:19807,"I Love You, Too (2015)",romance,romance,True
+train_data:19767,Mistress of Seduction (2000),horror,horror,True
+test_data_solution:45197,Lady Law's Ordeal/They Call Me Trouble! (2010),adventure,adventure,True
+train_data:26904,00 Schneider - Im Wendekreis der Eidechse (2013),comedy,crime,False
+test_data_solution:33605,Hu bian chun meng (1927),romance,romance,True
+test_data_solution:48746,Travellers (2011),thriller,thriller,True
+test_data_solution:10421,All of My Heart: Inn Love (2017),romance,romance,True
+test_data_solution:7164,Keu Namjaui Chak 198Jjeuk (2008),romance,horror,False
+train_data:42467,Madrigal (2007),science_fiction,romance,False
+test_data_solution:20713,Call of the West (1930),western,western,True
+test_data_solution:53401,The Call of the Savage (1935),adventure,adventure,True
+train_data:22426,Book of Ash (????),horror,horror,True
+train_data:23720,The Broken Law (1924),western,western,True
+train_data:29616,Tobor the Great (1954),science_fiction,science_fiction,True
+train_data:18212,"""Blissful Dandelion"" (2013)",romance,drama,False
+test_data_solution:51577,Evesdropping (????),thriller,horror,False
+train_data:3284,Sam and Max: Abe Lincoln Must Die! (2007),adventure,adventure,True
+test_data_solution:4987,Adigaram 79 (2012),action,action,True
+test_data_solution:34577,SUBWAYStories: Tales from the Underground (1997),drama,drama,True
+train_data:18408,Jesus to Jesus (????),drama,drama,True
+test_data_solution:423,Det sjunde skottet (1998),drama,comedy,False
+train_data:4461,"""Saige Winters: My Psychic Life"" (2013)",comedy,comedy,True
+test_data_solution:21749,No Room for the Groom (1952),comedy,horror,False
+test_data_solution:9412,Postal Redux (2016),action,comedy,False
+train_data:19570,The Great K & A Train Robbery (1926),western,western,True
+test_data_solution:19165,Stone Boat Exhausted (2016),horror,science_fiction,False
+test_data_solution:37069,Fear Level (2018),horror,horror,True
+train_data:43282,Huck and the King of Hearts (1994),adventure,adventure,True
+test_data_solution:43734,Henry May Long (2008),drama,drama,True
+test_data_solution:43925,Nails (2017/I),horror,horror,True
+train_data:23660,Arizona Legion (1939),western,western,True
+train_data:6859,Love Locks (2017),romance,romance,True
+test_data_solution:27348,Valentine (2017),action,adventure,False
+train_data:19558,Spenser: A Savage Place (1995),crime,adventure,False
+train_data:43256,The Slaughter at Sumac Ditch (????),horror,horror,True
+train_data:37283,Liquid Sky (1982),science_fiction,science_fiction,True
+train_data:29432,Pot Dogs (????),comedy,comedy,True
+test_data_solution:27524,"""Yeh Kahan Aa Gaye Hum"" (2015)",drama,comedy,False
+train_data:27437,Dolaon oedari (1974),action,crime,False
+test_data_solution:9118,Gun Brothers (1956),western,western,True
+test_data_solution:48177,Thotti Jaya (2005),thriller,drama,False
+train_data:43378,"""Pearson"" (2016)",crime,thriller,False
+test_data_solution:32205,Beethopia (2011),science_fiction,science_fiction,True
+train_data:29243,"""Wonder"" (2016)",science_fiction,action,False
+test_data_solution:3562,Iteration Q (????),horror,horror,True
+test_data_solution:53089,Black Devil Doll from Hell (1984),horror,horror,True
+train_data:39234,Nemesis (????/IV),thriller,horror,False
+train_data:47647,Journey (2012/II),drama,science_fiction,False
+train_data:14398,"""Asylum 8"" (2014)",adventure,comedy,False
+test_data_solution:4045,Meet Prince Charming (2002),romance,horror,False
+train_data:12232,Ozone (1995),horror,horror,True
+train_data:19048,The Basement (1989),horror,horror,True
+train_data:29646,Kuntilanak 3 (2008),horror,horror,True
+test_data_solution:13606,Hamlet (1996),drama,drama,True
+train_data:997,Counting Backwards (2007),romance,romance,True
+train_data:14731,Doll Graveyard (2005),horror,horror,True
+test_data_solution:22619,The Sadistic Lover (1966),crime,horror,False
+train_data:50572,Stories: The Path of Destinies (2016),adventure,action,False
+test_data_solution:2635,Dissocia (2019),thriller,comedy,False
+test_data_solution:6218,Doss House (1933),crime,thriller,False
+train_data:9373,Psycho Holocaust (2009),horror,horror,True
+test_data_solution:6134,Les Parlementeries (2008),comedy,comedy,True
+test_data_solution:52309,Bound for the Holidays (2010),adventure,adventure,True
+train_data:47691,"""Di xia tie"" (2006)",romance,romance,True
+train_data:4288,Thundering Caravans (1952),western,western,True
+train_data:54156,West of the Law (1942),western,western,True
+train_data:41641,Tricode: Let the Battle Begin (2018),science_fiction,science_fiction,True
+test_data_solution:40954,Pantsu no ana the movie: Doutei soushitsu rapusodi (2011),comedy,comedy,True
+train_data:33617,Wildfire (1945),western,western,True
+test_data_solution:1532,Dil Jo Na Keh Saka (2017),romance,romance,True
+train_data:43206,A Matter of Time (????),action,horror,False
+train_data:38844,First Exposure (1982),action,action,True
+test_data_solution:37201,The House that the Devil Built (2017),horror,horror,True
+train_data:34725,The Black Roses Project (2015),crime,crime,True
+test_data_solution:38280,Shadow Killers Tiger Force (1986),action,adventure,False
+test_data_solution:34043,Whistlin' Dan (1932),western,western,True
+train_data:13427,The Adventures of Kaitlyn Kitty Kat Kay (2018),adventure,action,False
+test_data_solution:11040,Genji Kurô Sassôki: Nuregami Nitoryu (1957),action,adventure,False
+train_data:45319,RollerCoaster Tycoon (1999),adventure,action,False
+train_data:9099,Black Butterflies (1928),drama,drama,True
+test_data_solution:35791,Stocking Horse (2018),romance,drama,False
+test_data_solution:1329,Terror (1978),horror,horror,True
+test_data_solution:35564,En rasande eld (????),thriller,crime,False
+train_data:49763,"""Policie Modrava"" (2015)",crime,crime,True
+test_data_solution:1099,Sapne Sajan Ke (1992),romance,romance,True
+train_data:52937,Gates to Paradise (1968),drama,romance,False
+test_data_solution:2597,Outlaws of the Panhandle (1941),western,western,True
+train_data:40885,Barrymore's Dream (2005),thriller,thriller,True
+test_data_solution:18900,Sharknado: Heart of Sharkness (2015),comedy,crime,False
+train_data:2307,A Lawman Is Born (1937),western,western,True
+test_data_solution:38931,Rancorous (2018),crime,action,False
+train_data:17296,Thunder Over Reno (2008),adventure,romance,False
+train_data:39112,Video Violence (1987),horror,horror,True
+test_data_solution:23323,Two's Company (1965),comedy,comedy,True
+test_data_solution:5291,Alien Blast the Encounter (2004),action,science_fiction,False
+train_data:13703,Kurtalábú pásztor (1970),adventure,drama,False
+test_data_solution:784,Dead Mate (1988),horror,thriller,False
+test_data_solution:17897,Shadows' End (????),thriller,thriller,True
+test_data_solution:24311,The Bombmaker (2001),action,crime,False
+test_data_solution:37524,Fatefully Yours (2011),romance,romance,True
+test_data_solution:29306,Night Call Nurses (1972),thriller,comedy,False
+train_data:40135,The Price of Pride (1917),western,drama,False
+test_data_solution:14275,Frequency (2014),science_fiction,science_fiction,True
+test_data_solution:19160,The Piper (????/I),horror,horror,True
+test_data_solution:5410,Eni (2018),romance,drama,False
+test_data_solution:11727,The Third Girl from the Left (1973),drama,thriller,False
+test_data_solution:49538,The James Brothers of Missouri (1949),western,western,True
+test_data_solution:16968,"""Sayin bakanim"" (2004)",comedy,comedy,True
+train_data:38006,Hands Off (1927),western,western,True
+test_data_solution:34079,Justine: Exotic Liaisons (1995),romance,adventure,False
+train_data:21960,Stakeout! (1962),crime,western,False
+train_data:25091,Monpura (2009),romance,action,False
+test_data_solution:25695,Last Man Standing (2018),crime,crime,True
+test_data_solution:48174,Vudú sangriento (1974),horror,adventure,False
+train_data:9770,Where Things Come Back (????),thriller,adventure,False
+train_data:8593,Tocatta & Fugue (2007),thriller,thriller,True
+test_data_solution:10098,Jungle Hero (2002),action,adventure,False
+test_data_solution:23303,Cosmic Kitten Acid Party (2017),comedy,comedy,True
+test_data_solution:40265,Love's Boomerang (1922),crime,crime,True
+test_data_solution:26332,Nuptials (2017),romance,romance,True
+test_data_solution:19221,Laughter Fills the Air (2010),adventure,adventure,True
+train_data:34659,Delta Force Commando (1988),action,action,True
+test_data_solution:45072,Second to One (????),romance,romance,True
+train_data:53575,October Baby (2011),drama,horror,False
+test_data_solution:4151,Rojo Orgásmico (2012),drama,romance,False
+test_data_solution:6613,"""Bayou"" (????)",thriller,thriller,True
+train_data:18002,Kidou senshi Gandamu: The Origin III - Akatsuki no houki (2016),science_fiction,science_fiction,True
+test_data_solution:42545,Visitors from the Unknown (1991),science_fiction,science_fiction,True
+test_data_solution:571,Star Wars: The Force Unleashed (2013),science_fiction,action,False
+train_data:15355,Ridin' for Justice (1932),western,western,True
+train_data:14720,Zygon (2008),science_fiction,science_fiction,True
+train_data:28217,"""Shitty Fabulous Lives"" (2011)",comedy,comedy,True
+train_data:19541,Scarf (2015/I),thriller,horror,False
+test_data_solution:11692,"""WeeklyScare.Me"" (2011)",horror,drama,False
+train_data:27331,Fjällbackamorden: Vänner för livet (2013),crime,thriller,False
+train_data:49221,A Fallible Girl (2013),drama,drama,True
+test_data_solution:30456,Drag Harlan (1920),western,western,True
+test_data_solution:15370,"""Flur: Blades of the Universe"" (2014)",adventure,action,False
+train_data:10538,We Could Happen (2016),romance,thriller,False
+train_data:10162,What Happened in Danville (????),thriller,science_fiction,False
+test_data_solution:19460,Gauraiya (2014),crime,crime,True
+test_data_solution:48439,West of the Brazos (1950),western,western,True
+test_data_solution:23395,Eva - den utstötta (1969),drama,crime,False
+train_data:39649,Hospital Arrest (2016),comedy,comedy,True
+train_data:1843,Tsukiji uogashi sandaime (2008),comedy,comedy,True
+test_data_solution:18428,The Pocatello Kid (1931),western,western,True
+test_data_solution:45637,HH (2017),science_fiction,thriller,False
+test_data_solution:48685,"""Little Apple"" (2017)",science_fiction,drama,False
+train_data:22120,The Prophet: Kahlil Gibran (1996),drama,science_fiction,False
+test_data_solution:47810,Men of Respect (????),action,crime,False
+train_data:14938,The Bequest (????),adventure,adventure,True
+test_data_solution:12254,Funerals and Felonies (2012),crime,action,False
+test_data_solution:38261,Bint shakieh (1967),romance,romance,True
+test_data_solution:51306,Cold Play (2008),thriller,thriller,True
+train_data:726,"""The Strange & Mysterious Life of Jackson Bean"" (2015)",science_fiction,science_fiction,True
+train_data:52090,Vigilante (2008/II),action,crime,False
+train_data:30271,Factory of Paranormal (2017),horror,horror,True
+train_data:1690,An Eye for an Eye (1966),western,western,True
+test_data_solution:37224,Um Cangaceiro na Mira de Deus (2016),adventure,western,False
+test_data_solution:35157,Colorado Ambush (1951),western,western,True
+test_data_solution:7342,Unfinished Business (2015/I),comedy,comedy,True
+train_data:53798,Die Pest in Florenz (1919),horror,horror,True
+test_data_solution:268,Unfinished Business (2016/I),horror,horror,True
+train_data:50114,Yötuuli (1992),science_fiction,horror,False
+test_data_solution:52385,Searching South America (2016),adventure,adventure,True
+test_data_solution:5632,"""Posledniy khod korolevy"" (2015)",crime,comedy,False
+test_data_solution:993,"""Broken Arrow"" (1956)",western,drama,False
+test_data_solution:34409,Untitled 1980s Mafia Project (????),crime,action,False
+test_data_solution:20250,My Friend's Dulhania (2017),romance,romance,True
+test_data_solution:18714,"""Sasquatch 7"" (2014)",comedy,horror,False
+train_data:968,Love Alive (2016),thriller,romance,False
+train_data:43532,Praschan Requiem (2012),action,crime,False
+test_data_solution:51483,The Hand and the Cult of the Blood Sapphire (2018),crime,action,False
+test_data_solution:28990,"""Lavirint"" (2002)",thriller,horror,False
+train_data:25217,Mexicali Rose (1939),western,western,True
+test_data_solution:5442,Outlaw Prophet (2001),science_fiction,action,False
+test_data_solution:21549,Rendezvous at the Golden Gate Bed & Breakfast (1998),romance,adventure,False
+train_data:2365,The Trespasser (1929),drama,romance,False
+train_data:20923,Stuff and Nonsense (1960),romance,comedy,False
+test_data_solution:26940,All Above Board (2015),horror,horror,True
+train_data:33449,"""Gente Fina É Outra Coisa"" (1982)",comedy,drama,False
+test_data_solution:37155,Guilty (2008),crime,crime,True
+test_data_solution:16859,Killer Hornets (2018),science_fiction,science_fiction,True
+test_data_solution:37128,Ek Hans Ka Jora (1975),romance,romance,True
+train_data:20474,Implosión (2015),crime,crime,True
+train_data:47872,A City to Make Me (2015),science_fiction,adventure,False
+train_data:12451,El Paso (1949),western,drama,False
+test_data_solution:52885,Alien Carnage (1993),action,horror,False
+test_data_solution:2946,Crowe: The Drowned Armory (2017),adventure,science_fiction,False
+test_data_solution:15904,A Momentary Lapse of Reason (????),crime,adventure,False
+test_data_solution:19754,Stalker (2003),thriller,drama,False
+train_data:15952,Penny Paradise (1938),comedy,romance,False
+train_data:40149,Device (????),science_fiction,science_fiction,True
+test_data_solution:43233,Adventure Quest (2011),adventure,adventure,True
+test_data_solution:14428,"""Post Apocalypse"" (2017)",science_fiction,science_fiction,True
+test_data_solution:18266,Le dernier gang (2007),crime,crime,True
+train_data:37216,14 Days! (????),romance,science_fiction,False
+test_data_solution:31751,Sons of Italy (2006),drama,romance,False
+train_data:37461,The Class: From Actor to Icon (2008),comedy,comedy,True
+train_data:26909,De tu ventana a la mía (2011),drama,drama,True
+train_data:24336,Death's Sonata (2018),horror,action,False
+train_data:32517,"""Arne Dahl: Misterioso"" (2011)",crime,crime,True
+test_data_solution:4537,Unnuap Taarnerpaaffiani (2014),horror,horror,True
+test_data_solution:28175,"Babe, I Love You (2010)",romance,romance,True
+test_data_solution:37408,The Cowboy and the Indians (1949),western,western,True
+train_data:29194,Le denier du colt (1990),crime,crime,True
+train_data:34345,Villa (2008),crime,drama,False
+train_data:6146,El Sereno (2017),thriller,horror,False
+train_data:25464,Samar (1962),adventure,comedy,False
+test_data_solution:22257,Candy (2017/III),action,crime,False
+train_data:20524,Ronnie (2002),thriller,horror,False
+test_data_solution:18826,Oi aisthimaties (2014),crime,adventure,False
+test_data_solution:14274,"""Back in the Day"" (2010)",adventure,drama,False
+train_data:49987,"""Inocente de ti"" (2004)",romance,romance,True
+train_data:331,Cutback (2010),drama,romance,False
+test_data_solution:31231,Resurrecting Evil (2013),horror,horror,True
+train_data:51641,"Konga, the Wild Stallion (1939)",western,western,True
+train_data:33497,Beirut (????),action,action,True
+test_data_solution:35254,"""The Green Brick"" (2014)",comedy,adventure,False
+test_data_solution:32505,Roll Out Live with Speedy N Friends (2018),comedy,comedy,True
+test_data_solution:1889,"""Fluiters"" (2016)",thriller,action,False
+train_data:10971,Al-suq al-Soda' (1945),drama,comedy,False
+test_data_solution:2149,Knuckles (????),action,action,True
+test_data_solution:33932,Punnagai Poove (2003),romance,romance,True
+train_data:16167,Hardscrabble (2006),romance,drama,False
+train_data:18226,Uno (????),thriller,drama,False
+train_data:7819,Giganthropithicus (????),science_fiction,horror,False
+train_data:5772,"Gardenia, il giustiziere della mala (1979)",crime,comedy,False
+test_data_solution:15910,The Last Face (2016),drama,romance,False
+test_data_solution:35332,Rare Books (2004),adventure,adventure,True
+train_data:7865,Calamity Jane's Revenge (2015),western,western,True
+train_data:25882,Steel Spirit (2002),action,adventure,False
+test_data_solution:17867,Logic of Being (????),science_fiction,science_fiction,True
+train_data:43909,The Lily of Poverty Flat (1915),western,western,True
+train_data:23654,Yaqui Drums (1956),western,western,True
+train_data:43028,Sirta la gal ba (2009),drama,drama,True
+test_data_solution:38898,Maize (2016),adventure,adventure,True
+train_data:32749,The Painted Stallion (1937),western,western,True
+test_data_solution:53497,Nug (2013),adventure,adventure,True
+train_data:47493,Erntedank. Ein Allgäukrimi (2009),crime,crime,True
+train_data:24069,Fertilize the Blaspheming Bombshell (1990),horror,adventure,False
+train_data:8415,The Ripper (1997),thriller,crime,False
+test_data_solution:47927,Survival Earth (1985),science_fiction,science_fiction,True
+train_data:39591,Un fantastico via vai (2013),comedy,drama,False
+test_data_solution:3433,The Sage Hen (1921),western,western,True
+test_data_solution:8040,Santa Fe Uprising (1946),western,western,True
+train_data:49760,A Stranger in Paradise (2013),thriller,crime,False
+test_data_solution:6791,Little District (2012),thriller,crime,False
+test_data_solution:24354,The Devil's Candy (2015),horror,horror,True
+train_data:28083,"""Desperate Measures"" (2013)",crime,action,False
+test_data_solution:11247,"""Trigger Happy TV"" (2000)",comedy,thriller,False
+test_data_solution:30568,Trails End (1949),western,western,True
+train_data:30228,God's Country and the Man (1931),western,western,True
+train_data:2694,Jie dao sha ren (1981),action,action,True
+test_data_solution:8309,"""Boku no yabai tsuma"" (2016)",thriller,thriller,True
+train_data:16925,Yeh Ishq Nahin Aasaan (1984),romance,romance,True
+train_data:9543,Fen shou zai shuo wo ai ni (2015),romance,romance,True
+train_data:5861,Deeply Disturbed (1995),thriller,thriller,True
+train_data:32696,Cowboy Blues (1946),western,western,True
+test_data_solution:45415,Zivotem vedla je láska (1928),romance,romance,True
+test_data_solution:42281,Mystery Tales: The Twilight World (2015),adventure,adventure,True
+test_data_solution:40408,The 24th Day (2004),thriller,comedy,False
+test_data_solution:44657,The Bishop (2015),crime,crime,True
+train_data:35984,Toshokan sensô: The Last Mission (2015),action,drama,False
+train_data:53563,Say Yes to Love (2012),romance,romance,True
+train_data:31301,Heartbound (1925),western,western,True
+test_data_solution:28077,Velma (2009),drama,drama,True
+train_data:3243,Baga Beach (2013),drama,drama,True
+train_data:49109,HOA (2012),comedy,comedy,True
+train_data:8295,Dragonard (1987),drama,adventure,False
+train_data:35838,The Mind (2009),horror,horror,True
+test_data_solution:39948,"Robbed, Murdered, and Eaten (2017)",thriller,comedy,False
+train_data:31034,Max the Companion Robot (????),science_fiction,science_fiction,True
+test_data_solution:33418,Jacob's Hammer (2012),horror,horror,True
+test_data_solution:27413,Sin muertos no hay carnaval (2016),thriller,drama,False
+train_data:27050,American Roulette (1988),thriller,action,False
+train_data:20756,"""Revenge of the Sock"" (2011)",comedy,action,False
+test_data_solution:7695,Dyo fengaria ton Avgousto (1978),romance,romance,True
+test_data_solution:1997,Blood Circus (2017),action,action,True
+test_data_solution:43029,Guns of Jericho (2007),crime,crime,True
+train_data:25591,Onova neshto (1991),comedy,horror,False
+test_data_solution:34629,"""Delo Astakhova"" (2009)",crime,crime,True
+test_data_solution:11619,Keluarga Tak Kasat Mata (2017),horror,drama,False
+test_data_solution:22284,Return of the Secaucus Seven (1979),drama,drama,True
+train_data:17248,Apache Rifles (1964),western,western,True
+train_data:2583,Witches' Night (2007),horror,horror,True
+train_data:42521,"""S.H.A.M. Therapy"" (2017)",comedy,comedy,True
+test_data_solution:38935,"""Freud: The Secret Casebook"" (????)",crime,crime,True
+test_data_solution:51808,Numb (2003),science_fiction,action,False
+test_data_solution:12523,Wonder House (2012),science_fiction,horror,False
+test_data_solution:31956,"""Hits"" (2015)",crime,action,False
+test_data_solution:50490,The Tenth Case (1917),drama,drama,True
+train_data:21392,Lazer Team 2 (2018),science_fiction,science_fiction,True
+test_data_solution:26155,Die Schulfeindin (1994),thriller,adventure,False
+test_data_solution:46238,Woh Tera Naam Tha (2004),romance,romance,True
+test_data_solution:5559,Nude Area (2014),drama,romance,False
+test_data_solution:17294,The 39 Clues (????),adventure,action,False
+train_data:38651,Briefest Encounter (1993),comedy,horror,False
+train_data:49166,"""Drosoulites"" (2001)",romance,drama,False
+test_data_solution:15664,By Any Name (2017),action,crime,False
+test_data_solution:4125,Android (1983),science_fiction,crime,False
+train_data:10876,Klingenberg (2011),thriller,thriller,True
+test_data_solution:37612,200 Hours (2017),horror,science_fiction,False
+train_data:35476,Toni Costa - Kommissar auf Ibiza - Küchenkunst (2012),crime,crime,True
+test_data_solution:54143,Lust for a Vampire (1971),horror,horror,True
+train_data:46529,Darkly Dreaming Billy Ward (2009),crime,crime,True
+test_data_solution:3496,In Sheep's Clothing (2016),thriller,horror,False
+train_data:17932,El Secreto de Whaken (2010),action,horror,False
+train_data:11729,Reaching for the Moon (1917),adventure,drama,False
+train_data:37363,Terraformers (2003),adventure,science_fiction,False
+test_data_solution:15000,"""A Wife's Credentials"" (2012)",romance,horror,False
+test_data_solution:18586,Jekhane Bhooter Bhoy (2012),adventure,drama,False
+train_data:3161,The Jungle Goddess (1922),adventure,adventure,True
+test_data_solution:39260,"""Revolution Earth"" (????)",thriller,science_fiction,False
+test_data_solution:17002,Dil Jo Bhi Kahey... (2005),romance,romance,True
+train_data:9974,Gold Dust (2018),thriller,action,False
+test_data_solution:14533,Ridin' the Outlaw Trail (1951),western,western,True
+test_data_solution:53536,Pisasu (2014),horror,horror,True
+train_data:11099,Mon ange (2016),romance,science_fiction,False
+train_data:24373,The Buckskin Lady (1957),western,western,True
+train_data:37341,The Devil's Messenger (1961),horror,horror,True
+train_data:29855,Tarzan Aur Jadui Chirag (1966),adventure,adventure,True
+test_data_solution:52650,Mistress of Souls (2007),action,drama,False
+train_data:36200,"""Sui yue"" (2010)",romance,drama,False
+train_data:7607,Mor suit nam (2007),romance,romance,True
+train_data:28426,Sagarika (1998),romance,romance,True
+test_data_solution:12348,Tales from the Crypt: Volume 2 (1992),horror,horror,True
+test_data_solution:39575,Sequence (2011),science_fiction,action,False
+test_data_solution:53844,Mollo tutto (1995),comedy,drama,False
+train_data:43293,Virudhagiri (2010),action,action,True
+train_data:15719,Reaper's Revenge (2015),horror,action,False
+test_data_solution:25950,Run with the Hunted (2018),crime,crime,True
+train_data:34201,Breaking Symmetry (2001),science_fiction,horror,False
+test_data_solution:28670,I Never (2013),romance,comedy,False
+train_data:11169,Sesshi 100 do no binetsu (2014),romance,adventure,False
+train_data:3365,"""Bad Game Sunday!"" (2015)",action,action,True
+train_data:14485,Plughead Rewired: Circuitry Man II (1994),science_fiction,science_fiction,True
+test_data_solution:45074,Scorching Fury (1952),western,western,True
+test_data_solution:49667,The Iron Trail (1921),adventure,western,False
+train_data:22358,Lunchtime: The Movie (2017),horror,drama,False
+test_data_solution:26738,USB (2009),action,thriller,False
+train_data:27553,Battle Planet (2008),science_fiction,science_fiction,True
+test_data_solution:19058,The Promise (2018/II),action,thriller,False
+train_data:39550,The Wonderland Gang (2018),crime,action,False
+test_data_solution:17056,Zahreela (2001),action,drama,False
+test_data_solution:53447,The Perv Parlor (1995),adventure,drama,False
+train_data:36815,All Hat (2007),western,drama,False
+test_data_solution:12690,Nisshabd (2005),drama,drama,True
+test_data_solution:14359,Lentamente (2013),science_fiction,comedy,False
+train_data:21946,Woman Soccer Player #9 (2001),drama,action,False
+train_data:50998,Lotta & der dicke Brocken (2016),comedy,drama,False
+train_data:52535,Daughter of the Jungle (1949),adventure,adventure,True
+train_data:22569,"""Dark Age"" (2013)",science_fiction,horror,False
+test_data_solution:47081,"""The Glory Boys"" (1984)",thriller,comedy,False
+test_data_solution:20356,Barbarian: China Stock Market Crashes (????),thriller,action,False
+test_data_solution:33756,Behold the Raven (2004),action,horror,False
+train_data:28992,Bites: The Werewolf Chronicles (2002),horror,horror,True
+test_data_solution:31653,The Locator 2 Braxton Returns (2010),action,thriller,False
+test_data_solution:45052,Sixty Glorious Years (1938),drama,romance,False
+train_data:2434,A Brush with Death (2007),horror,horror,True
+train_data:49430,The Stalking Moon (1968),western,western,True
+train_data:18675,Coronación (2000),drama,drama,True
+train_data:36617,Whitefolks (2017),crime,thriller,False
+test_data_solution:12877,The Evil Dead (1981),horror,horror,True
+train_data:28784,Predannyy drug (2008),romance,romance,True
+train_data:20166,Lush World: Brazilian Babe Wave (2005),adventure,science_fiction,False
+test_data_solution:34089,Shadows on the Range (1946),western,western,True
+train_data:34336,Last Frontier Uprising (1947),western,western,True
+train_data:47219,Without Honors (1932),western,western,True
+test_data_solution:14830,The Three Outcasts (1929),western,western,True
+test_data_solution:6567,Break In (????/I),action,action,True
+test_data_solution:41103,Scream of the Banshee (2011),horror,science_fiction,False
+train_data:21302,Chaos A.D. (2016),horror,horror,True
+train_data:27572,Software Piracy (2000),adventure,adventure,True
+test_data_solution:384,Hostages (2002),adventure,adventure,True
+test_data_solution:4251,Army of Two (2008),action,action,True
+test_data_solution:49987,Rio Grande (1938),western,western,True
+test_data_solution:38291,Manhattan Baby (1982),horror,horror,True
+train_data:26683,Point mort (1984),crime,adventure,False
+train_data:18139,The Groundskeeper (2018),thriller,horror,False
+train_data:19177,Kitaru (2012),science_fiction,action,False
+train_data:23231,The Proud and Damned (1972),western,action,False

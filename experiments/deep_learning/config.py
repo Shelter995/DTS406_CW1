@@ -1,4 +1,4 @@
-"""Configuration for TextCNN and GRU experiments."""
+"""Configuration for TextCNN and TF-IDF MLP experiments."""
 
 from __future__ import annotations
 
@@ -26,7 +26,6 @@ TARGET_LABELS = [
     "western",
     "crime",
     "adventure",
-    "musical",
     "science_fiction",
 ]
 
@@ -36,7 +35,7 @@ ID_TO_LABEL = {index: label for label, index in LABEL_TO_ID.items()}
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Train TextCNN and BiLSTM movie genre classifiers."
+        description="Train TextCNN and TF-IDF MLP movie genre classifiers."
     )
     parser.add_argument(
         "--project-root",
@@ -47,7 +46,6 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--batch-size", type=int, default=64)
     parser.add_argument("--epochs", type=int, default=5)
     parser.add_argument("--embedding-dim", type=int, default=128)
-    parser.add_argument("--hidden-dim", type=int, default=128)
     parser.add_argument("--num-filters", type=int, default=128)
     parser.add_argument("--filter-sizes", type=str, default="3,4,5")
     parser.add_argument("--dropout", type=float, default=0.5)
@@ -85,7 +83,7 @@ def parse_args() -> argparse.Namespace:
         "--models",
         type=str,
         default="textcnn,tfidf_mlp",
-        help="Comma-separated model names: textcnn,gru,bilstm,tfidf_mlp,tfidf_linear.",
+        help="Comma-separated model names: textcnn,tfidf_mlp,tfidf_linear.",
     )
     parser.add_argument(
         "--datasets",

@@ -1,0 +1,5 @@
+dataset,model,accuracy,macro_precision,macro_recall,macro_f1,weighted_precision,weighted_recall,weighted_f1,test_samples
+imdb,naive_bayes,0.5935,0.5952,0.5935,0.5864,0.5952,0.5935,0.5864,2000
+imdb,linear_svm,0.5925,0.587,0.5925,0.5878,0.587,0.5925,0.5878,2000
+wiki,naive_bayes,0.5757,0.5832,0.5776,0.5629,0.5769,0.5757,0.5591,1921
+wiki,linear_svm,0.5836,0.5818,0.5889,0.5834,0.5769,0.5836,0.5782,1921

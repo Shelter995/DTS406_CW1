@@ -26,7 +26,6 @@ TARGET_LABELS = [
     "western",
     "crime",
     "adventure",
-    "musical",
     "science_fiction",
 ]
 
@@ -34,12 +33,11 @@ WIKI_LABEL_PRIORITY = [
     "horror",
     "science_fiction",
     "thriller",
+    "adventure",
     "action",
     "crime",
-    "adventure",
     "romance",
     "comedy",
-    "musical",
     "western",
     "drama",
 ]
@@ -57,7 +55,6 @@ WIKI_LABEL_PATTERNS = {
     "adventure": [r"\badventure\b"],
     "romance": [r"\bromance\b", r"\bromantic\b"],
     "comedy": [r"\bcomedy\b", r"\bcomic\b"],
-    "musical": [r"\bmusical\b"],
     "western": [r"\bwestern\b"],
     "drama": [r"\bdrama\b", r"\bmelodrama\b", r"\bdramatic\b"],
 }

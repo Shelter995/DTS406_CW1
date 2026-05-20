@@ -333,7 +333,6 @@ def run_experiments(args) -> None:
                 num_classes=len(TARGET_LABELS),
                 pad_id=vocab.pad_id,
                 embedding_dim=args.embedding_dim,
-                hidden_dim=args.hidden_dim,
                 num_filters=args.num_filters,
                 filter_sizes=filter_sizes,
                 dropout=args.dropout,

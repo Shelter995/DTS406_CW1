@@ -123,43 +123,27 @@
 \tableofcontents
 \newpage
 
-\begin{abstract}
-This report studies document topic classification through movie genre classification. We use two different movie text datasets: IMDb short plot summaries and Wikipedia long movie plots. Both datasets are mapped into the same 11 movie genre labels so that the comparison is fair. We build a full Python classification pipeline, including data cleaning, tokenisation, stop-word removal, lemmatisation, label mapping, balanced sampling, feature extraction, model training, and evaluation. Four models are compared on both datasets: Multinomial Naive Bayes, Linear SVM, TextCNN, and TF-IDF MLP. The best overall model is Linear SVM on the Wikipedia data and TF-IDF MLP on the IMDb data. The results show that traditional TF-IDF methods are still very strong for this task because movie genres often depend on clear keywords. Neural models are useful, but they need enough data and good feature design to beat strong traditional baselines.
-\end{abstract}
-
 \section{Individual Literature Reviews}
-\subsection{Review 1: Zijie Xue --- Applications and Practical Challenges}
-Document topic classification means assigning one or more predefined labels to a document according to its content. Sebastiani describes this as a central task in automated text categorisation, where machine learning replaces manual reading and sorting \cite{sebastiani2002}. In practice, this task is useful when there are too many documents for people to organise by hand.
+\subsection{Review 1: Zijie Xue --- User-Oriented Document Organisation}
+I understand document topic classification as a way to reduce manual reading. Instead of opening every document, the system reads the text and places it under a useful topic label. Sebastiani treats this as a central task in automatic text categorisation \cite{sebastiani2002}. In real systems, this can support a news website that sorts articles into sections, a customer-service platform that sends tickets to different teams, or a movie website that groups films by genre.
 
-There are many real applications. First, news websites classify articles into politics, sport, finance, technology, and entertainment so that readers can find content quickly. Second, academic databases classify papers by subject area, which helps search engines and recommendation systems. Third, social platforms and customer-service systems classify posts, reviews, and tickets into topics such as complaint, refund, safety issue, or product feedback. Our movie genre task is similar: each movie description is a document, and the genre is the topic label.
+The user value is clear, but the task is not clean. Movie genres overlap in daily use. A film can look like crime, thriller, and horror at the same time. Some labels also have many more examples than others, so a model may become more confident on large categories. The two datasets in this project add another problem: IMDb summaries sound more like short advertisements, while Wikipedia plots read like full story descriptions.
 
-The first challenge is ambiguity. A movie can be both comedy and romance, or both horror and thriller. If the dataset forces one label, the model may be penalised even when its prediction is reasonable. The second challenge is class imbalance. In our processed data, some labels such as \textit{musical} have fewer samples than common labels such as \textit{drama}. This makes macro-F1 lower because small classes are harder to learn. The third challenge is text style difference. IMDb summaries are short and promotional, while Wikipedia plots are long and more factual. A method that works well on short emotional summaries may not work equally well on long narrative plots.
+For this reason, I think simple and explainable baselines are still important. TF-IDF features can show which words are useful \cite{ramos2003}, while Linear SVM is a strong text-classification baseline \cite{joachims1998}. TextCNN is less transparent, but it can test whether neural models learn extra phrase patterns from embeddings \cite{kim2014cnn}. A good report should not only say which model wins, but also explain what kind of text each model is good at.
 
-From this view, a good classifier must be not only accurate but also robust across text length, writing style, and label distribution. This is why our project uses two datasets instead of one.
+\subsection{Review 2: Fengyuan Shu --- Feature Representation and Algorithms}
+From my view, the key question is how raw text becomes numbers. TF-IDF is a practical answer: it gives more weight to words that are important in one document but not common in all documents \cite{ramos2003}. This is why it is still used in tasks such as paper indexing, legal document search, and review classification. In movie plots, words like ``haunted'', ``spaceship'', or ``cowboy'' can become strong genre signals.
 
-A practical system also needs explainability. If a film is predicted as horror, a user may want to know whether the decision came from words such as \textit{ghost}, \textit{haunted}, or \textit{killer}. Traditional TF-IDF models can sometimes provide this kind of clue because their features are human-readable. Neural models may be harder to explain, especially when many embedding dimensions interact. For a coursework system, this matters because the report should not only show scores but also explain why the scores happen.
+Feature design also creates risks. Sparse word features do not know that two different words may have related meanings. Long Wikipedia plots may include many names, places, and side events that are not useful for genre prediction. Compound labels make the situation harder because one source label may contain several possible target labels.
 
-\subsection{Review 2: Fengyuan Shu --- Traditional Machine Learning Methods}
-Traditional text classification usually converts text into numerical features first, then applies a classifier. TF-IDF is a common feature representation. It gives higher weight to words that are frequent in one document but not too common in the whole corpus \cite{ramos2003}. This is useful for movie genres because words such as \textit{ghost}, \textit{spaceship}, \textit{murder}, or \textit{cowboy} can strongly indicate a genre.
+The four algorithms in this project give a useful technical comparison. Naive Bayes uses word statistics and is simple, but its independence assumption is strong. Linear SVM is usually strong for high-dimensional sparse text \cite{cortes1995svm,joachims1998}. TextCNN moves away from pure TF-IDF by using embeddings and convolution filters to detect short local patterns \cite{kim2014cnn}. TF-IDF MLP keeps the engineered TF-IDF input but adds a neural classifier, so it can learn non-linear combinations that a linear model cannot.
 
-The first traditional method used in this project is Multinomial Naive Bayes. It is simple and fast. It treats the document as a bag of words and estimates which words are likely to appear in each class. Its advantage is efficiency and good performance on small text datasets. Its disadvantage is the strong independence assumption: it does not understand word order or phrase meaning. For example, it cannot deeply distinguish \textit{not funny} from \textit{funny}.
+\subsection{Review 3: Junyu Zhou --- Model Behaviour and Evaluation}
+My focus is evaluation. A topic classifier is useful only if its predictions are reliable across labels, not only good on average. This connects with the general goal of automatic text categorisation described by Sebastiani \cite{sebastiani2002}. Similar systems are used in email filtering, content moderation, and digital library organisation. In this project, every plot summary is treated as one document, and the target topic is the movie genre.
 
-The second method is Linear SVM. Joachims showed that SVMs work well for text categorisation because text data has many relevant sparse features \cite{joachims1998}. Linear SVM tries to find a separating hyperplane with a large margin. Its advantage is strong performance on high-dimensional TF-IDF vectors. Its disadvantage is that it still mainly relies on surface word features. It does not learn word embeddings or deeper semantic structure.
+This is why accuracy alone is not enough. If a dataset has fewer examples for some genres, a model can obtain a fair accuracy while still missing the smaller classes. Macro precision, macro recall, and macro-F1 are more suitable because every genre contributes equally. They also make label confusion easier to discuss, such as action being mixed with adventure, or thriller being mixed with horror and crime.
 
-Traditional models are therefore strong baselines. They are easy to train, easy to reproduce, and often very hard to beat when labels depend on keywords. In this project, Linear SVM is especially strong on the long Wikipedia plots.
-
-However, traditional models also have limits. They usually treat a document as an unordered set of features. A phrase such as \textit{the hero is not afraid} and \textit{the hero is afraid} may share many words. Bigram TF-IDF can reduce this problem, but it still cannot fully model story structure. In movie plots, the order of events may matter: a person dying at the beginning of a crime film is different from a death revealed as a final twist in a thriller. This is one reason why neural sequence models are still worth testing, even if traditional models are strong.
-
-\subsection{Review 3: Junyu Zhou --- Neural Models and Feature Learning}
-Deep learning methods try to learn useful representations from data. Word embeddings represent words as dense vectors instead of sparse one-hot features. Mikolov et al. showed that neural word representations can capture useful semantic relationships between words \cite{mikolov2013}. In text classification, neural models can use these vectors to learn local patterns or non-linear feature combinations.
-
-The first neural model in our final experiment is TextCNN. Kim showed that convolutional neural networks can work well for sentence classification by applying filters over word embeddings \cite{kim2014cnn}. In our task, TextCNN can learn short phrase patterns such as \textit{haunted house}, \textit{falls in love}, or \textit{serial killer}. Its advantage is local pattern learning. Its weakness is that it may miss long-range story information, especially in Wikipedia plots.
-
-The second neural model is TF-IDF MLP. It uses TF-IDF features as input and then applies a multi-layer perceptron. This is not a sequence model, but it is still a neural network. Its advantage is that it combines strong text features with non-linear classification. Its weakness is that it does not model word order directly. We also considered recurrent models such as LSTM and GRU. LSTM was proposed to reduce the vanishing gradient problem in recurrent neural networks \cite{hochreiter1997}, while GRU is a simpler gated recurrent unit introduced in an encoder-decoder model \cite{cho2014gru}. In our experiments, recurrent models were less stable because the data size is medium, embeddings are trained from scratch, and long movie plots contain much noise.
-
-Overall, neural models are powerful, but they do not automatically beat traditional methods. Their performance depends heavily on data size, input representation, and model complexity.
-
-For this project, this review leads to a balanced choice. TextCNN is selected as a clear deep text model because it learns local phrase patterns from embeddings. TF-IDF MLP is selected as a second neural model because it keeps the useful TF-IDF representation but replaces the traditional classifier with a multi-layer neural network. This gives one model that learns from token sequence features and one model that learns non-linear combinations of weighted words.
+The models should therefore be compared by both score and behaviour. Naive Bayes is easy to reproduce and gives a useful lower-complexity reference. Linear SVM often becomes the strongest traditional baseline when TF-IDF keywords are clear \cite{cortes1995svm,joachims1998}. TextCNN tests whether sequence-based neural learning helps when embeddings are trained from the project data \cite{kim2014cnn}. TF-IDF MLP is a different neural choice: it does not read word order directly, but it can combine word-level and character-level TF-IDF features in a non-linear way. This makes the final comparison more informative than simply trying four unrelated classifiers.
 
 \section{Datasets and Preprocessing}
 \subsection{Dataset Sources}
@@ -171,8 +155,8 @@ We use two public Kaggle datasets. The first is \textit{Genre Classification Dat
 \toprule
 \textbf{Dataset} & \textbf{Samples} & \textbf{Labels} & \textbf{Vocab} & \textbf{Avg. length} & \textbf{Train} & \textbf{Test} \\
 \midrule
-IMDb & 10,550 & 11 & 40,586 & 55.71 & 8,440 & 2,110 \\
-Wikipedia & 10,077 & 11 & 65,674 & 221.98 & 8,062 & 2,015 \\
+IMDb & 10,000 & 10 & 39,013 & 55.56 & 8,000 & 2,000 \\
+Wikipedia & 9,601 & 10 & 64,454 & 225.47 & 7,680 & 1,921 \\
 \bottomrule
 \end{tabular}
 \caption{Processed dataset statistics. Document length is measured after TF-IDF-oriented token cleaning.}
@@ -188,7 +172,7 @@ Wikipedia & 10,077 & 11 & 65,674 & 221.98 & 8,062 & 2,015 \\
     height=0.45\linewidth,
     ymin=0,
     ylabel={Number of samples},
-    symbolic x coords={action,adventure,comedy,crime,drama,horror,musical,romance,sci-fi,thriller,western},
+    symbolic x coords={action,adventure,comedy,crime,drama,horror,romance,sci-fi,thriller,western},
     xtick=data,
     x tick label style={rotate=35, anchor=east, font=\scriptsize},
     ymajorgrids=true,
@@ -199,11 +183,11 @@ Wikipedia & 10,077 & 11 & 65,674 & 221.98 & 8,062 & 2,015 \\
 ]
 \addplot+[fill=DeepBlue, draw=DeepBlue] coordinates {
     (action,1000) (adventure,1000) (comedy,1000) (crime,1000) (drama,1000) (horror,1000)
-    (musical,550) (romance,1000) (sci-fi,1000) (thriller,1000) (western,1000)
+    (romance,1000) (sci-fi,1000) (thriller,1000) (western,1000)
 };
 \addplot+[fill=ModelOrange, draw=ModelOrange] coordinates {
-    (action,1000) (adventure,691) (comedy,1000) (crime,1000) (drama,1000) (horror,1000)
-    (musical,590) (romance,1000) (sci-fi,914) (thriller,1000) (western,882)
+    (action,1000) (adventure,799) (comedy,1000) (crime,1000) (drama,1000) (horror,1000)
+    (romance,1000) (sci-fi,914) (thriller,1000) (western,888)
 };
 \legend{IMDb,Wikipedia}
 \end{axis}
@@ -213,7 +197,7 @@ Wikipedia & 10,077 & 11 & 65,674 & 221.98 & 8,062 & 2,015 \\
 \end{figure}
 
 \subsection{Cleaning and Label Mapping}
-The original label spaces are different. IMDb has cleaner single labels, while Wikipedia contains labels such as \textit{romantic drama}, \textit{crime drama}, and many rare labels. We map both datasets into 11 shared labels: drama, comedy, horror, action, thriller, romance, western, crime, adventure, musical, and science fiction. IMDb \textit{sci-fi} is mapped to \textit{science\_fiction}. Wikipedia compound genres are mapped by priority, with more specific labels such as horror and science fiction before broad labels such as drama.
+The original label spaces are different. IMDb has cleaner single labels, while Wikipedia contains labels such as \textit{romantic drama}, \textit{crime drama}, and many rare labels. We map both datasets into 10 shared labels, written here in the same priority order used for Wikipedia compound-genre mapping: horror, science\_fiction, thriller, adventure, action, crime, romance, comedy, western, and drama. IMDb \textit{sci-fi} is mapped to \textit{science\_fiction}. The priority order is needed because many Wikipedia labels contain more than one genre word. Earlier labels are checked first, so more distinctive or easily absorbed genres are kept before broader genres when a single final label must be chosen.
 
 The cleaning steps are: removing empty texts, removing very short texts, removing Wikipedia citation marks, normalising spaces, lowercasing, tokenisation, stop-word removal, and lemmatisation. Two text fields are saved. \texttt{text\_clean\_tfidf} is used for TF-IDF and for final neural sequence input. \texttt{text\_clean\_dl} is kept as a lighter sequence-cleaned version, but the final report uses \texttt{text\_clean\_tfidf} because it reduces noise and improves model stability.
 
@@ -223,7 +207,7 @@ The cleaning steps are: removing empty texts, removing very short texts, removin
 \toprule
 \textbf{Design choice} & \textbf{Reason} \\
 \midrule
-Use 11 shared labels & Keeps IMDb and Wikipedia comparable under the same classification task. \\
+Use 10 shared labels & Keeps IMDb and Wikipedia comparable under the same classification task. \\
 Drop unknown and unmapped labels & Avoids noisy labels that do not describe a clear movie genre. \\
 Balance up to 1000 samples/class & Reduces the dominance of large classes such as drama and comedy. \\
 Use stratified 80/20 split & Keeps similar label proportions in train and test sets. \\
@@ -234,7 +218,7 @@ Use title + cleaned text for neural models & Movie titles often contain useful g
 \label{tab:preprocess_choices}
 \end{table}
 
-The processed datasets are not perfectly balanced because some target genres do not have enough usable samples after cleaning. For example, IMDb has only 550 musical samples, and Wikipedia has 691 adventure samples, 590 musical samples, 914 science fiction samples, and 882 western samples. This is important for interpreting the results. Accuracy can look acceptable even when small classes are weak, so macro precision, macro recall, and macro-F1 are more informative.
+The processed datasets are close to balanced but still not perfect because some target genres do not have enough usable samples after cleaning. IMDb has 1000 examples for each shared label. Wikipedia still has 799 adventure samples, 914 science fiction samples, and 888 western samples. This is important for interpreting the results. Accuracy can look acceptable even when smaller classes are weak, so macro precision, macro recall, and macro-F1 are more informative.
 
 \section{Algorithm Design and Implementation}
 \subsection{System Pipeline}
@@ -252,9 +236,9 @@ The implementation separates data preparation from experiments. The preprocessin
 \node[block] (raw) at (0,0) {Raw IMDb\\Raw Wiki};
 \node[block] (clean) at (3.8,0) {Cleaning\\label mapping};
 \node[block] (split) at (7.6,0) {Balanced data\\train/test split};
-\node[block] (trad) at (11.6,1.0) {TF-IDF\\NB + SVM};
-\node[block] (deep) at (11.6,-1.0) {Embedding / TF-IDF\\TextCNN + MLP};
-\node[block] (eval) at (15.4,0) {Precision\\Recall\\F1};
+\node[block] (trad) at (11.6,1.2) {TF-IDF\\NB + SVM};
+\node[block] (deep) at (11.6,-1.8) {Embedding / TF-IDF\\TextCNN + MLP};
+\node[block] (eval) at (15.8,0) {Precision\\Recall\\F1};
 \draw[arrow] (raw) -- (clean);
 \draw[arrow] (clean) -- (split);
 \draw[arrow] (split) -- (trad);
@@ -266,8 +250,10 @@ The implementation separates data preparation from experiments. The preprocessin
 \label{fig:pipeline}
 \end{figure}
 
-\subsection{Model Pseudocode}
-\begin{lstlisting}[style=pseudocode,caption={Multinomial Naive Bayes with TF-IDF.}]
+\subsection{Selected Models}
+Naive Bayes is used as a fast probabilistic baseline. The text is first converted into TF-IDF features, and the classifier estimates which words are more likely under each genre. The pseudocode below shows the two key components: feature extraction and probability-based prediction.
+
+\begin{lstlisting}[style=pseudocode,caption={Naive Bayes with TF-IDF.}]
 FUNCTION TrainNaiveBayes(train_texts, train_labels):
     X_train = TFIDF(train_texts)
     model = MultinomialNB(alpha=0.5)
@@ -278,6 +264,8 @@ FUNCTION PredictNaiveBayes(vectorizer, model, test_texts):
     X_test = TRANSFORM test_texts with vectorizer
     RETURN PREDICT model on X_test
 \end{lstlisting}
+
+Linear SVM is the second traditional method. It uses TF-IDF unigram and bigram features, then learns a large-margin linear boundary. This is suitable for sparse text vectors because many genre clues appear as keywords or short phrases.
 
 \begin{lstlisting}[style=pseudocode,caption={Linear SVM with TF-IDF.}]
 FUNCTION TrainLinearSVM(train_texts, train_labels):
@@ -291,6 +279,8 @@ FUNCTION PredictLinearSVM(vectorizer, model, test_texts):
     RETURN PREDICT model on X_test
 \end{lstlisting}
 
+TextCNN is the first deep learning model. It reads token ids, looks up word embeddings, and applies convolution filters over local word windows. The max-pooling step keeps the strongest phrase signal for each filter. This follows the wider use of convolutional networks for text classification, including word-level CNNs and character-level CNNs \cite{kim2014cnn,zhang2015charcnn}.
+
 \begin{lstlisting}[style=pseudocode,caption={TextCNN with word embeddings.}]
 FUNCTION TrainTextCNN(train_tokens, train_labels):
     vocab = BUILD_VOCAB(train_tokens)
@@ -303,6 +293,8 @@ FUNCTION TrainTextCNN(train_tokens, train_labels):
         UPDATE model using cross entropy loss
     RETURN model, vocab
 \end{lstlisting}
+
+TF-IDF MLP is the second deep learning model. Instead of reading token sequences, it uses word and character TF-IDF features as input to a multi-layer perceptron. This design keeps strong keyword features while allowing non-linear neural classification.
 
 \begin{lstlisting}[style=pseudocode,caption={TF-IDF MLP neural classifier.}]
 FUNCTION TrainTfidfMLP(train_texts, train_labels):
@@ -345,15 +337,15 @@ We report macro precision, macro recall, and macro-F1 because the dataset is not
 \toprule
 \textbf{Dataset} & \textbf{Model} & \textbf{Accuracy} & \textbf{Macro P} & \textbf{Macro R} & \textbf{Macro F1} \\
 \midrule
-IMDb & Naive Bayes & 0.5649 & 0.5905 & 0.5485 & 0.5404 \\
-IMDb & Linear SVM & 0.5673 & 0.5623 & 0.5709 & 0.5648 \\
-IMDb & TextCNN & 0.5441 & 0.5478 & 0.5471 & 0.5334 \\
-IMDb & TF-IDF MLP & \textbf{0.5682} & 0.5831 & 0.5677 & \textbf{0.5706} \\
+IMDb & Naive Bayes & \textbf{0.5935} & 0.5952 & \textbf{0.5935} & 0.5864 \\
+IMDb & Linear SVM & 0.5925 & 0.5870 & 0.5925 & \textbf{0.5878} \\
+IMDb & TextCNN & 0.5410 & 0.5437 & 0.5410 & 0.5377 \\
+IMDb & TF-IDF MLP & 0.5885 & \textbf{0.5956} & 0.5885 & 0.5849 \\
 \midrule
-Wikipedia & Naive Bayes & 0.5390 & 0.5766 & 0.5221 & 0.4991 \\
-Wikipedia & Linear SVM & \textbf{0.5965} & \textbf{0.5890} & \textbf{0.6051} & \textbf{0.5944} \\
-Wikipedia & TextCNN & 0.5270 & 0.5516 & 0.5302 & 0.5248 \\
-Wikipedia & TF-IDF MLP & 0.5792 & 0.5831 & 0.5871 & 0.5812 \\
+Wikipedia & Naive Bayes & 0.5757 & 0.5832 & 0.5776 & 0.5629 \\
+Wikipedia & Linear SVM & 0.5836 & 0.5818 & 0.5889 & 0.5834 \\
+Wikipedia & TextCNN & 0.5450 & 0.5703 & 0.5512 & 0.5491 \\
+Wikipedia & TF-IDF MLP & \textbf{0.5872} & \textbf{0.5903} & \textbf{0.5930} & \textbf{0.5895} \\
 \bottomrule
 \end{tabular}
 \caption{Four-model classification results on the two datasets. P, R, and F1 are macro-averaged.}
@@ -381,10 +373,10 @@ Wikipedia & TF-IDF MLP & 0.5792 & 0.5831 & 0.5871 & 0.5812 \\
     nodes near coords style={font=\scriptsize},
 ]
 \addplot+[fill=DeepBlue, draw=DeepBlue] coordinates {
-    (NB,0.5404) (SVM,0.5648) (TextCNN,0.5334) (TF-IDF MLP,0.5706)
+    (NB,0.5864) (SVM,0.5878) (TextCNN,0.5377) (TF-IDF MLP,0.5849)
 };
 \addplot+[fill=ModelOrange, draw=ModelOrange] coordinates {
-    (NB,0.4991) (SVM,0.5944) (TextCNN,0.5248) (TF-IDF MLP,0.5812)
+    (NB,0.5629) (SVM,0.5834) (TextCNN,0.5491) (TF-IDF MLP,0.5895)
 };
 \legend{IMDb,Wikipedia}
 \end{axis}
@@ -393,24 +385,74 @@ Wikipedia & TF-IDF MLP & 0.5792 & 0.5831 & 0.5871 & 0.5812 \\
 \label{fig:f1_comparison}
 \end{figure}
 
+\begin{figure}[H]
+\centering
+\begin{minipage}{0.48\linewidth}
+\centering
+\includegraphics[width=\linewidth]{figures/training_curves/imdb_training_loss.png}
+\end{minipage}
+\hfill
+\begin{minipage}{0.48\linewidth}
+\centering
+\includegraphics[width=\linewidth]{figures/training_curves/wiki_training_loss.png}
+\end{minipage}
+\caption{Training loss curves for the two deep learning models. The shorter TF-IDF MLP curves reflect early stopping.}
+\label{fig:training_loss}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\begin{minipage}{0.48\linewidth}
+\centering
+\includegraphics[width=\linewidth]{figures/training_curves/imdb_validation_macro_f1.png}
+\end{minipage}
+\hfill
+\begin{minipage}{0.48\linewidth}
+\centering
+\includegraphics[width=\linewidth]{figures/training_curves/wiki_validation_macro_f1.png}
+\end{minipage}
+\caption{Validation macro-F1 curves for TextCNN and TF-IDF MLP. The curves show why early stopping can select an earlier epoch instead of the final epoch.}
+\label{fig:val_f1}
+\end{figure}
+
+\begin{figure}[H]
+\centering
+\begin{minipage}{0.48\linewidth}
+\centering
+\includegraphics[width=\linewidth]{figures/confusion_matrices/imdb_linear_svm_confusion_matrix.png}
+\end{minipage}
+\hfill
+\begin{minipage}{0.48\linewidth}
+\centering
+\includegraphics[width=\linewidth]{figures/confusion_matrices/wiki_tfidf_mlp_confusion_matrix.png}
+\end{minipage}
+\caption{Representative confusion matrices: Linear SVM on IMDb and TF-IDF MLP on Wikipedia.}
+\label{fig:confusion_examples}
+\end{figure}
+
 \subsection{Analysis}
-On IMDb, TF-IDF MLP gives the best macro-F1. This dataset contains short summaries with strong genre words, so TF-IDF features are very useful. The MLP can learn some non-linear relations between these features, which helps it slightly beat Linear SVM. The difference is small, but it is meaningful because both models use similar cleaned text. It suggests that a neural classifier can add value when the input features are already strong.
+On IMDb, Linear SVM gives the best macro-F1 by a very small margin, while Naive Bayes gives the highest accuracy and TF-IDF MLP gives the highest macro precision. This dataset contains short summaries with strong genre words, so TF-IDF features are very useful for all three TF-IDF-based models. The differences among Naive Bayes, Linear SVM, and TF-IDF MLP are small, which suggests that the cleaned IMDb task is mainly driven by clear keyword evidence.
 
-On Wikipedia, Linear SVM is the best model. Wikipedia plots are much longer, and many documents contain mixed events, names, and subplots. TF-IDF still works well because it can focus on important words across long documents. TextCNN is weaker because it only captures local phrases, and many genre clues are spread across a long plot. TF-IDF MLP is close to SVM but still lower, possibly because the neural network overfits some sparse patterns. The long Wikipedia plots also contain many character names and detailed events that are not directly useful for genre classification. This increases noise for neural models trained from scratch.
+On Wikipedia, TF-IDF MLP is the best model. Wikipedia plots are much longer, and many documents contain mixed events, names, and subplots. TF-IDF still works well because it can focus on important words across long documents. The MLP slightly improves over Linear SVM because it can learn non-linear combinations of word and character TF-IDF features. The long Wikipedia plots also contain many character names and detailed events that are not directly useful for genre classification, which still limits the improvement.
 
-TextCNN performs lower than SVM on both datasets. This does not mean CNN is useless for text classification. It means that in this project, embeddings are trained from scratch and the data size is medium. Without pretrained word vectors, the model has to learn both word meanings and classification boundaries from the same limited data. Also, although we sampled up to 1000 items per class, the dataset is still not perfectly balanced: IMDb musical has only 550 samples, and Wikipedia adventure, musical, science fiction, and western are below 1000. This hurts macro-F1 because minority labels contribute equally to the final score.
+TextCNN performs lower than the TF-IDF-based models on both datasets. This does not mean CNN is useless for text classification. It means that in this project, embeddings are trained from scratch and the data size is medium. Without pretrained word vectors, the model has to learn both word meanings and classification boundaries from the same limited data. Also, Wikipedia is still not perfectly balanced: adventure, science fiction, and western are below 1000 samples. This hurts macro-F1 because minority labels contribute equally to the final score.
 
-Naive Bayes is competitive on IMDb but weaker on Wikipedia. Its simple word-count assumption works better for short promotional summaries than for long plots. Linear SVM is more stable because it handles many sparse features and uses a margin-based decision boundary.
+The training curves in Figures~\ref{fig:training_loss} and~\ref{fig:val_f1} also explain the neural results. TextCNN keeps reducing training loss for more epochs, but the validation macro-F1 moves up and down. This means lower training loss does not always mean better generalisation. TF-IDF MLP reaches its best validation score early, so early stopping prevents it from fitting too strongly to the training split.
 
-Precision, recall, and F1 tell slightly different stories. Precision measures how many predicted items of a class are correct. Recall measures how many true items of a class are found. F1 balances the two. In this task, macro recall is important because a model can get good accuracy by predicting common classes but still miss smaller genres. For example, a model may often confuse musical with drama or romance because many musical plots also contain emotional storylines. This is why the report focuses on macro-F1 rather than accuracy alone.
+Naive Bayes is competitive on IMDb but weaker on Wikipedia. Its simple word-count assumption works better for short promotional summaries than for long plots. Linear SVM is more stable because it handles many sparse features and uses a margin-based decision boundary. The confusion matrices in Figure~\ref{fig:confusion_examples} show that many errors happen between semantically close genres. For example, action and adventure can overlap, while thriller, horror, and crime can share similar plot words.
+
+Precision, recall, and F1 tell slightly different stories. Precision measures how many predicted items of a class are correct. Recall measures how many true items of a class are found. F1 balances the two. In this task, macro recall is important because a model can get good accuracy by predicting common classes but still miss smaller genres. For example, adventure can be confused with action because many films contain both action scenes and travel or quest elements. This is why the report focuses on macro-F1 rather than accuracy alone.
 
 \subsection{Error Sources}
 There are four main sources of error. First, genre labels are not always mutually exclusive. A film labelled as thriller may also look like horror or crime from its plot. Second, the Wikipedia genre field is noisy and often compound. Although we use a priority mapping rule, a single-label mapping cannot fully represent multi-genre films. Third, the two datasets have different writing styles. IMDb text is closer to marketing language, while Wikipedia text includes the whole story. Fourth, some genres have fewer samples even after balancing. These factors explain why no model achieves very high scores.
 
-The results also show a useful lesson about deep learning. A more complex model is not always better. Earlier trials with recurrent models were weaker because they tried to learn sequence patterns from limited training data. In contrast, TF-IDF MLP uses a simpler input representation that already highlights important words. This makes it more stable for this coursework setting. For future work, pretrained embeddings or larger labelled movie datasets may improve TextCNN and sequence models.
+The results also show a useful lesson about deep learning. A more complex input pipeline is not always better. TextCNN tries to learn embeddings and phrase filters from the same medium-sized training data, while TF-IDF MLP starts from a stronger text representation that already highlights important words. This makes TF-IDF MLP more stable for this coursework setting. For future work, pretrained embeddings or larger labelled movie datasets may improve the embedding-based model.
 
 \subsection{Reproducibility}
-All output tables are generated from project files. The cleaned datasets are saved in \texttt{data/processed/}. Dataset statistics are saved in \texttt{outputs/tables/}. Model reports and prediction files are saved in \texttt{outputs/results/}. The final comparison table is \texttt{outputs/results/model\_comparison.csv}. The deep learning environment uses PyTorch CUDA 12.6 on the local GPU. Since the scripts fix the random seed, the results should be close when rerun under the same software versions, although small GPU numerical differences may still occur.
+All output tables are generated from project files. The cleaned datasets are saved in \texttt{data/processed/}. Dataset statistics are saved in \texttt{outputs/tables/}. Model reports and prediction files are saved in \texttt{outputs/results/}. The final comparison table is saved as:
+\texttt{outputs/results/model\_comparison.csv}
+
+The generated figures are saved in \texttt{outputs/figures/}. The deep learning environment uses PyTorch CUDA 12.6 on the local GPU. Since the scripts fix the random seed, the results should be close when rerun under the same software versions, although small GPU numerical differences may still occur.
 
 \section{Conclusion}
 This project implements a complete document topic classification system on two movie text datasets. The results show that dataset style matters. Short IMDb summaries and long Wikipedia plots behave differently. Traditional TF-IDF models remain very strong, especially Linear SVM. Neural models are still useful: TextCNN provides a standard deep text classification baseline, and TF-IDF MLP shows that combining feature engineering with neural classification can be effective. However, deep learning is not automatically better. For medium-sized datasets with uneven labels and strong keyword signals, simple traditional methods can still be the most reliable choice.

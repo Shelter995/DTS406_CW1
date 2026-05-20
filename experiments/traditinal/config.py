@@ -21,7 +21,6 @@ TARGET_LABELS = [
     "western",
     "crime",
     "adventure",
-    "musical",
     "science_fiction",
 ]
 

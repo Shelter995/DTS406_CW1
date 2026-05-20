@@ -1,0 +1,1922 @@
+sample_id,title,true_label,predicted_label,correct
+19666,Children of the Damned,horror,science_fiction,False
+1499,The Emperor Jones,drama,adventure,False
+31096,7aam Arivu,science_fiction,science_fiction,True
+20170,Gawain and the Green Knight,adventure,adventure,True
+4169,Accomplice,crime,western,False
+20034,Loot,comedy,crime,False
+32704,Dictator,action,action,True
+10559,Knights of the City,action,comedy,False
+21784,"Harry Tracy, Desperado",western,western,True
+16346,Piranha 3DD,horror,horror,True
+15241,I Now Pronounce You Chuck and Larry,comedy,romance,False
+30804,Azhagiya Tamil Magan,thriller,romance,False
+31253,Irumbu Kuthirai,action,action,True
+5894,It Came from Outer Space,science_fiction,science_fiction,True
+12315,The Specialist,thriller,thriller,True
+9369,The Great Smokey Roadblock,comedy,adventure,False
+2337,The Adventures of Tom Sawyer,adventure,adventure,True
+14760,The Skeleton Key,horror,horror,True
+17280,The Emoji Movie,adventure,romance,False
+2102,Modern Times,comedy,comedy,True
+23932,Mr. and Mrs. Iyer,romance,romance,True
+26064,Phir Bhi Dil Hai Hindustani,romance,action,False
+2745,Black Friday,science_fiction,crime,False
+1376,Partners,western,western,True
+4500,The Lady from Shanghai,crime,crime,True
+5285,Young Man with a Horn,drama,drama,True
+9689,Fade to Black,horror,crime,False
+4228,Easy to Wed,comedy,comedy,True
+5057,Black Jack,adventure,adventure,True
+16554,"Host, TheThe Host",science_fiction,science_fiction,True
+16705,Violet & Daisy,action,crime,False
+23959,Paribar,romance,romance,True
+5764,Voodoo Tiger,adventure,adventure,True
+19872,How I Won the War,comedy,action,False
+24318,Mela,romance,romance,True
+18228,Counsel's Opinion,romance,romance,True
+6601,Manfish,adventure,adventure,True
+2255,Marked Woman,crime,crime,True
+33344,Happiness of the Katakuris !The Happiness of the Katakuris,horror,horror,True
+6658,Star in the Dust,western,western,True
+993,Outward Bound,drama,thriller,False
+6583,The Killer Is Loose,crime,crime,True
+57,The Evidence of the Film,crime,drama,False
+12553,Seven,thriller,thriller,True
+16357,Red Lights,thriller,horror,False
+16097,Puss in Boots,adventure,adventure,True
+11900,Singles,comedy,drama,False
+14297,Lara Croft Tomb Raider: The Cradle of Life,action,science_fiction,False
+12095,Tombstone,western,western,True
+7530,Pocketful of Miracles,comedy,drama,False
+33965,Sekigahara,action,action,True
+22323,Please Kill Mr. Know It All,romance,romance,True
+23629,Permanent Residence,drama,drama,True
+28877,Killer Punjabi,action,thriller,False
+5291,The African Queen,drama,adventure,False
+7311,"The World, the Flesh and the Devil",science_fiction,science_fiction,True
+19547,Cash on Demand,thriller,crime,False
+13055,The Lost World: Jurassic Park,science_fiction,science_fiction,True
+26664,Raavan,action,action,True
+26705,Phas Gaye Re Obama,crime,action,False
+26214,Main Prem Ki Diwani Hoon,romance,romance,True
+1289,Daring Danger,western,western,True
+18910,Trottie True,comedy,drama,False
+11910,A Stranger Among Us,crime,crime,True
+13382,Urban Legend,horror,horror,True
+8484,The Rain People,drama,thriller,False
+23496,Troublesome Night 14,horror,horror,True
+15679,Julie & Julia,romance,drama,False
+6143,Make Haste to Live,thriller,western,False
+32487,Virodhi,action,thriller,False
+10553,Jake Speed,action,adventure,False
+9771,Silent Scream,horror,horror,True
+23787,Zombadings 1: Patayin sa Shokot si Remington,horror,horror,True
+24345,Bahar,romance,romance,True
+4332,The Spider Woman Strikes Back,horror,horror,True
+33973,Fate/stay night: Heaven's Feel Series,horror,action,False
+13865,Head Over Heels,romance,thriller,False
+15160,Bratz: The Movie,comedy,comedy,True
+2336,The Adventures of Robin Hood,adventure,adventure,True
+4185,The Big Sleep,crime,crime,True
+10004,Porky's,comedy,comedy,True
+17485,My Brilliant Career,romance,drama,False
+18301,The Scarlet Pimpernel,adventure,adventure,True
+15419,"Definitely, Maybe",romance,romance,True
+31674,Zamindar (film),thriller,thriller,True
+34060,KL Special Force,thriller,action,False
+24156,Ami Shudhu Cheyechi Tomay,romance,romance,True
+8384,Sweet November,drama,romance,False
+8160,Waco,western,western,True
+977,Morocco,drama,romance,False
+133,The Aryan,western,western,True
+25721,Roop Ki Rani Choron Ka Raja,drama,action,False
+20090,The Night Digger,thriller,drama,False
+14253,Evil Alien Conquerors,science_fiction,science_fiction,True
+6809,I Was a Teenage Werewolf,science_fiction,horror,False
+2520,Buck Rogers,science_fiction,science_fiction,True
+3981,Captain Kidd,adventure,adventure,True
+9146,Gone with the West,western,western,True
+15908,Percy Jackson & the Olympians: The Lightning Thief,adventure,adventure,True
+28597,Kochavva Paulo Ayyappa Coelho,comedy,romance,False
+25322,Sohni Mahiwal,adventure,romance,False
+6103,The Great Diamond Robbery,comedy,crime,False
+19342,Robbery Under Arms,crime,western,False
+15808,Crazy on the Outside,comedy,romance,False
+6260,Chicago Syndicate,crime,crime,True
+28106,Chattambinadu (ചട്ടമ്പിനാടു്),thriller,action,False
+6773,From Hell It Came,science_fiction,horror,False
+5693,The Narrow Margin,crime,crime,True
+12265,No Escape,science_fiction,adventure,False
+26682,Mallika,horror,horror,True
+19935,The Lion in Winter,drama,adventure,False
+18916,Bitter Springs,western,adventure,False
+21734,Meatballs,comedy,comedy,True
+10607,River's Edge,drama,horror,False
+24933,Chupke Chupke,romance,comedy,False
+19144,The Embezzler,crime,comedy,False
+12629,Blood and Wine,crime,crime,True
+6166,Princess of the Nile,adventure,adventure,True
+6025,Wings of the Hawk,western,western,True
+12978,Fathers' Day,comedy,romance,False
+32159,Praanam,romance,romance,True
+11330,Welcome Home,drama,action,False
+10196,Conan the Destroyer,action,adventure,False
+34885,Non-Transferable,romance,drama,False
+15872,The Last Airbender,adventure,science_fiction,False
+2808,Gangs of Chicago,crime,crime,True
+33389,Gozu,horror,drama,False
+6237,The Americano,western,western,True
+8757,The Zodiac Killer,crime,thriller,False
+32215,Manasu Maata Vinadhu,romance,romance,True
+8105,Johnny Reno,western,western,True
+9711,Hero at Large,comedy,drama,False
+33168,Tetsuo: The Iron Man,horror,horror,True
+19294,Satellite in the Sky,science_fiction,science_fiction,True
+2446,Red River Range,western,western,True
+16956,Muck,horror,horror,True
+32805,Ginza Cosmetics,drama,drama,True
+11961,CB4,comedy,crime,False
+24223,Deccan Queen,action,action,True
+24222,Amar Jyoti,adventure,adventure,True
+30819,Bheema,action,action,True
+15304,P.S. I Love You,romance,romance,True
+9499,House Calls,comedy,romance,False
+19115,Three Steps in the Dark,crime,comedy,False
+10457,The Sure Thing,comedy,romance,False
+12560,Soldier Boyz,action,action,True
+3680,Tarzan's Desert Mystery,adventure,adventure,True
+5891,Inferno,thriller,crime,False
+20144,Straight on Till Morning,thriller,thriller,True
+12585,The Usual Suspects,crime,crime,True
+6785,Gun for a Coward,western,western,True
+17326,Professor Marston and the Wonder Women,drama,drama,True
+14056,Friday After Next,comedy,comedy,True
+15647,The Hangover,comedy,comedy,True
+17806,The Horseman,thriller,drama,False
+32437,Puli,action,thriller,False
+4021,Flame of Barbary Coast,western,adventure,False
+16316,A Little Bit of Heaven,romance,romance,True
+32767,Guru,action,action,True
+6366,Outlaw Treasure,western,western,True
+24444,Aasha,thriller,drama,False
+6764,Escape from San Quentin,crime,crime,True
+6946,The Way to the Gold,drama,crime,False
+12952,Crossed Swords,adventure,adventure,True
+7027,Gunman's Walk,western,western,True
+11303,Tango & Cash,action,crime,False
+8866,To Find a Man,drama,comedy,False
+6579,It Conquered the World,science_fiction,science_fiction,True
+14231,Cold Mountain,romance,western,False
+15793,Brooklyn's Finest,crime,crime,True
+17334,The Killing of a Sacred Deer,horror,horror,True
+13875,Jay and Silent Bob Strike Back,comedy,comedy,True
+13274,Judas Kiss,crime,crime,True
+7298,Thunder in the Sun,western,action,False
+19529,Piccadilly Third Stop,thriller,thriller,True
+15627,Extract,comedy,comedy,True
+31409,Sadhuram 2,thriller,thriller,True
+7261,Operation Petticoat,comedy,adventure,False
+8138,Red Tomahawk,western,western,True
+2873,The Mark of Zorro,adventure,western,False
+27490,Dil Rangeela,romance,romance,True
+26985,Koyelaanchal,action,action,True
+26732,Game,action,thriller,False
+10927,Colors,crime,action,False
+16027,Fright Night,horror,horror,True
+5638,Hiawatha,adventure,drama,False
+31172,Moondru Per Moondru Kadhal,romance,romance,True
+5499,Slaughter Trail,western,western,True
+19957,Yellow Submarine,comedy,adventure,False
+5882,Hondo,western,western,True
+32510,Mogudu,romance,romance,True
+12283,Puppet Master 5: The Final Chapter,horror,horror,True
+7301,The Trap,crime,crime,True
+6989,Cry Terror!,thriller,crime,False
+15266,Live Free or Die Hard,action,action,True
+8287,Bandolero!,western,western,True
+14394,The Alamo,western,western,True
+5136,Highway 301,crime,crime,True
+24004,Gharjamai,romance,action,False
+28387,Thank You,thriller,thriller,True
+3021,City of Missing Girls,crime,crime,True
+4132,Tarzan and the Amazons,adventure,adventure,True
+32741,Janatha Garage,action,action,True
+12800,The Pallbearer,comedy,romance,False
+28102,My Big Father,comedy,romance,False
+3435,Street of Chance,crime,crime,True
+26917,Love in Bombay,romance,romance,True
+20301,The Comeback,horror,horror,True
+3639,Phony Express,comedy,western,False
+5813,A Blueprint for Murder,thriller,drama,False
+5193,Outside the Wall,crime,crime,True
+25081,Jurmana,romance,drama,False
+1082,Caught Cheating,comedy,crime,False
+11042,The Presidio,crime,crime,True
+12895,Addicted to Love,comedy,romance,False
+33948,What a Wonderful Family 2!,science_fiction,science_fiction,True
+32294,Gundamma Gaari Manavadu,comedy,romance,False
+21911,Requiem for a Handsome Bastard (Requiem pour un beau sans-coeur),crime,crime,True
+23794,Born To Love You,romance,romance,True
+19926,The Fiction Makers,adventure,comedy,False
+722,Noah's Ark,drama,adventure,False
+28439,Bhoomiyude Avakashikal,drama,romance,False
+19612,The Day of the Triffids,science_fiction,science_fiction,True
+20072,Countess Dracula,horror,horror,True
+196,Beauty and the Rogue,crime,drama,False
+4594,Act of Violence,crime,crime,True
+3174,Scotland Yard,crime,thriller,False
+7006,The Flame Barrier,science_fiction,science_fiction,True
+10350,D.A.R.Y.L.,science_fiction,science_fiction,True
+32118,Subbu,action,romance,False
+6829,Legend of the Lost,adventure,adventure,True
+17750,Feed,thriller,crime,False
+7822,Blood on the Arrow,western,western,True
+26299,Shukriya: Till Death Do Us Apart,drama,action,False
+24406,House No. 44,thriller,romance,False
+30963,Peranmai,thriller,action,False
+14468,The Grudge,horror,horror,True
+24503,Dil Apna Aur Preet Parai,romance,drama,False
+12531,Payback,action,crime,False
+11971,Dangerous Game,drama,drama,True
+11241,Moontrap,science_fiction,science_fiction,True
+7668,Tales of Terror,horror,horror,True
+15738,Sherlock Holmes,adventure,crime,False
+8243,Journey to the Center of Time,science_fiction,science_fiction,True
+28732,Aandhali Koshimbir,comedy,drama,False
+13165,U Turn,thriller,thriller,True
+10992,Killer Klowns from Outer Space,science_fiction,science_fiction,True
+33373,Returner,science_fiction,science_fiction,True
+32467,Jackie,action,action,True
+22711,Last Flight,science_fiction,adventure,False
+31091,Vaagai Sooda Vaa,romance,drama,False
+13815,Bully,crime,horror,False
+19852,The Trygon Factor,thriller,crime,False
+1513,Going Hollywood,comedy,comedy,True
+17840,Van Diemen's Land,thriller,horror,False
+1161,Man of the World,romance,crime,False
+16986,Hot Pursuit,comedy,action,False
+14150,Solaris,science_fiction,science_fiction,True
+8507,The Valley of Gwangi,science_fiction,western,False
+28076,Winter,horror,horror,True
+13485,Idle Hands,horror,horror,True
+26911,D Day,action,thriller,False
+25688,Bedardi,action,action,True
+11595,Chopper Chicks in Zombietown,horror,horror,True
+15140,Anamorph,thriller,horror,False
+1870,The Dawn Rider,western,western,True
+211,Fuss and Feathers,comedy,drama,False
+12012,Jason Goes to Hell: The Final Friday,horror,horror,True
+6524,Fire Maidens from Outer Space,science_fiction,science_fiction,True
+2466,Test Pilot,drama,drama,True
+6441,The Violent Men,western,western,True
+12716,Gotti,crime,crime,True
+10242,Missing in Action,action,action,True
+19620,Guns of Darkness,drama,drama,True
+17493,Dead Man's Float,crime,comedy,False
+2531,Charlie Chan in Reno,crime,crime,True
+15377,Wind Chill,horror,horror,True
+4695,Jungle Goddess,adventure,adventure,True
+6377,The Purple Mask,adventure,adventure,True
+5053,Between Midnight and Dawn,thriller,crime,False
+1318,Heritage of the Desert,western,western,True
+11758,Basic Instinct,thriller,crime,False
+26608,Ajab Prem Ki Ghazab Kahani,romance,romance,True
+5979,Seminole,western,western,True
+8168,Women of the Prehistoric Planet,science_fiction,science_fiction,True
+5716,Rancho Notorious,western,western,True
+11722,Showdown in Little Tokyo,action,crime,False
+6341,A Man Alone,western,western,True
+16158,About Cherry,drama,drama,True
+32840,Mysterians !The Mysterians,science_fiction,science_fiction,True
+9501,I Wanna Hold Your Hand,comedy,comedy,True
+24903,Ajanabee,romance,romance,True
+16862,This Is Where I Leave You,comedy,drama,False
+2484,You and Me,crime,romance,False
+25663,Tahalka,action,action,True
+6714,Attack of the Crab Monsters,science_fiction,science_fiction,True
+1747,Men in White,drama,drama,True
+26030,Beti No.1,comedy,romance,False
+5363,Flight to Mars,science_fiction,science_fiction,True
+14077,Impostor,science_fiction,science_fiction,True
+17943,Cargo,thriller,romance,False
+4869,A Connecticut Yankee in King Arthur's Court,comedy,adventure,False
+5186,No Man of Her Own,crime,thriller,False
+28338,Karma Yodha (കർമ്മയോദ്ധാ),thriller,thriller,True
+25458,Mr. India,science_fiction,action,False
+21045,Moon,science_fiction,science_fiction,True
+11533,Stella,drama,romance,False
+19392,Intent to Kill,thriller,thriller,True
+34500,My Black Mini Dress,drama,comedy,False
+17351,The Star,adventure,adventure,True
+23699,Love Lifting,romance,romance,True
+9574,The Black Hole,science_fiction,science_fiction,True
+28444,Salaam Kashmier,action,drama,False
+12991,G.I. Jane,action,science_fiction,False
+11764,Blown Away,drama,thriller,False
+5471,The Prince Who Was a Thief,adventure,action,False
+21755,The Lucky Star,drama,drama,True
+21989,Blacktop,thriller,thriller,True
+17726,The Postcard Bandit,crime,action,False
+15349,Stuck,crime,horror,False
+25993,Jaanam Samjha Karo,romance,romance,True
+13250,Godzilla,science_fiction,science_fiction,True
+22754,Monkey King: Hero Is Back,action,adventure,False
+8752,What's the Matter with Helen?,thriller,horror,False
+20566,Enchanted April,romance,drama,False
+15465,Journey to the Center of the Earth,science_fiction,science_fiction,True
+1315,The Heart of New York,comedy,comedy,True
+22695,Special ID,thriller,action,False
+5721,Ride the Man Down,western,western,True
+12593,Welcome to the Dollhouse,drama,drama,True
+26819,Tezz,action,thriller,False
+23884,Raag: The Rhythm of Love,drama,romance,False
+16932,Jupiter Ascending,science_fiction,science_fiction,True
+34503,Sin of a Family,thriller,thriller,True
+27010,Abhinay Chakra,action,action,True
+4792,They Live by Night,crime,crime,True
+1701,Here Comes the Navy,romance,comedy,False
+17020,Victor Frankenstein,horror,science_fiction,False
+25762,Main Khiladi Tu Anari,action,action,True
+13115,Romy and Michele's High School Reunion,comedy,comedy,True
+7842,Face of the Screaming Werewolf,horror,horror,True
+8841,Pocket Money,comedy,western,False
+20847,Bullet Boy,crime,thriller,False
+11832,Mad at the Moon,horror,western,False
+32958,Destroy All Monsters,horror,science_fiction,False
+23359,Last Hero in China,action,comedy,False
+22658,CZ12,adventure,adventure,True
+1776,Riptide,romance,drama,False
+26488,U Me Aur Hum,romance,romance,True
+19860,Berserk!,horror,thriller,False
+2936,The Son of Monte Cristo,adventure,adventure,True
+10263,The Philadelphia Experiment,science_fiction,science_fiction,True
+95,The Perils of Pauline,adventure,drama,False
+11526,Solar Crisis,science_fiction,science_fiction,True
+28242,Teja Bhai & Family,action,romance,False
+32239,Modati Cinema,romance,romance,True
+12355,The Addiction,horror,horror,True
+6457,Around the World in Eighty Days,adventure,adventure,True
+14040,Darkness,horror,horror,True
+7148,Vertigo,crime,drama,False
+6839,The Man Who Turned to Stone,science_fiction,science_fiction,True
+17290,The Nut Job 2: Nutty by Nature,comedy,comedy,True
+14217,Bringing Down the House,crime,comedy,False
+12189,Fear of a Black Hat,drama,comedy,False
+28244,Pranayam,romance,drama,False
+3697,War of the Wildcats,western,western,True
+16619,Mud,drama,adventure,False
+31444,Pa Paandi,drama,romance,False
+6468,Behind the High Wall,crime,crime,True
+3219,Two-Faced Woman,romance,romance,True
+19573,Out of the Shadow,thriller,crime,False
+10514,Deadly Friend,horror,horror,True
+4178,The Beast with Five Fingers,horror,horror,True
+15666,The Imaginarium of Doctor Parnassus,adventure,comedy,False
+18481,The Drum,adventure,adventure,True
+18003,Tobuo Bhalobashi,romance,action,False
+12554,The Set-Up,drama,crime,False
+17627,Romper Stomper,action,thriller,False
+7699,Blood Feast,horror,horror,True
+25895,Insaaf,action,action,True
+27056,Wedding Anniversary,thriller,romance,False
+16476,Cloudy with a Chance of Meatballs 2,comedy,science_fiction,False
+23673,Womb Ghosts,horror,horror,True
+30787,18 Vayasu Puyale,romance,romance,True
+32581,Saradaga Ammayitho,romance,romance,True
+27539,Sa...,thriller,romance,False
+9348,Damnation Alley,science_fiction,science_fiction,True
+11355,Bird on a Wire,crime,crime,True
+22832,Love O2O,romance,romance,True
+14759,The Sisterhood of the Traveling Pants,comedy,romance,False
+20979,The Cottage,horror,horror,True
+6258,A Bullet for Joey,crime,crime,True
+1431,Two Seconds,crime,comedy,False
+9199,The Stepford Wives,science_fiction,thriller,False
+17027,Snowden,thriller,action,False
+18775,The Mark of Cain,crime,crime,True
+15790,Blue Valentine,romance,romance,True
+9299,The Shootist,western,western,True
+28113,Kanmazha Peyyum Munpe ( കന്മഴ പെയ്യും മുമ്പേ ),romance,drama,False
+20001,Taste the Blood of Dracula,horror,horror,True
+7657,The Ring of Terror,horror,thriller,False
+12594,While You Were Sleeping,romance,romance,True
+15293,National Treasure: Book of Secrets,adventure,adventure,True
+18961,The Black Widow,thriller,thriller,True
+26004,Maa Kasam,action,action,True
+30923,Pattalam,drama,drama,True
+8888,Battle for the Planet of the Apes,science_fiction,science_fiction,True
+7983,The Human Duplicators,science_fiction,science_fiction,True
+9496,Holocaust,drama,drama,True
+11192,Halloween 5: The Revenge of Michael Myers,horror,horror,True
+5935,The Mississippi Gambler,adventure,western,False
+23840,Maria Leonora Teresa,horror,horror,True
+9626,More American Graffiti,comedy,comedy,True
+4752,River Lady,western,western,True
+82,"Home, Sweet Home",drama,drama,True
+33861,Gekijō-ban Hibike! Euphonium ~ Kitauji Kōkō Suisōraku-Bu e Yōkoso~,drama,comedy,False
+24590,April Fool,romance,romance,True
+11054,The Rescue,adventure,adventure,True
+4858,Calamity Jane and Sam Bass,western,western,True
+23237,I Love Maria,science_fiction,science_fiction,True
+4821,Yellow Sky,western,western,True
+32576,Tadakha,action,action,True
+5616,The Duel at Silver Creek,western,western,True
+23343,Come Fly the Dragon,action,action,True
+21933,Mesmer,drama,horror,False
+23992,"Ami, Yasin Ar Amar Madhubala",romance,drama,False
+27570,Kidi,action,thriller,False
+2186,Captains Courageous,adventure,adventure,True
+1327,Jewel Robbery,crime,crime,True
+26656,Chase,action,thriller,False
+34513,"Front Line, The !The Front Line",action,science_fiction,False
+28889,The Black Prince,drama,adventure,False
+24370,Ek Do Teen,romance,romance,True
+1524,High Gear,adventure,comedy,False
+19582,Savage Guns,western,western,True
+32362,Raksha,thriller,drama,False
+19848,They're a Weird Mob,adventure,comedy,False
+33481,Retribution,horror,horror,True
+32331,Nee Sukhame Ne Koruthunna,drama,romance,False
+11382,Death Machine,science_fiction,science_fiction,True
+13188,American History X,drama,crime,False
+16722,Zombie Hunter,thriller,horror,False
+20218,Madhouse,horror,horror,True
+16024,Final Destination 5,horror,horror,True
+28719,Lagna Pahave Karun,romance,romance,True
+5960,Project Moonbase,science_fiction,science_fiction,True
+9172,Mr. Ricco,crime,crime,True
+13982,What's the Worst That Could Happen?,comedy,comedy,True
+8807,J.W. Coop,western,western,True
+9506,Invasion of the Body Snatchers,science_fiction,science_fiction,True
+9746,Nine to Five,comedy,drama,False
+15796,Case 39,horror,horror,True
+4163,The Woman Who Came Back,comedy,horror,False
+14481,In Good Company,drama,comedy,False
+8796,The Godfather,crime,crime,True
+20977,The Children,horror,horror,True
+24760,Bachpan,drama,action,False
+18088,She,adventure,adventure,True
+5591,The Bushwackers,western,western,True
+23628,The Sniper,thriller,action,False
+32198,Gudumba Shankar,romance,romance,True
+20212,Gold,adventure,drama,False
+17780,Black Water,horror,horror,True
+14060,The Good Girl,romance,crime,False
+26827,Rowdy Rathore,action,action,True
+32835,Warning from Space,science_fiction,science_fiction,True
+16318,The Loneliest Planet,thriller,romance,False
+23708,Doomsday Party,thriller,crime,False
+10990,Kansas,crime,crime,True
+11434,I'm Dangerous Tonight,horror,horror,True
+1681,Evelyn Prentice,drama,crime,False
+7123,Stakeout on Dope Street,crime,crime,True
+2636,"Nick Carter, Master Detective",crime,crime,True
+28869,Mukhtiar Chadha,romance,action,False
+6875,Quantez,western,western,True
+11378,The Dark Side of the Moon,science_fiction,science_fiction,True
+23294,Armour of God II: Operation Condor,action,adventure,False
+10943,Die Hard,action,action,True
+8290,The Boston Strangler,crime,thriller,False
+4767,Silver River,western,western,True
+26430,Cheeni Kum,romance,romance,True
+10460,Target,thriller,thriller,True
+13102,The Postman,science_fiction,western,False
+24218,Hunterwali a.k.a. The Lady With The Whip,action,adventure,False
+26624,Ishqiya,crime,action,False
+6386,Robbers' Roost,western,western,True
+5942,The Naked Spur,western,western,True
+3220,Uncle Joe,comedy,drama,False
+34063,Brother 2,crime,crime,True
+32407,Adhurs,action,action,True
+26172,Basti,action,action,True
+26684,Dabangg,action,action,True
+15125,1408,horror,horror,True
+15928,Scott Pilgrim vs. the World,action,comedy,False
+15645,The Grudge 3,horror,horror,True
+31542,Raju Peda,drama,adventure,False
+20897,Nanny McPhee,comedy,romance,False
+18971,Happy Go Lovely,romance,comedy,False
+26189,Gangaajal,drama,action,False
+5418,The Last Outpost,western,western,True
+19548,The Curse of the Werewolf,horror,drama,False
+18989,Night Without Stars,crime,drama,False
+30920,Yavarum Nalam,horror,horror,True
+2951,"Third Finger, Left Hand",romance,comedy,False
+19717,The Curse of the Mummy's Tomb,horror,adventure,False
+11536,Tales from the Darkside: The Movie,horror,horror,True
+393,The Love Light,drama,drama,True
+4850,The Big Sombrero,western,western,True
+3340,Jungle Book,adventure,adventure,True
+7420,The Time Machine,science_fiction,science_fiction,True
+32893,13 Assassins,action,drama,False
+27369,Prem Kahani,romance,romance,True
+13640,Dr. T & the Women,romance,romance,True
+13061,Mean Guns,crime,thriller,False
+14218,Bringing Rain,romance,horror,False
+1830,The Arizonian,western,western,True
+30686,Mercury Pookkal,romance,romance,True
+12918,Batman and Robin,action,science_fiction,False
+18499,Mr. Satan,thriller,crime,False
+15994,Carnage,comedy,drama,False
+10551,Invaders from Mars,science_fiction,science_fiction,True
+6832,The Lonely Man,western,western,True
+27414,Kempegowda,action,action,True
+16765,Divergent,science_fiction,action,False
+20529,Wilt,comedy,comedy,True
+6828,The Land Unknown,science_fiction,adventure,False
+8802,Heat,drama,drama,True
+3920,Sunday Dinner for a Soldier,romance,drama,False
+3104,Lady Scarface,crime,crime,True
+13965,The Tailor of Panama,drama,thriller,False
+3506,Border Patrol,western,western,True
+17867,Snowtown,crime,horror,False
+7151,Voice in the Mirror,crime,horror,False
+13067,Mimic,horror,science_fiction,False
+33412,Infection,horror,horror,True
+5139,House by the River,crime,crime,True
+26880,Murder 3,thriller,thriller,True
+12668,Demolition High,action,action,True
+17018,The Peanuts Movie,adventure,comedy,False
+8694,The Love Machine,drama,comedy,False
+5738,The Snows of Kilimanjaro,adventure,adventure,True
+21833,Joshua Then and Now,drama,drama,True
+32577,Sukumarudu,romance,romance,True
+2536,Colorado Sunset,western,western,True
+26604,Blue,action,thriller,False
+6195,Silver Lode,western,western,True
+3133,My Life with Caroline,comedy,drama,False
+194,Are Crooks Dishonest?,comedy,comedy,True
+24313,Anokhi Ada,romance,crime,False
+24881,Dhund,thriller,thriller,True
+2622,The Marshal of Mesa City,western,western,True
+5783,The 49th Man,thriller,science_fiction,False
+3218,The Trial of Mary Dugan,drama,crime,False
+28479,Money Ratnam,comedy,comedy,True
+4297,A Night in Casablanca,comedy,comedy,True
+1196,The Sea Ghost,drama,drama,True
+2143,Tarzan Escapes,adventure,adventure,True
+13432,The Boondock Saints,action,crime,False
+16231,Come Morning,thriller,horror,False
+32946,Gamera vs. Gyaos,science_fiction,science_fiction,True
+32081,Vamsi,action,action,True
+14277,House of Sand and Fog,drama,drama,True
+20482,White Of The Eye,thriller,horror,False
+6156,The Other Woman,drama,crime,False
+6270,The Dark Avenger,adventure,adventure,True
+24110,Rupe Tomay Bholabo Na,romance,romance,True
+28554,Malgudi Days,thriller,comedy,False
+1658,Change of Heart,romance,romance,True
+17660,Parklands,drama,drama,True
+20042,Performance,crime,crime,True
+20924,Love and Other Disasters,romance,romance,True
+6140,Loophole,crime,crime,True
+4296,Night Editor,crime,crime,True
+25911,Mahaanta,action,romance,False
+8340,The Mini-Skirt Mob,crime,crime,True
+27560,Urvi,crime,thriller,False
+4753,Road House,crime,western,False
+6795,Hell Bound,crime,crime,True
+22824,League of Gods,action,adventure,False
+33609,Outrage,crime,crime,True
+17286,Wind River,thriller,thriller,True
+22398,The Witch,horror,horror,True
+28887,Lahoriye,drama,romance,False
+14571,Twisted,thriller,crime,False
+6125,Jubilee Trail,western,western,True
+33865,Terra Formars and Nicholas and Gordon’s Stranger Corps: The Fake Wave,science_fiction,science_fiction,True
+14801,Accepted,comedy,comedy,True
+25851,Khiladiyon Ka Khiladi,action,action,True
+13013,"Honey, We Shrunk Ourselves",science_fiction,comedy,False
+9318,Two-Minute Warning,thriller,drama,False
+13929,The Pledge,crime,thriller,False
+9731,The Long Riders,western,western,True
+27498,Gajakesari,action,action,True
+14423,The Butterfly Effect,science_fiction,science_fiction,True
+6664,The Teahouse of the August Moon,comedy,comedy,True
+33352,Otogirisō,horror,horror,True
+5224,The Secret Fury,crime,thriller,False
+16366,Safe House,thriller,thriller,True
+6965,The Barbarian and the Geisha,adventure,drama,False
+13422,Best Laid Plans,crime,crime,True
+8237,In Cold Blood,crime,crime,True
+16368,Savages,thriller,action,False
+23782,"Shake, Rattle & Roll 13",horror,horror,True
+26653,Phoonk 2,horror,horror,True
+1020,Sin Takes a Holiday,comedy,romance,False
+34127,U.E.,thriller,thriller,True
+1601,The Solitaire Man,drama,crime,False
+26130,Gunaah,thriller,thriller,True
+31184,Thalaivaa,thriller,action,False
+30911,Padikathavan,action,action,True
+32207,Aa Naluguru,drama,drama,True
+4804,Unknown Island,science_fiction,adventure,False
+5306,Belle Le Grand,western,western,True
+3066,"Harvard, Here I Come",comedy,comedy,True
+28824,Mitti,action,drama,False
+19348,The Shiralee,drama,drama,True
+18200,Lucky Girl,comedy,crime,False
+14178,Undercover Brother,action,comedy,False
+6205,Target Earth,science_fiction,science_fiction,True
+6163,Playgirl,crime,romance,False
+16327,Man on a Ledge,thriller,crime,False
+26137,Kaante,thriller,crime,False
+9605,Hanover Street,drama,thriller,False
+19758,Zorba the Greek,adventure,drama,False
+12588,Virtuosity,science_fiction,science_fiction,True
+12809,The Portrait of a Lady,drama,drama,True
+28440,Mannar Mathai Speaking 2,comedy,comedy,True
+4980,The Red Menace,crime,crime,True
+9287,The Omen,horror,horror,True
+32367,Nenu Meeku Telusa...?,thriller,thriller,True
+1523,Heroes for Sale,drama,drama,True
+8211,Fort Utah,western,western,True
+32104,Akasa Veedhilo,drama,romance,False
+25778,Zaalim,action,romance,False
+31479,Spyder,thriller,thriller,True
+15029,Penelope,romance,romance,True
+33997,Sepet,romance,romance,True
+17240,The Wall,thriller,western,False
+2771,Comrade X,comedy,drama,False
+12558,Sleepstalker,horror,horror,True
+25645,Ghazab Tamasha,romance,romance,True
+31373,Zero,thriller,horror,False
+10781,No Man's Land,crime,crime,True
+25503,Tamacha,action,action,True
+13890,Knockaround Guys,comedy,western,False
+14059,Ghost Ship,horror,horror,True
+23097,Snake & Crane Arts of Shaolin,adventure,action,False
+7480,A Fever in the Blood,crime,crime,True
+543,The Lost World,adventure,science_fiction,False
+27395,Jackie,action,action,True
+15673,The Invention of Lying,science_fiction,drama,False
+17833,Mary and Max,comedy,romance,False
+9878,On Golden Pond,drama,romance,False
+16686,Star Trek Into Darkness,science_fiction,science_fiction,True
+3660,Shadow of a Doubt,crime,crime,True
+4613,The Big Clock,crime,crime,True
+15589,Avatar,science_fiction,science_fiction,True
+19832,Invasion,science_fiction,science_fiction,True
+31703,Manchi Kutumbam,drama,drama,True
+15329,Savage Grace,drama,thriller,False
+9137,Dolemite,crime,crime,True
+25981,Dil Kya Kare,drama,romance,False
+2464,Swing!,drama,crime,False
+24811,Main Sunder Hoon,drama,romance,False
+26397,Pyaar Ke Side Effects,romance,romance,True
+23363,A Moment of Romance II,romance,crime,False
+23668,Legend of the Fist: The Return of Chen Zhen,adventure,action,False
+14833,The Benchwarmers,comedy,comedy,True
+7956,Brainstorm,thriller,drama,False
+1817,The Woman Condemned,crime,comedy,False
+20710,The Debt Collector,thriller,horror,False
+20521,The Return of the Musketeers,adventure,adventure,True
+16106,The Rite,horror,horror,True
+31238,Vadacurry,thriller,thriller,True
+33228,Getting Any?,comedy,comedy,True
+5881,The Hitch-Hiker,crime,crime,True
+3001,The Big Store,comedy,comedy,True
+31325,Yagavarayinum Naa Kaakka,action,action,True
+22776,Thru the Moebius Strip,science_fiction,science_fiction,True
+7256,North by Northwest,thriller,thriller,True
+14431,The Clearing,crime,thriller,False
+12625,Big Night,drama,comedy,False
+25072,Bhayaanak,horror,action,False
+20435,Morons from Outer Space,science_fiction,science_fiction,True
+5753,The Thief,crime,thriller,False
+16556,House of Dust,horror,horror,True
+1740,The Man with Two Faces,crime,crime,True
+26920,Madras Cafe,thriller,thriller,True
+25412,Mazloom,action,action,True
+17986,Poran Jai Jaliya Re,romance,romance,True
+13686,Meet the Parents,comedy,comedy,True
+14137,The Salton Sea,crime,crime,True
+24277,Lagan,romance,romance,True
+30854,Vallamai Tharayo,romance,romance,True
+16887,Interstellar,science_fiction,science_fiction,True
+14233,Confidence,crime,crime,True
+7718,Diary of a Madman,horror,horror,True
+16109,Sanctum,adventure,science_fiction,False
+16372,Silent House,horror,horror,True
+15533,Spike,horror,romance,False
+6779,The Girl in the Kremlin,thriller,horror,False
+32187,Samba,action,action,True
+18845,Uneasy Terms,thriller,crime,False
+32795,MCA (Middle Class Abbayi),romance,action,False
+545,The Lucky Horseshoe,western,western,True
+8347,No Way to Treat a Lady,thriller,thriller,True
+6040,The Battle of Rogue River,western,western,True
+24530,Jab Pyar Kisise Hota Hai,romance,romance,True
+2175,Bad Guy,crime,crime,True
+3767,Cry of the Werewolf,horror,horror,True
+6175,Riders to the Stars,science_fiction,science_fiction,True
+31347,Vedalam,action,thriller,False
+2512,Blind Alley,crime,crime,True
+12356,Amanda and the Alien,science_fiction,science_fiction,True
+11640,The Hard Way,comedy,crime,False
+33292,Gamera 3: The Revenge of Iris,science_fiction,science_fiction,True
+8187,The Christmas Kid,western,western,True
+13352,Shadrach,drama,drama,True
+11993,Ghost in the Machine,horror,horror,True
+15733,Push,science_fiction,science_fiction,True
+17022,Concussion,drama,drama,True
+4335,Stagecoach to Denver,western,western,True
+25736,Aag,romance,action,False
+22892,The Chainbreakers,western,western,True
+14944,The Hamiltons,horror,horror,True
+11457,Maniac Cop 2,horror,crime,False
+6715,Baby Face Nelson,crime,crime,True
+12519,Nine Months,romance,romance,True
+6884,The River's Edge,drama,western,False
+11678,Naked Lunch,drama,thriller,False
+19591,The Third Alibi,thriller,crime,False
+2409,Kentucky,romance,drama,False
+4388,The Arnelo Affair,crime,crime,True
+23957,Mahulbonir Sereng,romance,drama,False
+8405,100 Rifles,western,western,True
+7917,Stage to Thunder Rock,western,western,True
+19845,The Reptile,horror,horror,True
+17107,The Purge: Election Year,science_fiction,action,False
+2996,Bahama Passage,adventure,drama,False
+14569,Torque,action,action,True
+7837,A Distant Trumpet,western,western,True
+14377,Underworld,horror,horror,True
+13789,Along Came a Spider,thriller,thriller,True
+4301,Notorious,thriller,drama,False
+27121,Panchlait,romance,drama,False
+11586,Brother Future,science_fiction,comedy,False
+33902,KanColle: The Movie,action,science_fiction,False
+3761,Cobra Woman,adventure,adventure,True
+6814,The Invisible Boy,science_fiction,science_fiction,True
+26695,Nakshatra,romance,thriller,False
+33349,Millennium Actress,drama,drama,True
+22198,Passchendaele,romance,action,False
+32748,Ism,action,action,True
+7814,Advance to the Rear,western,western,True
+19806,Young Cassidy,drama,drama,True
+33385,Doppelganger,thriller,thriller,True
+4879,Down to the Sea in Ships,adventure,drama,False
+8969,Serpico,crime,drama,False
+3602,Ladies' Day,comedy,comedy,True
+13350,The Second Arrival,science_fiction,science_fiction,True
+31453,Brindavanam,comedy,romance,False
+19254,Assignment Redhead,crime,crime,True
+16008,The Descendants,comedy,drama,False
+6030,"20,000 Leagues Under the Sea",adventure,adventure,True
+112,Carmen,adventure,adventure,True
+23495,Troublesome Night 13,horror,horror,True
+3366,Men of Texas,western,western,True
+9702,Galaxina,science_fiction,science_fiction,True
+31431,Pagadi Aattam,thriller,thriller,True
+3441,Tarzan's New York Adventure,adventure,adventure,True
+32217,Chakram,action,romance,False
+23797,Just One Summer,romance,romance,True
+344,One Week,comedy,comedy,True
+16751,3 Days to Kill,thriller,comedy,False
+23694,Drug War,thriller,action,False
+28046,Colours,comedy,romance,False
+4227,Duel in the Sun,western,western,True
+11045,Punchline,drama,comedy,False
+6090,Elephant Walk,adventure,drama,False
+25098,Solva Sawan,romance,romance,True
+22889,Love Is a Broadway Hit,romance,action,False
+3591,In Old Oklahoma,western,western,True
+14672,A History of Violence,crime,action,False
+32961,Green Slime !The Green Slime,science_fiction,science_fiction,True
+24179,Monchora,drama,romance,False
+32681,Courier Boy Kalyan,romance,action,False
+15327,Rocket Science,comedy,comedy,True
+31459,Vanamagan,adventure,action,False
+24841,Ek Hasina Do Diwane,romance,romance,True
+5328,Chicago Calling,crime,drama,False
+1851,Captain Blood,adventure,adventure,True
+26926,Horror Story,horror,horror,True
+4411,Calcutta,crime,adventure,False
+26393,Naksha,thriller,action,False
+22283,Sur le rythme,romance,comedy,False
+14961,Idiocracy,science_fiction,science_fiction,True
+12692,The Fan,thriller,drama,False
+26492,Anamika,thriller,romance,False
+6477,The Black Whip,western,western,True
+5851,Dream Wife,comedy,romance,False
+939,Hell's Heroes,western,western,True
+19465,North West Frontier,adventure,adventure,True
+34048,Polis Evo,action,action,True
+2033,Captain Calamity,adventure,adventure,True
+13961,Summer Catch,comedy,romance,False
+7591,Deadly Duo,drama,crime,False
+16827,The Purge: Anarchy,horror,science_fiction,False
+9651,Scavenger Hunt,comedy,comedy,True
+32783,Anando Brahma,horror,horror,True
+12145,Bullets over Broadway,comedy,comedy,True
+5039,711 Ocean Drive,crime,crime,True
+7291,Teenagers from Outer Space,science_fiction,science_fiction,True
+15505,Prom Night,horror,horror,True
+18982,Madame Louise,comedy,comedy,True
+12097,True Romance,crime,crime,True
+26969,Ankhon Dekhi,comedy,drama,False
+14111,One Hour Photo,thriller,thriller,True
+30970,Yogi,action,horror,False
+361,Treasure Island,adventure,adventure,True
+26744,Shagird,action,thriller,False
+15188,Death Sentence,action,crime,False
+19278,"Johnny, You're Wanted",crime,crime,True
+21765,The Incubus,horror,horror,True
+8124,The Night of the Grizzly,adventure,western,False
+20473,The Living Daylights,action,action,True
+17225,The Lost City of Z,adventure,adventure,True
+7745,Kings of the Sun,adventure,adventure,True
+32158,Vasantham,drama,romance,False
+24450,Dushman,action,drama,False
+16133,Tower Heist,crime,crime,True
+28474,RajadhiRaja,action,action,True
+6438,The Twinkle in God's Eye,western,western,True
+1145,Iron Man,crime,drama,False
+9234,Drive-In Massacre,horror,crime,False
+9415,Ruby,horror,horror,True
+8912,Don't Be Afraid of the Dark,horror,horror,True
+15707,New Moon,romance,horror,False
+4413,California,western,western,True
+20429,Defence of the Realm,thriller,thriller,True
+9527,The One and Only,comedy,romance,False
+30802,Veeramum Eeramum,action,action,True
+15428,The Eye,horror,science_fiction,False
+14674,The Hitchhiker's Guide to the Galaxy,science_fiction,science_fiction,True
+10195,Cloak & Dagger,adventure,comedy,False
+16260,Eden,thriller,thriller,True
+6942,The Vampire,horror,horror,True
+17639,The Silver Brumby,drama,drama,True
+13406,Angel's Dance,action,thriller,False
+18868,For Them That Trespass,crime,comedy,False
+28168,Cocktail,thriller,thriller,True
+5385,He Ran All the Way,crime,crime,True
+4442,Dishonored Lady,crime,drama,False
+24067,Rang Milanti,romance,romance,True
+19089,Innocents in Paris,comedy,comedy,True
+11624,Eve of Destruction,action,science_fiction,False
+5065,Branded,western,western,True
+23415,Tai Chi Boxer,action,action,True
+28722,1909,action,thriller,False
+8886,Badge 373,crime,crime,True
+10673,Blood Diner,horror,horror,True
+8185,Casino Royale,comedy,comedy,True
+600,High Steppers,drama,comedy,False
+25406,Janbaaz,action,action,True
+28765,Tu Hi Re,romance,thriller,False
+8113,Madame X,drama,crime,False
+1910,I Live My Life,comedy,romance,False
+2616,Love Affair,drama,romance,False
+14319,The Missing,western,western,True
+21849,Sword of Gideon,drama,action,False
+16079,Mission: Impossible – Ghost Protocol,action,science_fiction,False
+11805,The Hand That Rocks the Cradle,thriller,horror,False
+33172,Maroko,science_fiction,science_fiction,True
+31345,Om Shanti Om,horror,romance,False
+12210,I.Q.,romance,science_fiction,False
+34102,Poor Relatives,comedy,comedy,True
+30666,Veeranna,action,thriller,False
+9505,International Velvet,drama,adventure,False
+32850,Battle in Outer Space,science_fiction,science_fiction,True
+23208,A Chinese Ghost Story,horror,horror,True
+10243,Moscow on the Hudson,comedy,drama,False
+3252,Bells of Capistrano,western,western,True
+23679,Lan Kwai Fong,romance,romance,True
+1360,Mr. Robinson Crusoe,adventure,adventure,True
+7457,Blast of Silence,thriller,crime,False
+13845,Festival in Cannes,comedy,comedy,True
+4151,The Unseen,thriller,crime,False
+2813,Give Us Wings,adventure,romance,False
+4441,Dick Tracy's Dilemma,crime,crime,True
+6046,The Black Knight,adventure,adventure,True
+34091,The Suit,drama,comedy,False
+4273,Lady Luck,comedy,comedy,True
+4565,T-Men,crime,crime,True
+3137,Niagara Falls,comedy,thriller,False
+5600,Carson City,western,western,True
+26809,Will You Marry Me?,romance,comedy,False
+22939,Hobbi al-Wahid (My Only Love),romance,romance,True
+17988,Moner Manush,drama,drama,True
+33940,Fairy Tail: Dragon Cry,adventure,adventure,True
+28803,Nadi Vahate,drama,adventure,False
+8082,El Dorado,western,western,True
+13596,The 6th Day,science_fiction,science_fiction,True
+32360,Gunde Jhallumandi,romance,romance,True
+32780,LIE,thriller,action,False
+34145,Paragraph 78,science_fiction,science_fiction,True
+8798,The Great Northfield Minnesota Raid,western,western,True
+12165,Cool and the Crazy,drama,drama,True
+5481,Rawhide,western,western,True
+9226,Breaking Point,crime,crime,True
+8730,Sometimes a Great Notion,adventure,drama,False
+8509,What Ever Happened to Aunt Alice?,horror,thriller,False
+23181,Mr. Vampire,horror,horror,True
+25224,Sanam Teri Kasam,crime,action,False
+27564,Tiger,thriller,action,False
+7931,The Train,drama,thriller,False
+7041,I Bury the Living,horror,horror,True
+22415,Special Correspondents,comedy,comedy,True
+16361,Rise of the Guardians,adventure,adventure,True
+1763,Now and Forever,romance,comedy,False
+10364,Final Justice,crime,western,False
+31455,Rangoon,thriller,thriller,True
+12990,Future War,science_fiction,science_fiction,True
+15519,The Ruins,horror,horror,True
+28542,Anarkali,thriller,romance,False
+16225,Chronicle,science_fiction,horror,False
+13326,The Players Club,comedy,comedy,True
+33107,Goggle V Movie,science_fiction,science_fiction,True
+3810,Gypsy Wildcat,adventure,action,False
+16487,"Croods, TheThe Croods",adventure,adventure,True
+5370,Fourteen Hours,drama,comedy,False
+1634,Baby Take a Bow,comedy,crime,False
+30881,Bommalattam,thriller,thriller,True
+17422,Inn of the Damned,thriller,horror,False
+19784,The Liquidator,thriller,action,False
+34864,Hayde Bre,drama,drama,True
+31178,Singam II,action,action,True
+5847,The Diamond Queen,adventure,adventure,True
+1075,Body and Soul,action,adventure,False
+5598,Caribbean Gold,adventure,adventure,True
+1063,The Avenger,western,crime,False
+1332,The Last Mile,drama,crime,False
+8843,The Poseidon Adventure,adventure,horror,False
+22089,Phil the Alien,comedy,comedy,True
+18352,The Price of a Song,crime,crime,True
+16224,Christmas with the Dead,horror,horror,True
+15778,The A-Team,adventure,action,False
+5602,Cattle Town,western,western,True
+16234,Contraband,thriller,crime,False
+12130,Bad Girls,western,western,True
+9381,Kingdom of the Spiders,science_fiction,horror,False
+33321,Godzilla vs. Megaguirus,science_fiction,science_fiction,True
+7928,The Tomb of Ligeia,horror,horror,True
+4847,The Beautiful Blonde from Bashful Bend,western,western,True
+22430,Indian Horse,drama,drama,True
+6320,The Kentuckian,adventure,comedy,False
+30796,Malaikottai,action,action,True
+5290,Adventures of Captain Fabian,adventure,adventure,True
+14936,Goya's Ghosts,drama,adventure,False
+10183,Bolero,drama,drama,True
+13918,Ocean's Eleven,crime,crime,True
+434,Heroes of the Street,crime,comedy,False
+30634,Amudhey,romance,romance,True
+4538,The Private Affairs of Bel Ami,drama,comedy,False
+25968,Wajood,drama,romance,False
+16371,Silent Hill: Revelation 3D,horror,horror,True
+8246,Kill a Dragon,action,action,True
+2016,Wings in the Dark,adventure,drama,False
+19446,Follow a Star,comedy,comedy,True
+10696,Death Run,science_fiction,science_fiction,True
+1517,Goodbye Love,comedy,comedy,True
+28248,Koratty Pattanam Railway Gate (കൊരട്ടി പട്ടണം റെയിൽവേ ഗേറ്റ്),drama,action,False
+18012,Daring Lover,action,romance,False
+19923,The Devil Rides Out,horror,horror,True
+6287,Fort Yuma,western,western,True
+13200,The Big Hit,action,comedy,False
+5908,Let's Do It Again,comedy,comedy,True
+6833,Love in the Afternoon,romance,thriller,False
+16087,One Day,romance,romance,True
+3887,One Mysterious Night,crime,crime,True
+32286,Maharadhi,drama,action,False
+21867,Backfire,thriller,horror,False
+4849,The Big Cat,adventure,western,False
+15269,Lucky You,drama,comedy,False
+8164,"What's Up, Tiger Lily?",comedy,comedy,True
+11417,The Grifters,crime,crime,True
+24229,Manzil,drama,romance,False
+22513,Nuan,romance,romance,True
+10825,"Sister, Sister",thriller,thriller,True
+819,Lucky Star,romance,drama,False
+22867,The Missing,action,thriller,False
+19937,Mayerling,romance,adventure,False
+26287,Paap,drama,thriller,False
+20031,The Horror of Frankenstein,horror,horror,True
+28094,Seetha Kalyanam (സീതാ കല്യാണം),romance,romance,True
+18407,Things to Come,science_fiction,science_fiction,True
+12269,Only You,romance,romance,True
+9722,Just Tell Me What You Want,romance,crime,False
+25256,Jaani Dost,action,action,True
+27542,Idolle Ramayana,thriller,thriller,True
+27011,Raja Natwarlal,thriller,romance,False
+14063,Halloween: Resurrection,horror,horror,True
+18399,Rhythm in the Air,comedy,drama,False
+2429,Mr. Moto's Gamble,drama,crime,False
+11997,Guilty as Sin,crime,crime,True
+30706,Aran,action,action,True
+12601,2 Days in the Valley,crime,crime,True
+4834,All the King's Men,drama,drama,True
+11820,The Last of the Mohicans,adventure,adventure,True
+31263,Maindhan,drama,action,False
+32178,Venky,action,thriller,False
+5584,The Black Castle,horror,adventure,False
+14753,Sahara,action,science_fiction,False
+10044,Young Doctors in Love,comedy,drama,False
+28555,Aalroopangal,drama,drama,True
+8305,Don't Just Stand There!,comedy,comedy,True
+24551,Half Ticket,romance,romance,True
+9997,An Officer and a Gentleman,drama,romance,False
+19487,And the Same to You,comedy,crime,False
+2702,Union Pacific,western,western,True
+19737,Mister Moses,adventure,adventure,True
+26509,Money Hai Toh Honey Hai,romance,comedy,False
+13924,The Others,science_fiction,horror,False
+9785,Up the Academy,comedy,comedy,True
+17468,Blue Fin,adventure,adventure,True
+26854,Login,thriller,comedy,False
+15051,RV,adventure,comedy,False
+6817,Istanbul,crime,adventure,False
+6266,Creature with the Atom Brain,science_fiction,horror,False
+24404,Faraar a.k.a. Dev Anand in Goa,crime,action,False
+16865,The Equalizer,action,action,True
+1615,Tomorrow at Seven,crime,thriller,False
+15853,Hyenas,horror,thriller,False
+33879,Rudolf the Black Cat,adventure,science_fiction,False
+1589,Sagebrush Trail,western,western,True
+33868,Wolf Girl and Black Prince,romance,romance,True
+14326,National Security,action,crime,False
+17104,The Neon Demon,thriller,horror,False
+9525,Oliver's Story,romance,romance,True
+19131,The Body Said No!,crime,adventure,False
+2288,Sky Racket,science_fiction,adventure,False
+6392,The Sea Chase,adventure,adventure,True
+20845,Arsène Lupin,crime,adventure,False
+801,The Great Divide,western,romance,False
+33028,ESPY,thriller,science_fiction,False
+25923,Ziddi,action,action,True
+31255,Salim,thriller,action,False
+22709,Just Another Margin,romance,science_fiction,False
+1544,Lady Killer,crime,crime,True
+26952,Sholay 3D,adventure,action,False
+27045,Ugly,thriller,thriller,True
+12003,Homeward Bound: The Incredible Journey,adventure,adventure,True
+2058,Dracula's Daughter,horror,horror,True
+30776,Veerappu,action,action,True
+1863,Condemned to Live,horror,horror,True
+11267,Pumpkinhead,horror,horror,True
+16419,"ABCs of Death, TheThe ABCs of Death",horror,thriller,False
+4564,Tarzan and the Huntress,adventure,adventure,True
+14589,The Woodsman,drama,drama,True
+7962,The Collector,thriller,thriller,True
+14693,Just Friends,romance,comedy,False
+8845,Prime Cut,action,western,False
+13781,The Yards,crime,crime,True
+20457,Lady Jane,drama,adventure,False
+4526,Nightmare Alley,crime,comedy,False
+705,A Lady of Chance,romance,comedy,False
+3844,Law Men,western,western,True
+7135,The Thing That Couldn't Die,science_fiction,horror,False
+33958,The Anthem of the Heart,science_fiction,romance,False
+2661,The Roaring Twenties,thriller,crime,False
+8819,The Life and Times of Judge Roy Bean,western,western,True
+4890,The Fighting O'Flynn,adventure,adventure,True
+1570,Obey the Law,crime,comedy,False
+12396,Children of the Corn III: Urban Harvest,horror,horror,True
+4535,Pirates of Monterey,adventure,western,False
+26686,Anjaana Anjaani,romance,romance,True
+8222,Gunfight in Abilene,western,western,True
+26251,Dil Maange More,romance,romance,True
+22840,Heartfall Arises,thriller,action,False
+11641,Harley Davidson and the Marlboro Man,action,action,True
+24092,Challenge 2,action,thriller,False
+8862,Super Fly,crime,crime,True
+23888,Ahetuk,thriller,thriller,True
+33520,Bleach: Fade to Black,action,science_fiction,False
+32425,Vedam,action,action,True
+13607,The Beach,adventure,thriller,False
+14428,Christmas with the Kranks,comedy,comedy,True
+5564,Apache War Smoke,western,western,True
+33975,Code Geass Lelouch of the Resurrection the Movie: Awakening Path,science_fiction,science_fiction,True
+17752,Jewboy,drama,romance,False
+5759,The Turning Point,crime,crime,True
+9258,Killer Force,crime,action,False
+23800,I Do Bidoo Bidoo: Heto nAPO Sila!,romance,comedy,False
+16732,Black Water Vampire,horror,horror,True
+14874,Daft Punk's Electroma,science_fiction,science_fiction,True
+24940,Geet Gaata Chal,comedy,romance,False
+20759,One of the Hollywood Ten,drama,drama,True
+31324,Kaaval,action,action,True
+19998,The Smashing Bird I Used to Know,drama,drama,True
+11920,Trespass,action,western,False
+28786,Cheater,horror,comedy,False
+7295,These Thousand Hills,western,western,True
+670,Abie's Irish Rose,comedy,drama,False
+31282,Pisasu,horror,horror,True
+568,The Trail Rider,western,western,True
+20888,House of 9,horror,horror,True
+25097,Shodh,horror,horror,True
+16506,Europa Report,science_fiction,science_fiction,True
+28402,Kunjananthante Kada,drama,thriller,False
+234,Revenge,western,western,True
+33022,Sex & Fury,action,crime,False
+10317,American Ninja,action,action,True
+16401,The Vow,romance,romance,True
+7100,Return to Warbow,western,drama,False
+8133,The Plainsman,western,western,True
+33981,Godzilla: Planet of the Monsters,science_fiction,science_fiction,True
+13811,Bones,horror,horror,True
+14660,Getting Played,comedy,comedy,True
+4150,Under Western Skies,western,western,True
+26769,Sahi Dhandhe Galat Bande,comedy,action,False
+7869,Kiss Me Quick!,science_fiction,science_fiction,True
+2674,Stagecoach,western,western,True
+2532,The Cisco Kid and the Lady,western,western,True
+25562,Ghayal,thriller,thriller,True
+788,Drag,drama,drama,True
+26601,Wake Up Sid,romance,romance,True
+1066,Bad Company,crime,crime,True
+24577,Sehra,romance,romance,True
+16500,Ender's Game,science_fiction,science_fiction,True
+30782,Ammuvagiya Naan,drama,drama,True
+32635,Anukshanam,thriller,thriller,True
+32611,Pandavulu Pandavulu Tummeda,action,romance,False
+28225,Bombay March 12,thriller,thriller,True
+19048,Salute the Toff,crime,crime,True
+32164,Tagore,action,thriller,False
+2975,Young Bill Hickok,western,western,True
+11967,Coneheads,comedy,science_fiction,False
+3228,Western Union,western,western,True
+10770,Million Dollar Mystery,comedy,comedy,True
+27431,Paramathma,romance,romance,True
+8822,The Magnificent Seven Ride,western,western,True
+2334,Accidents Will Happen,crime,comedy,False
+2247,Lost Horizon,adventure,adventure,True
+22566,The Matrimony,horror,romance,False
+18776,Master of Bankdam,drama,drama,True
+22207,Cooking with Stella,drama,drama,True
+25764,Mohra,action,action,True
+31575,Thodi Kodallu,drama,drama,True
+31482,Aval,horror,horror,True
+33961,Kamen Rider Ex-Aid the Movie: True Ending,science_fiction,science_fiction,True
+31226,Naan Sigappu Manithan,thriller,thriller,True
+33630,Karate Girl,action,action,True
+25393,Avinash,action,action,True
+2130,Rose Marie,western,comedy,False
+24544,Baat Ek Raat Ki,thriller,crime,False
+4433,Dead Reckoning,crime,crime,True
+14354,Scary Movie 3,comedy,comedy,True
+16250,Detention of the Dead,horror,horror,True
+26838,Gangs of Wasseypur – Part 2,thriller,action,False
+17691,Sample People,comedy,comedy,True
+3999,Dangerous Partners,crime,crime,True
+6128,Killers from Space,science_fiction,science_fiction,True
+31127,Billa II,thriller,action,False
+22366,88,thriller,thriller,True
+9550,A Wedding,comedy,romance,False
+1501,Eskimo,adventure,adventure,True
+12333,Timecop,science_fiction,science_fiction,True
+11858,One False Move,thriller,crime,False
+19186,A Stranger Came Home,drama,crime,False
+15684,The Last House on the Left,horror,horror,True
+19426,The Bandit of Zhobe,adventure,western,False
+3921,The Suspect,crime,crime,True
+8613,The Traveling Executioner,western,crime,False
+27545,Mummy,thriller,horror,False
+16826,Planes: Fire & Rescue,adventure,action,False
+15716,Obsessed,thriller,thriller,True
+3390,Once Upon a Honeymoon,romance,adventure,False
+18464,Wings of the Morning,drama,romance,False
+3511,Captive Wild Woman,science_fiction,science_fiction,True
+33959,Tokyo Ghoul,horror,horror,True
+8066,Blindfold,thriller,thriller,True
+5269,The Underworld Story,crime,crime,True
+18567,Ten Days in Paris,thriller,thriller,True
+17233,Sleight,science_fiction,action,False
+11028,A Nightmare on Elm Street 4: The Dream Master,horror,horror,True
+17172,xXx: Return of Xander Cage,adventure,action,False
+3565,The Good Fellows,comedy,western,False
+26086,Dil Chahta Hai,romance,romance,True
+33066,Legend of Dinosaurs & Monster Birds,science_fiction,science_fiction,True
+23514,The Twins Effect,thriller,horror,False
+275,The Haunted Bedroom,drama,horror,False
+23326,Moon Warriors,action,adventure,False
+15279,The Mist,horror,science_fiction,False
+12810,The Preacher's Wife,romance,comedy,False
+22330,Stay,drama,romance,False
+8096,Gunpoint,western,western,True
+10979,Hobgoblins,science_fiction,horror,False
+12914,Asteroid,science_fiction,science_fiction,True
+17621,Fatal Bond,thriller,crime,False
+20008,The Adventures of Gerard,action,crime,False
+4290,My Darling Clementine,western,western,True
+13134,Space Marines,science_fiction,science_fiction,True
+1104,Dr. Jekyll and Mr. Hyde,horror,horror,True
+12374,Before Sunrise,romance,romance,True
+17030,Lamb,drama,horror,False
+7634,The Man Who Shot Liberty Valance,western,western,True
+20139,Pulp,thriller,crime,False
+20784,The Hole,horror,drama,False
+19204,The Blue Peter,adventure,drama,False
+17345,Murder on the Orient Express,crime,thriller,False
+6280,The Far Country,western,western,True
+7400,September Storm,adventure,drama,False
+2328,Wise Girl,comedy,comedy,True
+10357,"Emerald Forest, The",adventure,adventure,True
+18817,The Greed of William Hart,horror,comedy,False
+22874,God of War,action,action,True
+18997,The Quiet Woman,crime,crime,True
+25235,Teesri Aankh,thriller,action,False
+14653,Flightplan,thriller,thriller,True
+21056,Tormented,horror,horror,True
+14976,The Lake House,romance,romance,True
+1630,The Age of Innocence,drama,romance,False
+27330,Mungaru Male,romance,romance,True
+22016,Last Wedding,comedy,drama,False
+20258,The Wilby Conspiracy,thriller,comedy,False
+11157,Dead Calm,thriller,horror,False
+2989,Aloma of the South Seas,adventure,drama,False
+16821,Dawn of the Planet of the Apes,science_fiction,science_fiction,True
+26685,Robot,science_fiction,science_fiction,True
+25404,Ghar Sansar,crime,action,False
+4744,The Prince of Thieves,adventure,adventure,True
+20443,The Supergrass,crime,crime,True
+20236,Zardoz,science_fiction,science_fiction,True
+12319,The Stand,science_fiction,science_fiction,True
+3295,Dr. Kildare's Victory,drama,drama,True
+2345,Army Girl,comedy,comedy,True
+807,His Glorious Night,romance,romance,True
+32065,Annayya,action,action,True
+28480,Central Theater,thriller,thriller,True
+16936,Da Sweet Blood of Jesus,horror,horror,True
+10882,Action Jackson,action,action,True
+11607,Daughters of the Dust,drama,drama,True
+3332,In This Our Life,drama,drama,True
+7265,Plan 9 from Outer Space,science_fiction,science_fiction,True
+24232,Duniya Na Mane,drama,romance,False
+28700,Yedyanchi Jatra,comedy,romance,False
+14032,The Count of Monte Cristo,adventure,adventure,True
+30652,Chanakya,action,thriller,False
+18338,The Love Test,comedy,romance,False
+295,Scarlet Days,western,western,True
+6333,The Last Frontier,western,western,True
+22869,This Is Not What I Expected,romance,romance,True
+28549,Charlie,thriller,romance,False
+30679,Chithiram Pesuthadi,action,romance,False
+20343,Hawk the Slayer,adventure,adventure,True
+18004,Purno Doirgho Prem Kahini,romance,romance,True
+15218,The Good Night,romance,comedy,False
+1385,The Purchase Price,comedy,romance,False
+5247,Surrender,western,western,True
+10279,Savage Streets,action,horror,False
+14798,The 8th Plague,horror,horror,True
+14176,The Tuxedo,action,science_fiction,False
+2809,Gaucho Serenade,western,western,True
+8531,Cannon for Cordoba,western,western,True
+7296,They Came to Cordura,western,western,True
+1774,Ready for Love,romance,romance,True
+20900,Pride & Prejudice,drama,romance,False
+9376,The Island of Dr. Moreau,science_fiction,horror,False
+15864,Kaboom,science_fiction,thriller,False
+7651,Phaedra,drama,romance,False
+32073,Badri,romance,romance,True
+19928,The Girl on a Motorcycle,drama,romance,False
+7310,The Wonderful Country,western,western,True
+1164,Men of Chance,crime,drama,False
+16512,"Fifth Estate, TheThe Fifth Estate",thriller,thriller,True
+14843,Bloody Mary,horror,horror,True
+13104,Prefontaine,drama,comedy,False
+3471,Wild Bill Hickok Rides,western,western,True
+26077,Ajnabee,thriller,thriller,True
+23124,Encounters of the Spooky Kind,horror,horror,True
+11926,Unlawful Entry,thriller,crime,False
+14209,The Best Two Years,comedy,comedy,True
+26692,Hisss,horror,science_fiction,False
+25625,Saudagar,romance,drama,False
+8532,Catch-22,comedy,drama,False
+26774,Mere Brother Ki Dulhan,romance,romance,True
+20038,Ned Kelly,adventure,crime,False
+11460,Megaville,science_fiction,science_fiction,True
+32529,Poola Rangadu,comedy,action,False
+8359,Pretty Poison,thriller,crime,False
+26446,Hattrick,comedy,romance,False
+2136,Small Town Girl,comedy,romance,False
+16811,The Signal,thriller,science_fiction,False
+7306,The Wasp Woman,horror,science_fiction,False
+16475,"Cloth, TheThe Cloth",horror,crime,False
+27321,Ganda Hendathi,thriller,thriller,True
+32494,Simha Mukhi,thriller,drama,False
+19772,Dr. Who and the Daleks,science_fiction,science_fiction,True
+25901,Judge Mujrim,action,action,True
+32977,Latitude Zero,science_fiction,science_fiction,True
+16347,Pitch Perfect,comedy,comedy,True
+7667,Sweet Bird of Youth,drama,drama,True
+25871,Shastra,action,action,True
+26713,Tees Maar Khan,action,thriller,False
+20454,Eat the Peach,comedy,drama,False
+25745,Chaand Kaa Tukdaa,action,romance,False
+1012,Second Choice,romance,romance,True
+22881,Once Upon a Time,romance,adventure,False
+13881,Joy Ride,horror,horror,True
+12066,Romeo Is Bleeding,crime,crime,True
+32785,Paisa Vasool,action,action,True
+25351,Faasle,romance,romance,True
+26542,Gumnaam – The Mystery,thriller,horror,False
+6463,Backlash,western,western,True
+4431,Dark Delusion,drama,drama,True
+27003,Riyasat,action,romance,False
+9153,The Hindenburg,thriller,adventure,False
+10020,Star Trek II: The Wrath of Khan,science_fiction,science_fiction,True
+6045,The Black Dakotas,western,western,True
+16991,Tomorrowland,science_fiction,science_fiction,True
+17938,Scare Campaign,horror,horror,True
+1511,Gambling Ship,comedy,crime,False
+15900,The Next Three Days,thriller,crime,False
+8914,Electra Glide in Blue,crime,crime,True
+26991,Kochadaiiyaan,action,action,True
+33557,Goemon,action,action,True
+4618,Blood on the Moon,western,western,True
+668,The Yankee Clipper,adventure,adventure,True
+5006,Streets of Laredo,western,western,True
+32983,Blind Woman's Curse,crime,adventure,False
+18874,Helter Skelter,comedy,comedy,True
+11739,Toy Soldiers,thriller,action,False
+28374,Mumbai Police,thriller,thriller,True
+16580,John Dies at the End,horror,horror,True
+15919,Remember Me,romance,romance,True
+17113,Star Trek Beyond,science_fiction,science_fiction,True
+24798,Do Boond Pani,drama,drama,True
+16130,The Thing,horror,horror,True
+27388,Nooru Janmaku,romance,thriller,False
+2485,You Can't Take It with You,comedy,comedy,True
+14415,The Blue Butterfly,adventure,drama,False
+6418,The Tall Men,western,western,True
+4755,Rope,crime,comedy,False
+12246,The Mask,comedy,crime,False
+13111,The Relic,horror,science_fiction,False
+2458,Spawn of the North,adventure,adventure,True
+12981,Fire Down Below,action,crime,False
+34008,Anak Halal,action,action,True
+12795,Mystery Science Theater 3000: The Movie,science_fiction,science_fiction,True
+8247,The King's Pirate,adventure,adventure,True
+7998,Mister Moses,adventure,adventure,True
+2976,Young Buffalo Bill,western,western,True
+22761,Bride Wars,romance,romance,True
+22150,Snow Cake,drama,drama,True
+6203,Suddenly,crime,western,False
+13652,Frequency,science_fiction,horror,False
+22349,"Gore, Quebec",horror,horror,True
+14301,The Life of David Gale,crime,crime,True
+14164,Swept Away,adventure,drama,False
+28079,Rahasya Police (രഹസ്യപ്പോലീസ്‌),thriller,thriller,True
+5212,Rio Grande Patrol,western,western,True
+2573,Gone with the Wind,drama,romance,False
+20964,Popcorn,comedy,romance,False
+16270,Finding Nemo 3D,adventure,adventure,True
+15334,Shooter,crime,thriller,False
+2947,Texas Rangers Ride Again,western,western,True
+33971,Digimon Adventure tri. Part 5: Coexistence,science_fiction,science_fiction,True
+19141,The Divided Heart,drama,drama,True
+15166,Brotherhood of Blood,horror,horror,True
+19804,Where the Spies Are,thriller,adventure,False
+6491,Canyon River,western,western,True
+13597,The Adventures of Rocky and Bullwinkle,comedy,comedy,True
+9889,The Pursuit of D. B. Cooper,crime,thriller,False
+22462,Restless,romance,romance,True
+28416,Geethaanjali,horror,horror,True
+15400,The Boy in the Striped Pyjamas,drama,horror,False
+15183,Daddy's Little Girls,romance,drama,False
+9489,Gray Lady Down,adventure,science_fiction,False
+22625,"All's Well, Ends Well 2011",romance,comedy,False
+14135,The Rules of Attraction,comedy,comedy,True
+20885,The Descent,horror,horror,True
+8651,Clay Pigeon,action,crime,False
+3777,Double Exposure,crime,comedy,False
+14476,Hotel Rwanda,drama,thriller,False
+7950,Beach Blanket Bingo,comedy,horror,False
+11114,The Abyss,science_fiction,science_fiction,True
+6268,Cult of the Cobra,science_fiction,horror,False
+20395,Heat and Dust,drama,drama,True
+8733,Such Good Friends,comedy,drama,False
+9253,Hot Potato,action,adventure,False
+4687,Inner Sanctum,crime,thriller,False
+31244,Irukku Aana Illai,horror,thriller,False
+15475,Mad Money,crime,crime,True
+920,Fast and Loose,romance,romance,True
+14098,Minority Report,science_fiction,science_fiction,True
+3965,Behind City Lights,drama,romance,False
+12282,Pumpkinhead II: Blood Wings,horror,horror,True
+4906,Hellfire,western,western,True
+14713,The Man,comedy,crime,False
+16032,A Good Old Fashioned Orgy,comedy,romance,False
+24030,Takkar,romance,romance,True
+3930,The Tiger Woman,adventure,adventure,True
+12358,The American President,romance,comedy,False
+30806,Machakaaran,romance,romance,True
+16974,Child 44,thriller,thriller,True
+3242,Alias Boston Blackie,crime,crime,True
+8553,The Honeymoon Killers,crime,comedy,False
+17053,Zootopia,adventure,crime,False
+28498,Mili,drama,romance,False
+7227,Inside the Mafia,crime,crime,True
+28138,Pokkiri Raja ( പോക്കിരിരാജ ),action,action,True
+3589,I Walked with a Zombie,horror,horror,True
+23660,Frozen,romance,drama,False
+17474,Patrick,horror,horror,True
+28859,Double Di Trouble,comedy,comedy,True
+26768,Chatur Singh Two Star,comedy,action,False
+4121,Spellbound,thriller,crime,False
+16081,Monte Carlo,romance,comedy,False
+34312,Incident of the 7th Bamboo Flute,action,crime,False
+8342,More Dead Than Alive,western,western,True
+11495,Pretty Woman,romance,thriller,False
+32758,Khaidi No. 150,action,action,True
+20127,For the Love of Ada,comedy,comedy,True
+3951,The Yellow Rose of Texas,western,western,True
+9926,The Beast Within,horror,horror,True
+16317,Lockout,science_fiction,science_fiction,True
+23864,Resureksyon,horror,horror,True
+25341,Arjun,action,action,True
+24448,Dekh Kabira Roya,comedy,romance,False
+3973,The Body Snatcher,horror,horror,True
+19825,The Fighting Prince of Donegal,adventure,adventure,True
+17192,Get Out,horror,horror,True
+5192,The Outriders,western,western,True
+24707,Gauri,drama,romance,False
+15509,Quarantine,horror,horror,True
+16914,Blackhat,action,action,True
+32751,Dhruva,thriller,action,False
+11292,Sleepaway Camp III: Teenage Wasteland,horror,horror,True
+2343,Angels with Dirty Faces,crime,crime,True
+12227,Knight Rider 2010,action,science_fiction,False
+26495,Jannat,romance,drama,False
+25771,Teesra Kaun?,thriller,thriller,True
+14613,Capote,crime,drama,False
+13626,The Cell,science_fiction,horror,False
+30880,Saamida,action,action,True
+12223,Jimmy Hollywood,comedy,crime,False
+16207,Brake,thriller,thriller,True
+10598,Poltergeist II: The Other Side,science_fiction,horror,False
+24532,Junglee,romance,romance,True
+32481,Vykuntapali,thriller,action,False
+1803,Treasure Island,adventure,adventure,True
+6565,Hot Cars,crime,crime,True
+18170,Michael and Mary,drama,romance,False
+21794,American Nightmare,horror,thriller,False
+4596,Adventures of Gallant Bess,western,comedy,False
+34028,KL Gangster,action,action,True
+14911,Fay Grim,action,drama,False
+9725,The Last Flight of Noah's Ark,adventure,adventure,True
+9924,Basket Case,horror,action,False
+30689,Pachchak Kuthira,action,drama,False
+18079,Claude Duval,adventure,adventure,True
+10488,At Close Range,crime,crime,True
+32865,Human Vapor !The Human Vapor,science_fiction,science_fiction,True
+11003,The Man from Snowy River II,western,adventure,False
+17583,Crocodile Dundee II,adventure,action,False
+15194,Ed Gein: The Butcher of Plainfield,horror,horror,True
+16761,Better Living Through Chemistry,comedy,drama,False
+7564,X-15,adventure,drama,False
+2126,Rhythm on the Range,western,romance,False
+3596,Jane Eyre,drama,drama,True
+419,Uncharted Seas,romance,adventure,False
+26144,Maine Dil Tujhko Diya,action,action,True
+12953,Crowned and Dangerous,thriller,comedy,False
+33265,Princess Mononoke,adventure,horror,False
+30657,Adhu Oru Kana Kaalam,romance,romance,True
+5537,Two Lost Worlds,science_fiction,adventure,False
+34161,Alice's Birthday,science_fiction,science_fiction,True
+23457,A Wicked Ghost,horror,horror,True
+7283,Some Like It Hot,comedy,comedy,True
+12481,A Kid in King Arthur's Court,comedy,adventure,False
+15063,The Sentinel,crime,thriller,False
+28818,Mitti Wajaan Maardi,drama,drama,True
+15984,Battle: Los Angeles,science_fiction,science_fiction,True
+5397,I Can Get It for You Wholesale,romance,romance,True
+33734,Wara no Tate,thriller,thriller,True
+32729,Brahmotsavam,drama,romance,False
+32318,Mantra,thriller,romance,False
+6857,Not of This Earth,science_fiction,science_fiction,True
+6043,Bengal Brigade,adventure,adventure,True
+3085,I'll Wait for You,comedy,crime,False
+14519,Ocean's Twelve,crime,crime,True
+8923,The Friends of Eddie Coyle,crime,crime,True
+23738,Murmur of the Hearts,drama,romance,False
+1833,Barbary Coast,adventure,western,False
+2263,Night Club Scandal,drama,crime,False
+10674,Body Slam,comedy,comedy,True
+28504,You Too Brutus,thriller,romance,False
+4326,So Goes My Love,comedy,romance,False
+26921,Satyagraha,thriller,action,False
+17603,Death In Brunswick,romance,thriller,False
+22042,Leaving Metropolis,drama,romance,False
+6585,The King and Four Queens,western,western,True
+12976,Face/Off,action,crime,False
+9228,Burnt Offerings,horror,horror,True
+1998,Thanks a Million,comedy,comedy,True
+11051,Red Heat,crime,crime,True
+5577,Bela Lugosi Meets a Brooklyn Gorilla,comedy,adventure,False
+22582,Painted Skin,horror,horror,True
+8695,Made for Each Other,romance,romance,True
+20712,East Is East,comedy,adventure,False
+23316,Slickers vs. Killers,thriller,comedy,False
+28488,Ormayundo Ee Mukham,romance,romance,True
+16689,Straight A's,romance,horror,False
+14596,The Amityville Horror,horror,horror,True
+7629,Lolita,comedy,comedy,True
+32384,Boni,action,romance,False
+13710,Pitch Black,science_fiction,science_fiction,True
+32172,Lakshmi Narasimha,action,action,True
+11594,Child's Play 3,horror,horror,True
+25707,Lootere,action,action,True
+1956,One Frightened Night,horror,comedy,False
+33891,GANTZ: O and Morrison Steel: The Greatest Years of My Life,science_fiction,science_fiction,True
+10201,Dreamscape,science_fiction,science_fiction,True
+10885,Alien from L.A.,science_fiction,science_fiction,True
+15890,Marmaduke,action,comedy,False
+5045,The Asphalt Jungle,crime,crime,True
+24770,Jawab,romance,romance,True
+22729,Kung Fu Jungle,thriller,action,False
+23956,Iti Srikanto,romance,romance,True
+19815,Daleks – Invasion Earth: 2150 A.D.,science_fiction,science_fiction,True
+12413,Demon Knight,horror,horror,True
+18927,The Elusive Pimpernel,adventure,thriller,False
+22351,Hit by Lightning,comedy,romance,False
+32146,Okkadu,action,action,True
+8279,The Way West,western,western,True
+20450,Biggles: Adventures in Time,adventure,action,False
+12057,Puppet Master 4,horror,horror,True
+32993,Zatoichi Meets Yojimbo,adventure,western,False
+13553,Speedway Junky,action,drama,False
+5249,Tarzan and the Slave Girl,adventure,adventure,True
+22715,Midnight Hair,thriller,horror,False
+13628,Charlie's Angels,action,thriller,False
+7920,The Strangler,thriller,horror,False
+22815,Bounty Hunters,action,comedy,False
+7415,Tall Story,comedy,romance,False
+19678,Impact,thriller,crime,False
+21988,Sunshine,drama,drama,True
+16336,One for the Money,action,action,True
+26959,Heartless,thriller,drama,False
+7487,Gidget Goes Hawaiian,comedy,comedy,True
+19378,Dracula,horror,horror,True
+8683,Johnny Got His Gun,drama,drama,True
+10707,Ernest Goes to Camp,comedy,drama,False
+20268,The Man Who Fell to Earth,science_fiction,science_fiction,True
+23812,The Strangers,horror,horror,True
+24251,Lutaru Lalna,adventure,action,False
+21408,Star Wars: The Force Unleashed,science_fiction,science_fiction,True
+4291,My Reputation,romance,romance,True
+11799,Freejack,science_fiction,science_fiction,True
+8926,The Golden Voyage of Sinbad,adventure,adventure,True
+4870,Cover Up,crime,crime,True
+13177,Wild America,adventure,adventure,True
+17205,Beauty and the Beast,adventure,horror,False
+16623,Oblivion,science_fiction,science_fiction,True
+9265,Lifeguard,drama,drama,True
+32614,Rowdy,action,action,True
+18431,Jericho,adventure,adventure,True
+20251,Monty Python and the Holy Grail,comedy,adventure,False
+12799,"Our Son, the Matchmaker",comedy,romance,False
+5208,Return of the Frontiersman,western,western,True
+14286,In the Cut,crime,crime,True
+17369,Downsizing,science_fiction,science_fiction,True
+6132,The Law vs. Billy the Kid,western,western,True
+28096,Utharaswayamvaram (ഉത്തരാസ്വയംവരം),romance,romance,True
+28749,Lokmanya Ek Yugpurush,action,drama,False
+30717,Ilavattam,romance,action,False
+25338,Aitbaar,thriller,romance,False
+25937,Duplicate,comedy,action,False
+3609,The Lone Star Trail,western,western,True
+1628,The Affairs of Cellini,comedy,drama,False
+4884,"Edward, My Son",drama,crime,False
+17267,Okja,adventure,science_fiction,False
+4815,Whispering Smith,western,western,True
+6791,The Halliday Brand,western,western,True
+17917,Holding the Man,drama,romance,False
+26369,Dharti Kahe Pukar Ke,drama,action,False
+24241,Toofani Tarzan,adventure,adventure,True
+9744,Night of the Demon,horror,horror,True
+25734,1942: A Love Story,romance,action,False
+31772,Chilipi Krishnudu,romance,action,False
+6120,Jesse James vs. the Daltons,western,western,True
+28499,Picket 43,drama,romance,False
+8234,Hour of the Gun,western,western,True
+6838,Man on the Prowl,crime,horror,False
+11441,Joe Versus the Volcano,romance,romance,True
+20012,The Breaking of Bumbo,comedy,comedy,True
+14355,School of Rock,comedy,comedy,True
+6421,Tarzan's Hidden Jungle,adventure,adventure,True
+25127,Neeyat,drama,action,False
+9655,Star Trek: The Motion Picture,science_fiction,science_fiction,True
+6208,Them!,science_fiction,science_fiction,True
+25130,Ram Balram,action,action,True
+24851,Mere Jeevan Saathi,romance,romance,True
+33134,Vampire Hunter D,horror,horror,True
+7355,Hell Bent for Leather,western,western,True
+16743,Nurse 3D,horror,thriller,False
+254,Ask Father,comedy,comedy,True
+16602,"Lords of Salem, TheThe Lords of Salem",horror,horror,True
+6754,Designing Woman,romance,comedy,False
+6321,Kentucky Rifle,western,western,True
+10805,Raising Arizona,comedy,comedy,True
+5014,Tension,crime,crime,True
+16817,Earth to Echo,science_fiction,science_fiction,True
+3507,Buckskin Frontier,western,western,True
+33878,Kamen Rider Ghost: The 100 Eyecons and Ghost's Fated Moment,science_fiction,science_fiction,True
+25837,Dil Tera Deewana,thriller,action,False
+18970,Green Grow the Rushes,comedy,adventure,False
+11310,To Die For,horror,crime,False
+2700,Trouble in Sundown,western,western,True
+10708,Evil Dead II,horror,horror,True
+21987,Set Me Free (Emporte-moi),drama,drama,True
+14975,Lady in the Water,thriller,science_fiction,False
+17996,Television,drama,drama,True
+22602,Aftershock,drama,romance,False
+16447,Big Ass Spider!,science_fiction,science_fiction,True
+32451,Anagananga Oka Dheerudu,action,action,True
+179,A Modern Musketeer,adventure,western,False
+32385,Current,romance,romance,True
+10431,Rambo: First Blood Part II,action,action,True
+31106,Vettai,action,action,True
+15683,Land of the Lost,adventure,science_fiction,False
+10797,Predator,science_fiction,science_fiction,True
+16486,"Counselor, TheThe Counselor",crime,crime,True
+20577,Bhaji on the Beach,comedy,drama,False
+7232,Jet Over the Atlantic,drama,action,False
+18571,A Window in London,thriller,thriller,True
+5877,Gun Belt,western,western,True
+16489,Dark Skies,horror,horror,True
+9865,The Last Chase,science_fiction,science_fiction,True
+10105,Mr. Mom,comedy,comedy,True
+30927,Kunguma Poovum Konjum Puravum,romance,action,False
+1778,The Scarlet Empress,drama,drama,True
+18777,Mine Own Executioner,drama,romance,False
+24552,Hariyali Aur Rasta,romance,romance,True
+5953,Personal Affair,drama,drama,True
+8748,Vanishing Point,action,action,True
+23470,Violent Cop,action,crime,False
+17590,Warm Nights on a Slow Moving Train,drama,drama,True
+4236,Gallant Bess,western,western,True
+22957,Al-Kit Kat,comedy,drama,False
+8777,Children Shouldn't Play with Dead Things,horror,horror,True
+13823,CQ,science_fiction,comedy,False
+12819,The Rock,action,action,True
+13830,Den,thriller,thriller,True
+23607,Hong Kong Bronx,crime,crime,True
+31103,Rajapattai,action,action,True
+15036,The Prestige,crime,science_fiction,False
+986,Oklahoma Cyclone,western,western,True
+30870,Raman Thediya Seethai,romance,romance,True
+5489,Rodeo King and the Senorita,western,western,True
+4923,Jigsaw,crime,crime,True
+15867,The Kids Are All Right,comedy,romance,False
+7553,A Thunder of Drums,western,western,True
+6914,Tarzan and the Lost Safari,adventure,adventure,True
+13159,Trial and Error,comedy,comedy,True
+9684,Don't Go in the Woods,horror,horror,True
+33740,Enoshima Prism,science_fiction,science_fiction,True
+5661,The Lady Says No,comedy,romance,False
+11528,Spaced Invaders,science_fiction,science_fiction,True
+13816,The Business of Strangers,thriller,thriller,True
+25413,Mohabbat Ki Kasam,action,action,True
+17359,The Shape of Water,horror,science_fiction,False
+23898,Kabuliwala,drama,romance,False
+15594,Berdella[2],horror,thriller,False
+19327,Lady of Vengeance,crime,thriller,False
+5381,Gunplay,western,crime,False
+28060,Moss & Cat,romance,drama,False
+19726,Goldfinger,action,action,True
+13974,Two Can Play That Game,comedy,crime,False
+6589,The Last Wagon,western,western,True
+9463,Convoy,action,comedy,False
+887,The Bat Whispers,horror,crime,False
+11924,Unforgiven,western,western,True
+7999,The Monkey's Uncle,comedy,comedy,True
+31337,Thani Oruvan,thriller,thriller,True
+17003,Max,adventure,action,False
+23643,Rebellion,thriller,action,False
+10179,Blame It on Rio,comedy,romance,False
+25654,Jaagruti,action,action,True
+17212,Ghost in the Shell,science_fiction,science_fiction,True
+7116,The Sheepman,western,western,True
+28880,Once Upon A Time In Amritsar,action,thriller,False
+19176,Murder by Proxy,thriller,comedy,False
+25711,Pardesi,action,crime,False
+1156,Local Boy Makes Good,comedy,comedy,True
+17827,Family Demons,horror,horror,True
+2556,Espionage Agent,drama,thriller,False
+2514,Blue Montana Skies,western,western,True
+11889,Samantha,drama,romance,False
+1095,Corsair,crime,drama,False
+11213,K-9,comedy,action,False
+20926,Once,romance,romance,True
+26454,Manorama Six Feet Under,thriller,thriller,True
+16693,Sweetwater,thriller,western,False
+26996,Machhli Jal Ki Rani Hai,horror,horror,True
+5854,Fair Wind to Java,adventure,adventure,True
+13773,Whatever It Takes,comedy,comedy,True
+621,"Tramp, Tramp, Tramp",comedy,comedy,True
+10225,The Ice Pirates,science_fiction,adventure,False
+22817,Big Fish & Begonia,drama,horror,False
+14517,The Notebook,romance,drama,False
+16431,Apocalypse Earth,science_fiction,science_fiction,True
+6442,The Vanishing American,western,western,True
+8567,The Lady in the Car with Glasses and a Gun,thriller,thriller,True
+15388,Appaloosa,western,western,True
+33600,Kyōfu,horror,horror,True
+11707,Regarding Henry,drama,crime,False
+14524,The Perfect Score,crime,comedy,False
+2833,The House of the Seven Gables,thriller,horror,False
+5930,Mesa of Lost Women,science_fiction,science_fiction,True
+28238,Kadhayile Nayika (കഥയിലെ നായിക),romance,thriller,False
+24047,Josh (2010 film),romance,action,False
+8698,The Mephisto Waltz,horror,crime,False
+1105,Dracula,horror,horror,True
+10358,Enemy Mine,science_fiction,science_fiction,True
+12710,Get on the Bus,drama,drama,True
+10096,Lone Wolf McQuade,action,action,True
+27499,Oggarane,comedy,romance,False
+8151,Tarzan and the Valley of Gold,adventure,adventure,True
+22640,The Flowers of War,drama,adventure,False
+23867,Everyday I Love You,romance,romance,True
+2550,Dodge City,western,western,True
+737,Speedy,comedy,comedy,True
+4497,Killer Dill,crime,crime,True
+7776,Showdown,western,western,True
+21735,Plague,science_fiction,science_fiction,True
+20327,Licensed to Love and Kill,action,action,True
+5452,Oh! Susanna,western,western,True
+14559,The Stepford Wives,science_fiction,comedy,False
+10500,Captain EO,science_fiction,science_fiction,True
+10582,No Mercy,crime,crime,True
+19829,The Great St Trinian's Train Robbery,comedy,comedy,True
+9891,Raiders of the Lost Ark,adventure,adventure,True
+16099,Real Steel,action,science_fiction,False
+10336,Bridge to Terabithia,drama,romance,False
+25337,Adventures of Tarzan,adventure,adventure,True
+20444,Underworld,horror,thriller,False
+20097,Quest for Love,science_fiction,science_fiction,True
+16267,Exit Strategy,romance,romance,True
+20664,Tomorrow Never Dies,action,adventure,False
+14129,The Ring,horror,horror,True
+5922,Man in the Dark,thriller,crime,False
+908,Dancing Sweeties,romance,comedy,False
+7238,The Killer Shrews,science_fiction,horror,False
+5300,As Young as You Feel,comedy,comedy,True
+16553,"Hospital, TheThe Hospital",horror,horror,True
+22783,Mojin: The Lost Legend,adventure,adventure,True
+9182,The Prisoner of Second Avenue,drama,drama,True
+6243,At Gunpoint,western,western,True
+5704,Paula,drama,drama,True
+18990,No Highway in the Sky,drama,science_fiction,False
+8898,Charley Varrick,crime,crime,True
+16960,The Gunman,action,action,True
+14147,Signs,science_fiction,science_fiction,True
+1587,Rafter Romance,romance,comedy,False
+26417,Aggar,thriller,thriller,True
+12592,Waterworld,science_fiction,science_fiction,True
+3876,Nabonga,science_fiction,adventure,False
+17539,Razorback,horror,horror,True
+15605,C Me Dance,thriller,drama,False
+12197,Greedy,comedy,comedy,True
+24440,Patrani,drama,romance,False
+20149,Up the Front,comedy,comedy,True
+8908,Detroit 9000,crime,crime,True
+5019,The Threat,crime,crime,True
+3629,No Time for Love,comedy,science_fiction,False
+15930,Sex and the City 2,romance,romance,True
+32617,Prathinidhi,action,action,True
+10434,Red Sonja,action,adventure,False
+13963,Sweet November,romance,romance,True
+21966,Les Boys II,comedy,comedy,True
+6229,Young at Heart,drama,romance,False
+12194,The Getaway,action,crime,False
+17115,Lights Out,horror,horror,True
+6050,Border River,western,western,True
+8668,Fright,thriller,horror,False
+5899,Jungle Drums of Africa,adventure,adventure,True
+15134,Aliens vs. Predator: Requiem,horror,science_fiction,False
+5907,The Lawless Breed,western,western,True
+11509,RoboCop 2,science_fiction,science_fiction,True
+5559,Affair in Trinidad,crime,crime,True
+19387,Happy Is the Bride,comedy,comedy,True
+13762,Under Suspicion,crime,crime,True
+18687,Medal for the General,comedy,drama,False
+3256,Black Dragons,science_fiction,adventure,False
+10089,The Hunger,horror,horror,True
+22322,The Mortal Instruments: City of Bones,adventure,adventure,True
+11567,29th Street,drama,crime,False
+14374,Timeline,science_fiction,adventure,False
+11485,Night of the Living Dead,horror,horror,True
+9680,Death Watch,science_fiction,horror,False
+14697,King Kong,adventure,adventure,True
+2183,Bulldog Drummond Comes Back,crime,action,False
+33886,Ajin Part 3: Shōgeki,horror,horror,True
+10671,Black Widow,crime,crime,True
+679,The Cavalier,western,romance,False
+98,Rose of the Rancho,western,western,True
+12967,The Edge,thriller,adventure,False
+34136,Dead Daughters,horror,horror,True
+3560,Ghosts on the Loose,horror,comedy,False
+28318,Puthiya Theerangal (പുതിയ തീരങ്ങൾ),romance,drama,False
+14656,Frankenstein vs. the Creature from Blood Cove,horror,horror,True
+7418,This Rebel Breed,crime,action,False
+25540,Aaj Ka Arjun,action,drama,False
+16978,True Story,drama,crime,False
+10936,Dangerous Curves,comedy,comedy,True
+6648,The Searchers,western,western,True
+27402,Boss,action,action,True
+18010,71 er Shongram,romance,thriller,False
+22291,Antiviral,horror,science_fiction,False
+11872,Prom Night IV: Deliver Us from Evil,horror,horror,True
+8658,Doc,western,western,True
+32223,Athanokkade,action,action,True
+5579,Bend of the River,western,western,True
+24703,Baharon Ki Manzil,drama,romance,False
+1010,Scarlet Pages,crime,crime,True
+32634,Power,action,action,True
+10191,Cannonball Run II,comedy,action,False
+12264,The Next Karate Kid,action,action,True
+24700,Aankhen,thriller,action,False
+23674,3D Sex and Zen: Extreme Ecstasy,drama,drama,True
+500,The Iron Horse,western,comedy,False
+16929,Project Almanac,thriller,science_fiction,False
+6435,The Treasure of Pancho Villa,western,western,True
+33530,K-20: Legend of the Mask,action,adventure,False
+2736,Arizona,western,western,True
+28553,Style,romance,romance,True
+16394,Total Recall,science_fiction,science_fiction,True
+8081,Duel at Diablo,western,western,True
+7270,Return of the Fly,science_fiction,horror,False
+5973,Salome,drama,adventure,False
+4984,Riders of the Whistling Pines,western,western,True
+7531,Portrait of a Mobster,crime,crime,True
+15985,Beastly,romance,romance,True
+8425,Changes,drama,drama,True
+32730,A Aa,romance,romance,True
+24094,3 Kanya,thriller,thriller,True
+11535,Taking Care of Business,comedy,comedy,True
+2945,Tear Gas Squad,crime,comedy,False
+3090,Invisible Ghost,horror,crime,False
+3514,China,drama,action,False
+12176,Disclosure,thriller,thriller,True
+2452,The Shopworn Angel,drama,romance,False
+25093,Saanch Ko Aanch Nahin,drama,romance,False
+17048,Risen,adventure,adventure,True
+131,"20,000 Leagues Under the Sea",adventure,adventure,True
+16631,Pain & Gain,crime,crime,True
+5245,Sunset Boulevard,crime,comedy,False
+15652,The Hole,thriller,horror,False
+23411,"Dr. Wai in ""The Scripture with No Words""",adventure,adventure,True
+24529,Hum Dono,romance,romance,True
+11494,Presumed Innocent,crime,crime,True
+33565,Saikin-rettou,comedy,horror,False
+16503,Erased,thriller,action,False
+22774,Agent F.O.X.,adventure,comedy,False
+33547,20th Century Boys 3: Redemption,science_fiction,science_fiction,True
+25444,Inaam Dus Hazaar,action,action,True
+5632,Hangman's Knot,western,western,True
+14649,The Exorcism of Emily Rose,horror,horror,True
+4544,Repeat Performance,crime,romance,False
+14006,Big Trouble,crime,crime,True
+20380,The Scarlet Pimpernel,drama,adventure,False
+28431,Naayak,action,action,True
+6859,The Oklahoman,western,western,True
+1773,Randy Rides Alone,western,western,True
+9917,48 Hrs.,crime,crime,True
+8747,Valdez Is Coming,western,western,True
+13176,What the Deaf Man Heard,drama,crime,False
+7287,A Summer Place,drama,drama,True
+19790,Operation Crossbow,thriller,drama,False
+4280,Lover Come Back,comedy,drama,False
+9487,Goin' South,comedy,western,False
+17775,Like Minds,horror,horror,True
+1109,East of Borneo,adventure,adventure,True
+17937,Red Billabong,thriller,comedy,False
+32618,Anaamika,thriller,thriller,True
+14291,The Italian Job,action,action,True
+20851,Dead Man's Shoes,thriller,horror,False
+16810,Obvious Child,romance,drama,False
+16784,Brick Mansions,action,action,True
+32734,Nayaki,horror,horror,True
+14576,The Village,thriller,horror,False
+14424,Catch That Kid,crime,drama,False
+437,Moran of the Lady Letty,adventure,adventure,True
+26521,Tahaan,adventure,comedy,False
+11462,Men at Work,comedy,comedy,True
+18694,This Happy Breed,drama,comedy,False
+26227,Samay: When Time Strikes,thriller,thriller,True
+18569,Three Silent Men,crime,drama,False
+28703,Kaksparsh[10],romance,romance,True
+28533,Life of Josutty,romance,romance,True
+15723,A Perfect Getaway,thriller,thriller,True
+4507,The Long Night,crime,crime,True
+7849,First Men in the Moon,science_fiction,science_fiction,True
+22126,Sabah,romance,drama,False
+11878,Raising Cain,thriller,horror,False
+18880,Kind Hearts and Coronets,comedy,drama,False
+10947,The Drifter,thriller,horror,False
+25143,Dahshat,horror,horror,True
+9637,Penitentiary,action,crime,False
+32076,Chitram,romance,drama,False
+15770,Whiteout,thriller,adventure,False
+24017,Mr. Funtoosh,romance,action,False
+18633,The Young Mr Pitt,drama,adventure,False
+23450,Purple Storm,science_fiction,action,False
+5543,Vengeance Valley,western,western,True
+15751,The Taking of Pelham 123,action,crime,False
+25997,Kachche Dhaage,romance,action,False
+11467,Metamorphosis: The Alien Factor,science_fiction,science_fiction,True
+6615,On the Threshold of Space,science_fiction,science_fiction,True
+9539,Silent Partner,crime,thriller,False
+19120,The Wedding of Lilli Marlene,drama,comedy,False
+31679,Manase Mandiram,drama,drama,True
