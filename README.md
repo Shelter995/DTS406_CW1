@@ -2,16 +2,16 @@
 
 ## Project Overview
 
-This project is a document topic classification coursework project. The task is to classify movie texts into unified movie genre labels using two different datasets:
+This project is a document topic classification coursework project. It classifies movie texts into unified movie genre labels using two datasets:
 
-- **IMDb Genre Classification Dataset**: short movie plot summaries with strong promotional and emotional wording.
+- **IMDb Genre Classification Dataset**: short movie plot summaries with promotional and emotional wording.
 - **Wikipedia Movie Plots**: long movie plot descriptions with more factual and narrative writing.
 
-Both datasets are cleaned and mapped into the same 11 labels:
+Both datasets are cleaned and mapped into the same 10 labels:
 
 ```text
 drama, comedy, horror, action, thriller, romance, western,
-crime, adventure, musical, science_fiction
+crime, adventure, science_fiction
 ```
 
 The final four models are:
@@ -35,10 +35,12 @@ DTS406/
 ├── experiments/
 │   ├── traditinal/
 │   ├── deep_learning/
-│   └── build_model_comparison.py
+│   ├── build_model_comparison.py
+│   └── plot_figures.py
 ├── outputs/
-│   ├── tables/
-│   └── results/
+│   ├── figures/
+│   ├── results/
+│   └── tables/
 ├── utils/
 │   ├── preprocess_datasets.py
 │   └── analyze_processed_datasets.py
@@ -55,6 +57,7 @@ Core dependencies:
 
 - `nltk`
 - `scikit-learn`
+- `matplotlib`
 - `torch==2.12.0+cu126`
 
 Install or sync dependencies:
@@ -90,7 +93,7 @@ Generate dataset statistics:
 uv run python utils\analyze_processed_datasets.py
 ```
 
-This generates tables under:
+This writes tables under:
 
 ```text
 outputs/tables/
@@ -134,18 +137,30 @@ Final comparison table:
 outputs/results/model_comparison.csv
 ```
 
+## Generate Figures
+
+```powershell
+uv run python experiments\plot_figures.py
+```
+
+Figure outputs:
+
+```text
+outputs/figures/
+```
+
 ## Current Results
 
 | Dataset | Model | Accuracy | Macro Precision | Macro Recall | Macro F1 |
-|---|---:|---:|---:|---:|---:|
-| IMDb | Naive Bayes | 0.5649 | 0.5905 | 0.5485 | 0.5404 |
-| IMDb | Linear SVM | 0.5673 | 0.5623 | 0.5709 | 0.5648 |
-| IMDb | TextCNN | 0.5441 | 0.5478 | 0.5471 | 0.5334 |
-| IMDb | TF-IDF MLP | 0.5682 | 0.5831 | 0.5677 | 0.5706 |
-| Wikipedia | Naive Bayes | 0.5390 | 0.5766 | 0.5221 | 0.4991 |
-| Wikipedia | Linear SVM | 0.5965 | 0.5890 | 0.6051 | 0.5944 |
-| Wikipedia | TextCNN | 0.5270 | 0.5516 | 0.5302 | 0.5248 |
-| Wikipedia | TF-IDF MLP | 0.5792 | 0.5831 | 0.5871 | 0.5812 |
+|---|---|---:|---:|---:|---:|
+| IMDb | Naive Bayes | 0.5935 | 0.5952 | 0.5935 | 0.5864 |
+| IMDb | Linear SVM | 0.5925 | 0.5870 | 0.5925 | 0.5878 |
+| IMDb | TextCNN | 0.5410 | 0.5437 | 0.5410 | 0.5377 |
+| IMDb | TF-IDF MLP | 0.5885 | 0.5956 | 0.5885 | 0.5849 |
+| Wikipedia | Naive Bayes | 0.5757 | 0.5832 | 0.5776 | 0.5629 |
+| Wikipedia | Linear SVM | 0.5836 | 0.5818 | 0.5889 | 0.5834 |
+| Wikipedia | TextCNN | 0.5450 | 0.5703 | 0.5512 | 0.5491 |
+| Wikipedia | TF-IDF MLP | 0.5872 | 0.5903 | 0.5930 | 0.5895 |
 
 ## Report
 

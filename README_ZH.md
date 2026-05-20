@@ -2,16 +2,16 @@
 
 ## 项目简介
 
-本项目是 DTS406 文档主题分类课程作业。任务是使用两个不同场景的电影文本数据集进行电影类型分类：
+本项目是 DTS406 文档主题分类课程作业。任务是使用两个电影文本数据集，将电影文本分类到统一的电影类型标签中：
 
-- **IMDb Genre Classification Dataset**：短电影简介，文本较短，宣传性和情绪色彩较强。
-- **Wikipedia Movie Plots**：长电影剧情，文本更详细，叙事风格更客观。
+- **IMDb Genre Classification Dataset**：较短的电影简介，文本更偏宣传语，情绪色彩较强。
+- **Wikipedia Movie Plots**：较长的电影剧情介绍，文本更详细，也更接近客观叙事。
 
-两个数据集被统一映射到相同的 11 个电影类型标签：
+两个数据集被清洗并统一映射到相同的 10 个标签：
 
 ```text
 drama, comedy, horror, action, thriller, romance, western,
-crime, adventure, musical, science_fiction
+crime, adventure, science_fiction
 ```
 
 最终比较的四个模型是：
@@ -35,10 +35,12 @@ DTS406/
 ├── experiments/
 │   ├── traditinal/
 │   ├── deep_learning/
-│   └── build_model_comparison.py
+│   ├── build_model_comparison.py
+│   └── plot_figures.py
 ├── outputs/
-│   ├── tables/
-│   └── results/
+│   ├── figures/
+│   ├── results/
+│   └── tables/
 ├── utils/
 │   ├── preprocess_datasets.py
 │   └── analyze_processed_datasets.py
@@ -55,6 +57,7 @@ DTS406/
 
 - `nltk`
 - `scikit-learn`
+- `matplotlib`
 - `torch==2.12.0+cu126`
 
 同步依赖：
@@ -77,7 +80,7 @@ uv run python -m nltk.downloader punkt punkt_tab stopwords wordnet omw-1.4
 uv run python utils\preprocess_datasets.py
 ```
 
-生成：
+生成文件：
 
 ```text
 data/processed/imdb_cleaned.csv
@@ -90,7 +93,7 @@ data/processed/wiki_cleaned.csv
 uv run python utils\analyze_processed_datasets.py
 ```
 
-统计表会输出到：
+统计表输出到：
 
 ```text
 outputs/tables/
@@ -134,22 +137,34 @@ uv run python experiments\build_model_comparison.py
 outputs/results/model_comparison.csv
 ```
 
+## 生成图表
+
+```powershell
+uv run python experiments\plot_figures.py
+```
+
+图片输出到：
+
+```text
+outputs/figures/
+```
+
 ## 当前实验结果
 
 | 数据集 | 模型 | Accuracy | Macro Precision | Macro Recall | Macro F1 |
-|---|---:|---:|---:|---:|---:|
-| IMDb | Naive Bayes | 0.5649 | 0.5905 | 0.5485 | 0.5404 |
-| IMDb | Linear SVM | 0.5673 | 0.5623 | 0.5709 | 0.5648 |
-| IMDb | TextCNN | 0.5441 | 0.5478 | 0.5471 | 0.5334 |
-| IMDb | TF-IDF MLP | 0.5682 | 0.5831 | 0.5677 | 0.5706 |
-| Wikipedia | Naive Bayes | 0.5390 | 0.5766 | 0.5221 | 0.4991 |
-| Wikipedia | Linear SVM | 0.5965 | 0.5890 | 0.6051 | 0.5944 |
-| Wikipedia | TextCNN | 0.5270 | 0.5516 | 0.5302 | 0.5248 |
-| Wikipedia | TF-IDF MLP | 0.5792 | 0.5831 | 0.5871 | 0.5812 |
+|---|---|---:|---:|---:|---:|
+| IMDb | Naive Bayes | 0.5935 | 0.5952 | 0.5935 | 0.5864 |
+| IMDb | Linear SVM | 0.5925 | 0.5870 | 0.5925 | 0.5878 |
+| IMDb | TextCNN | 0.5410 | 0.5437 | 0.5410 | 0.5377 |
+| IMDb | TF-IDF MLP | 0.5885 | 0.5956 | 0.5885 | 0.5849 |
+| Wikipedia | Naive Bayes | 0.5757 | 0.5832 | 0.5776 | 0.5629 |
+| Wikipedia | Linear SVM | 0.5836 | 0.5818 | 0.5889 | 0.5834 |
+| Wikipedia | TextCNN | 0.5450 | 0.5703 | 0.5512 | 0.5491 |
+| Wikipedia | TF-IDF MLP | 0.5872 | 0.5903 | 0.5930 | 0.5895 |
 
 ## 报告
 
-LaTeX 报告文件在：
+LaTeX 报告文件：
 
 ```text
 docs/main.tex
