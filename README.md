@@ -5,7 +5,9 @@
 This project is a document topic classification coursework project. It classifies movie texts into unified movie genre labels using two datasets:
 
 - **IMDb Genre Classification Dataset**: short movie plot summaries with promotional and emotional wording.
+- Link:https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
 - **Wikipedia Movie Plots**: long movie plot descriptions with more factual and narrative writing.
+- Link:https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots
 
 Both datasets are cleaned and mapped into the same 10 labels:
 
